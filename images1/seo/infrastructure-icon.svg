@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.998" height="59.998" viewBox="0 0 59.998 59.998">
+  <g id="infrastructure-icon" transform="translate(2505 14915)">
+    <g id="Group_2244" data-name="Group 2244" transform="translate(-2505 -14915)">
+      <g id="Group_2241" data-name="Group 2241" transform="translate(0)">
+        <g id="Group_2230" data-name="Group 2230" transform="translate(7.5 4.999)">
+          <g id="Group_2229" data-name="Group 2229">
+            <path id="Path_5470" data-name="Path 5470" d="M55,63H10V8H55ZM12.5,60.5h40v-50h-40Z" transform="translate(-10 -8)" fill="#09c688"/>
+          </g>
+        </g>
+        <g id="Group_2232" data-name="Group 2232">
+          <g id="Group_2231" data-name="Group 2231">
+            <path id="Path_5471" data-name="Path 5471" d="M60.248,11.5H7.75a3.75,3.75,0,0,1,0-7.5h52.5a3.75,3.75,0,0,1,0,7.5Zm-52.5-5a1.25,1.25,0,0,0,0,2.5h52.5a1.25,1.25,0,0,0,0-2.5Z" transform="translate(-4 -4)" fill="#09c688"/>
+          </g>
+        </g>
+        <g id="Group_2234" data-name="Group 2234" transform="translate(13.749 10)">
+          <g id="Group_2233" data-name="Group 2233">
+            <path id="Path_5472" data-name="Path 5472" d="M27.5,24.5H15V12H27.5ZM17.5,22H25V14.5H17.5Z" transform="translate(-15 -12)" fill="#09c688"/>
+          </g>
+        </g>
+        <g id="Group_2236" data-name="Group 2236" transform="translate(33.749 10)">
+          <g id="Group_2235" data-name="Group 2235">
+            <path id="Path_5473" data-name="Path 5473" d="M43.5,24.5H31V12H43.5ZM33.5,22H41V14.5H33.5Z" transform="translate(-31 -12)" fill="#09c688"/>
+          </g>
+        </g>
+        <g id="Group_2238" data-name="Group 2238" transform="translate(13.75 26.249)">
+          <g id="Group_2237" data-name="Group 2237">
+            <path id="Path_5474" data-name="Path 5474" d="M27.5,37.5H15V25H27.5ZM17.5,35H25V27.5H17.5Z" transform="translate(-15 -25)" fill="#09c688"/>
+          </g>
+        </g>
+        <g id="Group_2240" data-name="Group 2240" transform="translate(33.749 26.249)">
+          <g id="Group_2239" data-name="Group 2239">
+            <path id="Path_5475" data-name="Path 5475" d="M43.5,37.5H31V25H43.5ZM33.5,35H41V27.5H33.5Z" transform="translate(-31 -25)" fill="#09c688"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2243" data-name="Group 2243" transform="translate(22.499 41.249)">
+        <g id="Group_2242" data-name="Group 2242">
+          <path id="Path_5476" data-name="Path 5476" d="M35.75,55.749h-12.5A1.25,1.25,0,0,1,22,54.5V38.25A1.25,1.25,0,0,1,23.251,37h12.5A1.25,1.25,0,0,1,37,38.25V54.5A1.25,1.25,0,0,1,35.75,55.749Zm-11.25-2.5h10V39.5h-10V53.25Z" transform="translate(-22 -37)" fill="#09c688"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
