@@ -63,6 +63,50 @@
               </ul>
             </div>
           </div>
+          <div class="col-md-12 mt-4 pt-3" style="border-top: 1px solid rgba(255,255,255,0.1);">
+              <span class="d-block mb-3" style="font-size: 18px; font-weight: 600;">Our Serving Locations</span>
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="dropdown">
+                    <button class="btn btn-outline-primary dropdown-toggle w-100 text-left" type="button" id="locationsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:#fff; border-color: rgba(255,255,255,0.2);">
+                      Select Location
+                    </button>
+                    <div class="dropdown-menu w-100" aria-labelledby="locationsDropdown" style="max-height: 250px; overflow-y: auto; background-color: #222;">
+                      <a class="dropdown-item text-white" href="seo-company-in-andhra-pradesh">SEO Company in Andhra Pradesh</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-arunachal-pradesh">SEO Company in Arunachal Pradesh</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-assam">SEO Company in Assam</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-bihar">SEO Company in Bihar</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-chhattisgarh">SEO Company in Chhattisgarh</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-goa">SEO Company in Goa</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-gujarat">SEO Company in Gujarat</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-haryana">SEO Company in Haryana</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-himachal-pradesh">SEO Company in Himachal Pradesh</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-jharkhand">SEO Company in Jharkhand</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-karnataka">SEO Company in Karnataka</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-kerala">SEO Company in Kerala</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-madhya-pradesh">SEO Company in Madhya Pradesh</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-maharashtra">SEO Company in Maharashtra</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-manipur">SEO Company in Manipur</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-meghalaya">SEO Company in Meghalaya</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-mizoram">SEO Company in Mizoram</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-nagaland">SEO Company in Nagaland</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-odisha">SEO Company in Odisha</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-punjab">SEO Company in Punjab</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-rajasthan">SEO Company in Rajasthan</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-sikkim">SEO Company in Sikkim</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-tamil-nadu">SEO Company in Tamil Nadu</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-telangana">SEO Company in Telangana</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-tripura">SEO Company in Tripura</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-uttar-pradesh">SEO Company in Uttar Pradesh</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-uttarakhand">SEO Company in Uttarakhand</a>
+                      <a class="dropdown-item text-white" href="seo-company-in-west-bengal">SEO Company in West Bengal</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 mt-4 pt-3"><span class="d-block mb-3 text-white" style="font-size: 18px; font-weight: 600;">Our Serving Locations</span><div class="row"><div class="col-md-12"><div class="dropdown"><button class="btn btn-outline-primary dropdown-toggle w-100 text-left" type="button" id="locationsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color:#fff; border-color: rgba(255,255,255,0.2);">Select Location</button><div class="dropdown-menu w-100" aria-labelledby="locationsDropdown" style="max-height: 250px; overflow-y: auto; background-color: #222;"><a class="dropdown-item text-white" href="seo-company-in-andhra-pradesh">SEO Company in Andhra Pradesh</a><a class="dropdown-item text-white" href="seo-company-in-arunachal-pradesh">SEO Company in Arunachal Pradesh</a><a class="dropdown-item text-white" href="seo-company-in-assam">SEO Company in Assam</a><a class="dropdown-item text-white" href="seo-company-in-bihar">SEO Company in Bihar</a><a class="dropdown-item text-white" href="seo-company-in-chhattisgarh">SEO Company in Chhattisgarh</a><a class="dropdown-item text-white" href="seo-company-in-goa">SEO Company in Goa</a><a class="dropdown-item text-white" href="seo-company-in-gujarat">SEO Company in Gujarat</a><a class="dropdown-item text-white" href="seo-company-in-haryana">SEO Company in Haryana</a><a class="dropdown-item text-white" href="seo-company-in-himachal-pradesh">SEO Company in Himachal Pradesh</a><a class="dropdown-item text-white" href="seo-company-in-jharkhand">SEO Company in Jharkhand</a><a class="dropdown-item text-white" href="seo-company-in-karnataka">SEO Company in Karnataka</a><a class="dropdown-item text-white" href="seo-company-in-kerala">SEO Company in Kerala</a><a class="dropdown-item text-white" href="seo-company-in-madhya-pradesh">SEO Company in Madhya Pradesh</a><a class="dropdown-item text-white" href="seo-company-in-maharashtra">SEO Company in Maharashtra</a><a class="dropdown-item text-white" href="seo-company-in-manipur">SEO Company in Manipur</a><a class="dropdown-item text-white" href="seo-company-in-meghalaya">SEO Company in Meghalaya</a><a class="dropdown-item text-white" href="seo-company-in-mizoram">SEO Company in Mizoram</a><a class="dropdown-item text-white" href="seo-company-in-nagaland">SEO Company in Nagaland</a><a class="dropdown-item text-white" href="seo-company-in-odisha">SEO Company in Odisha</a><a class="dropdown-item text-white" href="seo-company-in-punjab">SEO Company in Punjab</a><a class="dropdown-item text-white" href="seo-company-in-rajasthan">SEO Company in Rajasthan</a><a class="dropdown-item text-white" href="seo-company-in-sikkim">SEO Company in Sikkim</a><a class="dropdown-item text-white" href="seo-company-in-tamil-nadu">SEO Company in Tamil Nadu</a><a class="dropdown-item text-white" href="seo-company-in-telangana">SEO Company in Telangana</a><a class="dropdown-item text-white" href="seo-company-in-tripura">SEO Company in Tripura</a><a class="dropdown-item text-white" href="seo-company-in-uttar-pradesh">SEO Company in Uttar Pradesh</a><a class="dropdown-item text-white" href="seo-company-in-uttarakhand">SEO Company in Uttarakhand</a><a class="dropdown-item text-white" href="seo-company-in-west-bengal">SEO Company in West Bengal</a></div></div></div></div></div>
           <div class="copyright">
             <div class="row">
               <div class="col-md-8">
