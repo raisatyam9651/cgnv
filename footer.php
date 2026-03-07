@@ -1,18 +1,34 @@
-<footer class="bottom">
+﻿<footer class="bottom">
         <div class="container">
           <div class="row">
-            <div class="col-md-6 col-lg-3 pb-md-0 pb-4">
+            <div class="col-md-12 col-lg-5 pb-md-4 pb-4">
               <span>Services</span>
-              <ul>
-			    <li><a href="#">SEO Services</a></li>
-                <li><a href="#">Guest Posting Services</a></li>
-                <li><a href="google-ads-services">Google Ads Services</a></li>
-                <li><a href="#">Social Media Services</a></li>
-				<li><a href="#">Digital Marketing Consultant</a></li>
-				<li><a href="ppc-services">PPC Services</a></li>
-              </ul>
+              <div class="row">
+                <div class="col-sm-6">
+                  <ul class="mb-0">
+                    <li><a href="best-seo-company-in-india">SEO Services</a></li>
+                    <li><a href="local-seo">Local SEO</a></li>
+                    <li><a href="ecommerce-seo">E-commerce SEO</a></li>
+                    <li><a href="content-marketing">Content Marketing</a></li>
+                    <li><a href="google-ads-services">Google Ads Services</a></li>
+                    <li><a href="ppc-services">PPC Services</a></li>
+                    <li><a href="social-media-marketing">Social Media Marketing</a></li>
+                  </ul>
+                </div>
+                <div class="col-sm-6">
+                  <ul>
+                    <li><a href="facebook-instagram-ads">Meta Ads Management</a></li>
+                    <li><a href="youtube-marketing">YouTube Marketing</a></li>
+                    <li><a href="web-development">Web Development</a></li>
+                    <li><a href="ui-ux-design">UI/UX Design</a></li>
+                    <li><a href="landing-page-design">Landing Page Design</a></li>
+                    <li><a href="creative-services">Creative Services</a></li>
+                    <li><a href="video-editing">Video Editing</a></li>
+                  </ul>
+                </div>
+              </div>
             </div>
-            <div class="col-md-6 col-lg-3 pb-md-0 pb-4">
+            <div class="col-md-6 col-lg-2 pb-md-0 pb-4">
               <span>Company</span>
               <ul>
                 <li><a href="about-us">About Us</a></li>                
@@ -20,7 +36,7 @@
 				<li><a href="contact-us">Get a Quote</a></li>
               </ul>
             </div>
-            <div class="col-md-6 col-lg-3 pb-md-0 pb-4 pt-lg-0 pt-3">
+            <div class="col-md-6 col-lg-2 pb-md-0 pb-4 pt-lg-0 pt-3">
               <span>Need more Info</span>
               <ul>
                 <li><a href="#" class="disabled-link">Blog </a></li>
