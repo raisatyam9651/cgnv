@@ -30,10 +30,10 @@
              <div class="content pr-5" data-aos="fade-right" data-aos-delay="400">
 			  <h1 class="inner-banner-head">Looking for Profitable Facebook & Instagram Ads?</h1>
                 <h2 class="white-text" data-aos="fade-right">
-                  Your Ads, Our Expertise, Guaranteed Results. We Paint the Picture of Success.
+                  Your Audience, Our Targeting, Explosive Growth. We Maximize Your Meta Ad Spend.
                 </h2>
                 <p class="white-text" data-aos="fade-right">
-                  Let's turn clicks into customers and investments into returns.
+                  Let's turn social scrollers into eager buyers and scale your campaigns profitably.
                 </p>
                 <div class="" data-aos="fade-right" data-aos-duration="1000">
                  <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn mt-3 blue-btn">Connect with Expert</a>
