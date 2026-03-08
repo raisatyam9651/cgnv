@@ -300,4 +300,4 @@
     </div>
   </div>
   
-	<div class="whatsapp_call d-block "> <a href="https://api.whatsapp.com/send?phone=+917737861358&text=I want connect with you." rel="nofollow" onclick="dataLayer.push({'event': 'whatsapp-click'});"><img src="images/whatsapp-icon.png" alt=""> </a>  </div>
+	<div class="whatsapp_call d-block "> <a href="https://api.whatsapp.com/send?phone=+917737861358&text=I want connect with you." rel="nofollow" onclick="dataLayer.push({'event': 'whatsapp-click'});"><img loading="lazy" src="images/whatsapp-icon.png" alt=""> </a>  </div>

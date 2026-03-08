@@ -44,7 +44,7 @@
     <div id="smooth-content">
 	    <section class="banner-sec" style="padding-bottom:80px">
             <div class="top-banner-img">
-              <img src="images/banner.webp" alt="">
+              <img loading="lazy" src="images/banner.webp" alt="">
             </div>
             <?php include('header.php'); ?>
             

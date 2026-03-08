@@ -1,7 +1,7 @@
 <header class="header">
           <div class="header-item item-left">
             <div class="logo">
-              <a href="index"><img src="images/Our/logo/cognivic-logo.png" alt="" style="width: 170px;" /></a>
+              <a href="index"><img loading="lazy" src="images/Our/logo/cognivic-logo.png" alt="" style="width: 170px;" /></a>
             </div>
           </div>
 			  
@@ -26,7 +26,7 @@
                         <li>
                           <a href="best-seo-company-in-india">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon1.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon1.svg" alt="" />
                             </div>
                             <div class="list-txt">
                               <p class="black-text menu-head">SEO Services</p>
@@ -37,7 +37,7 @@
                         <li>
                           <a href="local-seo">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon2.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon2.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Local SEO</p>
@@ -48,7 +48,7 @@
                         <li>
                           <a href="ecommerce-seo">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon3.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon3.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">E-commerce SEO</p>
@@ -59,7 +59,7 @@
                         <li>
                           <a href="content-marketing">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon1.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon1.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Content Marketing</p>
@@ -69,7 +69,7 @@
                         </li>
                       </ul>
                       <div class="menu-right-img">
-                        <img src="images/menu-icon/organic-marketing.webp" alt="" />
+                        <img loading="lazy" src="images/menu-icon/organic-marketing.webp" alt="" />
                       </div>
                     </div>
                   </div>
@@ -82,7 +82,7 @@
                         <li>
                           <a href="google-ads-services">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon1.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon1.svg" alt="" />
                             </div>
                             <div class="list-txt">
                               <p class="black-text menu-head">Google Ads Services</p>
@@ -93,7 +93,7 @@
                         <li>
                           <a href="ppc-services">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon3.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon3.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">PPC Services</p>
@@ -104,7 +104,7 @@
                         <li>
                           <a href="social-media-marketing">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon2.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon2.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Social Media Marketing</p>
@@ -115,7 +115,7 @@
                         <li>
                           <a href="facebook-instagram-ads">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon1.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon1.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Meta Ads Management</p>
@@ -126,7 +126,7 @@
                         <li>
                           <a href="youtube-marketing">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon2.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon2.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">YouTube Marketing</p>
@@ -136,7 +136,7 @@
                         </li>
                       </ul>
                       <div class="menu-right-img">
-                        <img src="images/menu-icon/performance-marketing.webp" alt="" />
+                        <img loading="lazy" src="images/menu-icon/performance-marketing.webp" alt="" />
                       </div>
                     </div>
                   </div>
@@ -149,7 +149,7 @@
                         <li>
                           <a href="web-development">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon1.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon1.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Web Development</p>
@@ -160,7 +160,7 @@
                         <li>
                           <a href="ui-ux-design">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon2.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon2.svg" alt="" />
                             </div>
                             <div class="list-txt">
                               <p class="black-text menu-head">UI/UX Design</p>
@@ -171,7 +171,7 @@
                         <li>
                           <a href="landing-page-design">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon3.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon3.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Landing Page Design</p>
@@ -182,7 +182,7 @@
                         <li>
                           <a href="creative-services">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon1.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon1.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Creative Services</p>
@@ -193,7 +193,7 @@
                         <li>
                           <a href="video-editing">
                             <div class="menu-list-icon">
-                              <img src="images/menu-icon/icon2.svg" alt="" />
+                              <img loading="lazy" src="images/menu-icon/icon2.svg" alt="" />
                             </div>
                             <div class="list-txt">
                              <p class="black-text menu-head">Video Editing</p>
@@ -203,7 +203,7 @@
                         </li>
                       </ul>
                       <div class="menu-right-img">
-                        <img src="images/menu-icon/lead-generation.webp" alt="" />
+                        <img loading="lazy" src="images/menu-icon/lead-generation.webp" alt="" />
                       </div>
                     </div>
                   </div>
@@ -214,7 +214,7 @@
                 </li>
                 <li class="d-mob-none">
                   <a href="tel:7737861358" class="top-phone">
-                    <img src="images/phone.svg" width="23" />
+                    <img alt="Header 2 graphic" loading="lazy" src="images/phone.svg" width="23" />
                   </a>
                 </li>
                 <li>
@@ -229,7 +229,7 @@
           <div class="mobile-top">
             <div class="mob-phone d-lg-none d-block mr-2">
               <a href="tel:7737861358" onclick="dataLayer.push({'event': 'call-click'});" class="top-phone">
-                <img src="images/phone.svg" width="23">
+                <img alt="Header 2 graphic" loading="lazy" src="images/phone.svg" width="23">
               </a>
             </div>
             <div class="mobile-menu-trigger">

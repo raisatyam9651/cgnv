@@ -33,7 +33,7 @@
               </div>
               <div class="col-md-5 p-0">
                 <div class="right-img" data-aos="zoom-in">
-                  <img src="images/about-us/about-home.webp" alt="" class="w-100 animtate-x" />
+                  <img loading="lazy" src="images/about-us/about-home.webp" alt="" class="w-100 animtate-x" />
                 </div>
               </div>
             </div>
@@ -46,9 +46,9 @@
           <div class="row">
             <div class="col-md-5 col-xl-5">
               <div class="leftimg" data-aos="fade">
-                <img src="images/about-us/woman-showing.webp" alt="" class="w-100" />
+                <img loading="lazy" src="images/about-us/woman-showing.webp" alt="" class="w-100" />
                 <div class="pie-img">
-                  <img src="images/pie.html" alt="" data-aos="zoom-in" />
+                  <img loading="lazy" src="images/pie.html" alt="" data-aos="zoom-in" />
                 </div>
               </div>
             </div>
@@ -109,7 +109,7 @@
                 </div>
               </div>
               <div class="accordion-image">
-                <img src="images/mission.webp" />
+                <img alt="About Us graphic" loading="lazy" src="images/mission.webp" />
               </div>
             </div>
             <div class="accordion-slides-item">
@@ -131,7 +131,7 @@
                 </div>
               </div>
               <div class="accordion-image show">
-                <img src="images/vision.webp" />
+                <img alt="About Us graphic" loading="lazy" src="images/vision.webp" />
               </div>
             </div>
             <div class="accordion-slides-item">
@@ -154,7 +154,7 @@
                 </div>
               </div>
               <div class="accordion-image">
-                <img src="images/value.webp" />
+                <img alt="About Us graphic" loading="lazy" src="images/value.webp" />
               </div>
             </div>
           </div>

@@ -77,51 +77,51 @@
               <div class="owl-carousel owl-theme top-client-bar">
 			     
 			     <div class="item">
-                  <a href="#"> <img src="images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img src="images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img src="images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                
               </div>
@@ -205,7 +205,7 @@
 
           <div class="row gflow align-items-center border-bottom py-5">
             <div class="col-md-3" data-aos="fade-right" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Analyse-Current-Status-of-Digital-Marketing-Strategy.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Analyse-Current-Status-of-Digital-Marketing-Strategy.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left " data-aos="fade-left" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Google Ads Services</h3>
@@ -215,7 +215,7 @@
 
           <div class="row gflow align-items-center border-bottom py-5">
             <div class="col-md-3 order-md-2" data-aos="fade-left" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Identify-Right-Problems-that-Effect-on-Growth.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Identify-Right-Problems-that-Effect-on-Growth.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left order-md-1" data-aos="fade-right" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Facebook Ads Services</h3>
@@ -226,7 +226,7 @@
 
           <div class="row gflow align-items-center border-bottom py-5">
             <div class="col-md-3" data-aos="fade-right" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Create-New-Digital-Marketing-Strategy-that-Align-with-the-Brand-Goal.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Create-New-Digital-Marketing-Strategy-that-Align-with-the-Brand-Goal.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left" data-aos="fade-left" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Instagram Ads Services</h3>
@@ -236,7 +236,7 @@
 
           <div class="row gflow align-items-center  py-5">
             <div class="col-md-3 order-md-2" data-aos="fade-left" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Target-Goal-Setup-%26-Detailed-Roadmap.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Target-Goal-Setup-%26-Detailed-Roadmap.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left order-md-1" data-aos="fade-right" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">LinkedIn Ads Services</h3>
@@ -247,7 +247,7 @@
           
            <div class="row gflow align-items-center border-bottom py-5">
             <div class="col-md-3" data-aos="fade-right" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Step-by-Step-Implementation-on-New-Digital-Marketing-Strategy.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Step-by-Step-Implementation-on-New-Digital-Marketing-Strategy.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left " data-aos="fade-left" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Twitter Ads Services</h3>
@@ -257,7 +257,7 @@
 
           <div class="row gflow align-items-center border-bottom py-5">
             <div class="col-md-3 order-md-2" data-aos="fade-left" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Analytics-Reporting.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Analytics-Reporting.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left order-md-1" data-aos="fade-right" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Youtube Ads Services</h3>
@@ -268,7 +268,7 @@
 
           <div class="row gflow align-items-center border-bottom py-5">
             <div class="col-md-3" data-aos="fade-right" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Demonstrate-Financial-Planning.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Demonstrate-Financial-Planning.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left" data-aos="fade-left" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Taboola Ads Services</h3>
@@ -278,7 +278,7 @@
 
           <div class="row gflow align-items-center  py-5">
             <div class="col-md-3 order-md-2" data-aos="fade-left" data-aos-duration="1000">
-              <img src="images/digital-marketing-consultant/Educate-the-Digital-Marketing-Team.webp" class="img-fluid">
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Educate-the-Digital-Marketing-Team.webp" class="img-fluid">
             </div>
             <div class="col-md-9 text-left order-md-1" data-aos="fade-right" data-aos-duration="1000">
               <h3 class="font-weight-bold h4">Bing Ads Services</h3>
@@ -322,7 +322,7 @@
         	<div class="container-fluid ">
             	<div class="row">
 				<div class="col-xl-4">
-					<img src="images/digital-marketing-consultant/Digital-Marketing-Consultant-Business-Growth.webp" class="img-fluid mt-5"/>
+					<img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/digital-marketing-consultant/Digital-Marketing-Consultant-Business-Growth.webp" class="img-fluid mt-5"/>
 				</div>
                 	<div class="col-xl-8 benefits-icon">
             	<h2 class="mt-4">Why PPC Services Matter for Your Business</h2>
@@ -331,7 +331,7 @@
                 	<div class="col-md-6  my-2">
                     	<div class="d-flex align-items-top">
                           <div class="flex-shrink-0">
-                            <img src="images/digital-marketing-consultant/Increase-Organic-Presence.svg" alt="..." class="img-fluid">
+                            <img loading="lazy" src="images/digital-marketing-consultant/Increase-Organic-Presence.svg" alt="..." class="img-fluid">
                           </div>
                           <div class="flex-grow-1 ms-3">
                           <h3>Quick Business Growth</h3>
@@ -342,7 +342,7 @@
                     <div class="col-md-6  my-2">
                     	<div class="d-flex align-items-top">
                           <div class="flex-shrink-0">
-                            <img src="images/digital-marketing-consultant/Brand-Visibility.svg" alt="..." class="img-fluid">
+                            <img loading="lazy" src="images/digital-marketing-consultant/Brand-Visibility.svg" alt="..." class="img-fluid">
                           </div>
                           <div class="flex-grow-1 ms-3">
                           <h3>Boost Brand Visibility</h3>
@@ -354,7 +354,7 @@
                     <div class="col-md-6  my-2">
                     	<div class="d-flex align-items-top">
                           <div class="flex-shrink-0">
-                            <img src="images/digital-marketing-consultant/Targeted-Traffic.svg" alt="..." class="img-fluid">
+                            <img loading="lazy" src="images/digital-marketing-consultant/Targeted-Traffic.svg" alt="..." class="img-fluid">
                           </div>
                           <div class="flex-grow-1 ms-3">
                           <h3>Drive Targeted Traffic</h3>
@@ -365,7 +365,7 @@
                     <div class="col-md-6  my-2">
                     	<div class="d-flex align-items-top">
                           <div class="flex-shrink-0">
-                            <img src="images/digital-marketing-consultant/Qualified-Leads.svg" alt="..." class="img-fluid">
+                            <img loading="lazy" src="images/digital-marketing-consultant/Qualified-Leads.svg" alt="..." class="img-fluid">
                           </div>
                           <div class="flex-grow-1 ms-3">
                           <h3>Generate Qualified Leads</h3>
@@ -376,7 +376,7 @@
                     <div class="col-md-6  my-2">
                     	<div class="d-flex align-items-top">
                           <div class="flex-shrink-0">
-                            <img src="images/digital-marketing-consultant/Conversion-Rate-Optimisation.svg" alt="..." class="img-fluid">
+                            <img loading="lazy" src="images/digital-marketing-consultant/Conversion-Rate-Optimisation.svg" alt="..." class="img-fluid">
                           </div>
                           <div class="flex-grow-1 ms-3">
                           <h3>Increase Sales</h3>
@@ -387,7 +387,7 @@
                     <div class="col-md-6  my-2">
                     	<div class="d-flex align-items-top">
                           <div class="flex-shrink-0">
-                            <img src="images/digital-marketing-consultant/Marketing-Automation.svg" alt="..." class="img-fluid">
+                            <img loading="lazy" src="images/digital-marketing-consultant/Marketing-Automation.svg" alt="..." class="img-fluid">
                         	
                           </div>
                           <div class="flex-grow-1 ms-3">
@@ -399,7 +399,7 @@
                 </div>	
 				
 				<div class="smc-btn text-left mt-5">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn grnbtn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn grnbtn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
 				
           </div>
 				
@@ -574,7 +574,7 @@
                 audience. Hire us now!</p>
             </div>
             <div class="col-md-3 text-right">
-              <img src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
+              <img alt="Ppc Services Agency In Karnataka graphic" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
             </div>
           </div>
         </div>

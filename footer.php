@@ -48,32 +48,32 @@
               <span>Quick Connect</span>
               <ul class="contact-icons">
                 <li>
-                  <a href="mailto:info@cognivicdigital.com" rel="nofollow" ><img src="images/email.webp" /> info@cognivicdigital.com</a>
+                  <a href="mailto:info@cognivicdigital.com" rel="nofollow" ><img alt="Footer graphic" loading="lazy" src="images/email.webp" /> info@cognivicdigital.com</a>
                 </li>
                 <li>
                   <a href="tel:7737861358" rel="nofollow" >
-                    <img src="images/phone.webp" /> +91-7737861358</a>
+                    <img alt="Footer graphic" loading="lazy" src="images/phone.webp" /> +91-7737861358</a>
                 </li>
               </ul>
               <ul class="social-icon mt-4">
                 <li>
                   <a href="https://www.linkedin.com/in/cognivic-digital-a012422ab/" rel="nofollow" target="_blank">
-                    <img src="images/linkedin.webp" />
+                    <img alt="Footer graphic" loading="lazy" src="images/linkedin.webp" />
                   </a>
                 </li>
                 <li>
                   <a href="#" rel="nofollow" target="_blank">
-                    <img src="images/facebook.webp" />
+                    <img alt="Footer graphic" loading="lazy" src="images/facebook.webp" />
                   </a>
                 </li>
                 <li>
                   <a href="#" rel="nofollow" target="_blank">
-                    <img src="images/youtube.webp" />
+                    <img alt="Footer graphic" loading="lazy" src="images/youtube.webp" />
                   </a>
                 </li>
                 <li>
                   <a href="#" rel="nofollow" target="_blank">
-                    <img src="images/twitter.webp" />
+                    <img alt="Footer graphic" loading="lazy" src="images/twitter.webp" />
                   </a>
                 </li>
               </ul>

@@ -44,7 +44,7 @@
     <div id="smooth-content">
 	      <section class="banner-sec ">
         <div class="top-banner-img">
-          <img src="images/banner.webp" alt="">
+          <img loading="lazy" src="images/banner.webp" alt="">
         </div>
         <?php include('header.php'); ?>
         
@@ -84,51 +84,51 @@
             <div class="col-md-12">
               <div class="owl-carousel owl-theme top-client-bar">
 			     <div class="item">
-                  <a href="#"> <img src="images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img src="images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img src="images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img src="images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
               </div>
             </div>
@@ -138,7 +138,7 @@
 
       <section class="about-company dark-sec white-text ball-jumping ">
         <div class="provoke-banner d-lg-block d-none">
-          <img src="images/we-provoke.png" alt="">
+          <img loading="lazy" src="images/we-provoke.png" alt="">
           <div id="ballWrapper">
             <div id="ball"></div>
           </div>
@@ -202,7 +202,7 @@
 			
           </div>
 		  <div class="smc-btn text-center mt-5">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
           </div>
         </div>
       </section>
@@ -223,7 +223,7 @@
               <div class="owl-carousel owl-theme asstests">
                 
                 <div class="item">
-                  <div class="asset-img"><img src="images/seo-img.webp" /> </div>
+                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/seo-img.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                       <h3 style="color:#000">Search Engine Optimization</h3>
                       <p> Boost your organic rankings and drive traffic with expert SEO.</p>
@@ -232,7 +232,7 @@
                 </div>
 				
 			          <div class="item">
-                  <div class="asset-img"><img src="images/guest-post.webp" /> </div>.
+                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/guest-post.webp" /> </div>.
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">Guest Posting</h3>
                     <p> Leverage high-quality backlinks to improve your domain authority</p>
@@ -241,7 +241,7 @@
                 </div>
 				
                 <div class="item">
-                  <div class="asset-img"><img src="images/strategy.webp" /> </div>
+                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/strategy.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">Google Ads</h3>
                     <p> Maximize your reach with targeted Google Ads campaigns.</p>
@@ -251,7 +251,7 @@
                 
   
 				        <div class="item">
-                  <div class="asset-img"><img src="images/smm-img.webp" /> </div>
+                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/smm-img.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">Social Media Marketing</h3>
                     <p> Build a strong brand presence across social platforms.</p>
@@ -260,7 +260,7 @@
                 </div>
 				
 				        <div class="item">
-                  <div class="asset-img"><img src="images/taboola.webp" /> </div>
+                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/taboola.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">PPC Ads</h3>
                     <p> Get instant results with efficient pay-per-click advertising.</p>
@@ -273,7 +273,7 @@
         </div>
 
         <!-- <div class="moving-pattern">
-          <img src="images/ppc-pattern.gif" alt="" style="width:100%">
+          <img loading="lazy" src="images/ppc-pattern.gif" alt="" style="width:100%">
         </div> -->
 
         <div class="container talknumbers mt-5" id="#talk">
@@ -342,7 +342,7 @@
             <div class="item">
               <div class="row pt7">
                 <div class="col-md-7" data-aos="fade-up" data-aos-duration="1000">
-                  <img src="images/plumber.webp" class="img-responsive" />
+                  <img alt="Index graphic" loading="lazy" src="images/plumber.webp" class="img-responsive" />
                 </div>
                 <div class="col-md-5">
                   <p class="pt7 h5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">Plumber Bathware</p>
@@ -377,7 +377,7 @@
                     </div>
                   </div>
 				  <div class="smc-btn mt-7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
           </div>
                 </div>
 								  
@@ -386,7 +386,7 @@
             <div class="item">
               <div class="row pt7">
                 <div class="col-md-7">
-                  <img src="images/elevate.webp" class="img-responsive" />
+                  <img alt="Index graphic" loading="lazy" src="images/elevate.webp" class="img-responsive" />
                 </div>
                 <div class="col-md-5">
                   <p class="pt7 h5">elevateHQ</p>
@@ -423,7 +423,7 @@
                     </div>
                   </div>
 				   <div class="smc-btn text-left mt-7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
           </div>
                 </div>
               </div>
@@ -433,7 +433,7 @@
 			 <div class="item">
               <div class="row pt7">
                 <div class="col-md-7">
-                  <img src="images/investmentsimplified.webp" class="img-responsive" />
+                  <img alt="Index graphic" loading="lazy" src="images/investmentsimplified.webp" class="img-responsive" />
                 </div>
                 <div class="col-md-5">
                   <p class="pt7 h5">investmentsimplified</p>
@@ -469,7 +469,7 @@
                     </div>
                   </div>
 				   <div class="smc-btn text-left mt-7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
           </div>
                 </div>
               </div>
@@ -525,7 +525,7 @@
                   <div class="round round-circle3"></div>
                   <div class="round round-circle4"></div>
                   <div class="round round-circle5"></div>
-                  <div class=" round-circle6"> <img src="images/Our/logo/favicon.png" width="70" style="filter: brightness(0) invert(1);" /> </div>
+                  <div class=" round-circle6"> <img alt="Index graphic" loading="lazy" src="images/Our/logo/favicon.png" width="70" style="filter: brightness(0) invert(1);" /> </div>
                 </div>
                 <div class="round-circle"></div>
 
@@ -540,7 +540,7 @@
         </div>
 		
 		 <div class="smc-btn text-center mt-7 pt7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in" style="background-color: #2FBBE1;">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in" style="background-color: #2FBBE1;">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
           </div>
       </section>
 
@@ -583,7 +583,7 @@
             <div class="process-box__list">
               <div class="process-box__list-item custom-link active">
                 <div class="process-box__list-image">
-                  <img class="process-box__list-image-i lozad" data-src="images/research.webp"
+                  <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/research.webp"
                     src="images/research.webp" alt="" role="presentation" data-loaded="true">
                 </div>
                 <div class="process-box__list-num">01</div>
@@ -596,7 +596,7 @@
               </div>
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
-                  <img class="process-box__list-image-i lozad" data-src="images/planning.webp"
+                  <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/planning.webp"
                     src="images/planning.webp" alt="" role="presentation" data-loaded="true">
                 </div>
                 <div class="process-box__list-num">02</div>
@@ -609,7 +609,7 @@
               </div>
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
-                  <img class="process-box__list-image-i lozad" data-src="images/impliment.webp"
+                  <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/impliment.webp"
                     src="images/impliment.webp" alt="" role="presentation" data-loaded="true">
                 </div>
                 <div class="process-box__list-num">03</div>
@@ -623,7 +623,7 @@
               </div>
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
-                  <img class="process-box__list-image-i lozad" data-src="images/measure.webp"
+                  <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/measure.webp"
                     src="images/measure.webp" alt="" role="presentation" data-loaded="true">
 
                 </div>
@@ -636,7 +636,7 @@
               </div>
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
-                  <img class="process-box__list-image-i lozad" data-src="images/optimize.webp"
+                  <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/optimize.webp"
                     src="images/optimize.webp" alt="" role="presentation" data-loaded="true">
 
                 </div>
@@ -653,7 +653,7 @@
           </div>
         </div>
 		 <div class="smc-btn text-center mt-5">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
           </div>
       </section>
 
@@ -742,7 +742,7 @@
                 audience. Hire us now!</p>
             </div>
             <div class="col-md-3 text-right">
-              <img src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
+              <img alt="Index graphic" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
             </div>
           </div>
         </div>

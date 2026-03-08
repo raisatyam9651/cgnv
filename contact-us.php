@@ -23,7 +23,7 @@
         <div class="col-md-6">
           <div class="logo" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
             <a href="index">
-              <img src="images/Our/logo/cognivic-logo.png" alt="" class="img-fluid" style="width:250px">
+              <img loading="lazy" src="images/Our/logo/cognivic-logo.png" alt="" class="img-fluid" style="width:250px">
             </a>
           </div>
           
@@ -34,7 +34,7 @@
             <div class="col-md-2">
               <div class="" data-aos="fade-up" data-aos-delay="300"
                 data-aos-duration="1000">
-                <div class="icon"><img src="images/growth.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/growth.svg" alt=""></div>
                 </div>
               </div>
 			  
@@ -48,7 +48,7 @@
             <div class="col-md-2">
               <div class="" data-aos="fade-up" data-aos-delay="300"
                 data-aos-duration="1000">
-                <div class="icon"><img src="images/audience.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/audience.svg" alt=""></div>
                 </div>
               </div>
 			  
@@ -62,7 +62,7 @@
    <div class="col-md-2">
               <div class="" data-aos="fade-up" data-aos-delay="300"
                 data-aos-duration="1000">
-                <div class="icon"><img src="images/audience.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/audience.svg" alt=""></div>
                 </div>
               </div>
 			  

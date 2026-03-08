@@ -157,51 +157,51 @@
                             <div class="col-md-12">
                                 <div class="owl-carousel owl-theme top-client-bar">
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
+                                        <a href="#"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
                                     </div>
 
                                 </div>
@@ -305,7 +305,7 @@
                     <div class="col-md-6 me-auto order-lg-2 order-1 ">
                         <div class="right pl-lg-5 pl-0">
                             <div class="p-4 b-bg box mb-3 mb-md-0">
-                                <img src="images/google/img1.webp" alt="Keyword Strategy" class="img-fluid"
+                                <img loading="lazy" src="images/google/img1.webp" alt="Keyword Strategy" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -316,7 +316,7 @@
                     <div class="col-md-6 me-auto">
                         <div class="right pr-lg-5 pr-0">
                             <div class="p-4 b-bg box mb-3 mb-md-0">
-                                <img src="images/google/img2.webp" alt="On Page SEO" class="img-fluid"
+                                <img loading="lazy" src="images/google/img2.webp" alt="On Page SEO" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -353,7 +353,7 @@
                     <div class="col-md-6 me-auto order-lg-2 order-1 ">
                         <div class="right pl-lg-5 pl-0">
                             <div class="p-4 bd-bg box mb-3 mb-md-0">
-                                <img src="images/google/img3.webp" alt="Technical SEO" class="img-fluid"
+                                <img loading="lazy" src="images/google/img3.webp" alt="Technical SEO" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -364,7 +364,7 @@
                     <div class="col-md-6 me-auto">
                         <div class="right pr-lg-5 pr-0">
                             <div class="p-4 b-bg box mb-3 mb-md-0">
-                                <img src="images/google/img4.webp" alt="Link Building Strategy" class="img-fluid"
+                                <img loading="lazy" src="images/google/img4.webp" alt="Link Building Strategy" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -399,7 +399,7 @@
                     <div class="col-md-6 me-auto order-lg-2 order-1 ">
                         <div class="right pl-lg-5 pl-0">
                             <div class="p-4 g-bg box mb-3 mb-md-0">
-                                <img src="images/google/img5.webp" alt="Local SEO" class="img-fluid"
+                                <img loading="lazy" src="images/google/img5.webp" alt="Local SEO" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -410,7 +410,7 @@
                     <div class="col-md-6 me-auto">
                         <div class="right pr-lg-5 pr-0">
                             <div class="p-4 b-bg box mb-3 mb-md-0">
-                                <img src="images/google/img6.webp" alt="Content Marketing" class="img-fluid"
+                                <img loading="lazy" src="images/google/img6.webp" alt="Content Marketing" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -445,7 +445,7 @@
                     <div class="col-md-6 me-auto order-lg-2 order-1 ">
                         <div class="right pl-lg-5 pl-0">
                             <div class="p-4 o-bg box mb-3 mb-md-0">
-                                <img src="images/google/img7.webp" alt="E-Commerce SEO" class="img-fluid"
+                                <img loading="lazy" src="images/google/img7.webp" alt="E-Commerce SEO" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -456,7 +456,7 @@
                     <div class="col-md-6 me-auto">
                         <div class="right pr-lg-5 pr-0">
                             <div class="p-4 b-bg box mb-3 mb-md-0">
-                                <img src="images/google/img8.webp" alt="Reporting and Analytics SEO" class="img-fluid"
+                                <img loading="lazy" src="images/google/img8.webp" alt="Reporting and Analytics SEO" class="img-fluid"
                                     data-aos="flip-right">
                             </div>
                         </div>
@@ -515,7 +515,7 @@
                             <ul class="pt-md-4 pt-2">
                                 <li data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
                                     <div class="icon">
-                                        <img src="images/google/user.svg" alt="Expertise">
+                                        <img loading="lazy" src="images/google/user.svg" alt="Expertise">
                                     </div>
                                     <div>
                                         <h3 class="text-white h5">Proven SEO Expertise</h3>
@@ -525,7 +525,7 @@
                                 </li>
                                 <li data-aos="fade-down" data-aos-delay="600" data-aos-duration="1000">
                                     <div class="icon">
-                                        <img src="images/google/grow.svg" alt="Competitive Edge">
+                                        <img loading="lazy" src="images/google/grow.svg" alt="Competitive Edge">
                                     </div>
                                     <div>
                                         <h3 class="text-white h5">100% White-Hat Strategies</h3>
@@ -535,7 +535,7 @@
                                 </li>
                                 <li data-aos="fade-down" data-aos-delay="900" data-aos-duration="1000">
                                     <div class="icon">
-                                        <img src="images/google/chart.svg" alt="ROI Focus">
+                                        <img loading="lazy" src="images/google/chart.svg" alt="ROI Focus">
                                     </div>
                                     <div>
                                         <h3 class="text-white h5">ROI-Focused Strategy</h3>
@@ -556,7 +556,7 @@
                     <div class="col-md-6">
                         <div class="right">
                             <div class="img-part position-relative">
-                                <img src="images/google/img.webp" alt="SEO Results India" class="img-responsive">
+                                <img loading="lazy" src="images/google/img.webp" alt="SEO Results India" class="img-responsive">
                                 <div class="orange-box">
                                     Grow your <br> organic traffic <br> with Expert SEO <br> by Cognivic Digital
                                 </div>
@@ -675,7 +675,7 @@
                             solid SEO foundation. Transform your digital presence with India's finest Digital Marketing Company in Goa.</p>
                     </div>
                     <div class="col-md-3 text-right">
-                        <img src="images/scroll-down-arrow.webp" style="filter: invert(100%);" alt="Scroll Down" />
+                        <img loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" alt="Scroll Down" />
                     </div>
                 </div>
             </div>
