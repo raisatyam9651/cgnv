@@ -1,4 +1,9 @@
 RewriteEngine On
+
+# Redirect non-www to www (with HTTPS assumed for modern sites)
+RewriteCond %{HTTP_HOST} ^cognivicdigital\.com [NC]
+RewriteRule ^(.*)$ https://www.cognivicdigital.com/$1 [L,R=301]
+
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
