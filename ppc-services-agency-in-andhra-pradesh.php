@@ -77,51 +77,51 @@
               <div class="owl-carousel owl-theme top-client-bar">
 			     
 			     <div class="item">
-                  <a href="#"> <img src="images/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img src="images/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images/client-logo/3.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img src="images/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img src="images/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images/client-logo/3.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img src="images/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img src="images/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img src="images/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img src="images1/client-logo/6-1.png" /> </a>
                 </div>
                
               </div>

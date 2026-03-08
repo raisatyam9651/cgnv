@@ -157,51 +157,51 @@
                             <div class="col-md-12">
                                 <div class="owl-carousel owl-theme top-client-bar">
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/1-1.png" alt="Client Logo 1" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/2-11.png" alt="Client Logo 2" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/3.png" alt="Client Logo 3" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/4-1.png" alt="Client Logo 4" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/5-1.png" alt="Client Logo 5" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/6-1.png" alt="Client Logo 6" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/1-1.png" alt="Client Logo 7" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/2-11.png" alt="Client Logo 8" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/3.png" alt="Client Logo 9" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/4-1.png" alt="Client Logo 10" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/5-1.png" alt="Client Logo 11" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img src="images/client-logo/6-1.png" alt="Client Logo 12" /> </a>
+                                        <a href="#"> <img src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
                                     </div>
 
                                 </div>
