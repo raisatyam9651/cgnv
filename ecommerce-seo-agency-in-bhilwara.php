@@ -630,7 +630,33 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Rajasthan</h3>
+            <p style="color: #666;">Explore our expert E-commerce SEO services across Rajasthan</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-ajmer">E-commerce SEO Agency in Ajmer</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-alwar">E-commerce SEO Agency in Alwar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-bharatpur">E-commerce SEO Agency in Bharatpur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-bhilwara">E-commerce SEO Agency in Bhilwara</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-bikaner">E-commerce SEO Agency in Bikaner</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-jaipur">E-commerce SEO Agency in Jaipur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-jodhpur">E-commerce SEO Agency in Jodhpur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-kota">E-commerce SEO Agency in Kota</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-sikar">E-commerce SEO Agency in Sikar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-sriganganagar">E-commerce SEO Agency in Sriganganagar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-udaipur">E-commerce SEO Agency in Udaipur</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

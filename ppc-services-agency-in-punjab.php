@@ -678,7 +678,31 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Punjab</h3>
+            <p style="color: #666;">Explore our expert PPC services across Punjab</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-amritsar">PPC Services Agency in Amritsar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-bhatinda">PPC Services Agency in Bhatinda</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-chandigarh">PPC Services Agency in Chandigarh</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-hoshiarpur">PPC Services Agency in Hoshiarpur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-jalandhar">PPC Services Agency in Jalandhar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-ludhiana">PPC Services Agency in Ludhiana</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-moga">PPC Services Agency in Moga</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-pathankot">PPC Services Agency in Pathankot</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ppc-services-agency-in-patiala">PPC Services Agency in Patiala</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

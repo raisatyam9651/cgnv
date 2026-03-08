@@ -633,7 +633,32 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Madhya Pradesh</h3>
+            <p style="color: #666;">Explore our expert Google Ads services across Madhya Pradesh</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-bhopal">Google Ads Services Agency in Bhopal</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-gwalior">Google Ads Services Agency in Gwalior</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-indore">Google Ads Services Agency in Indore</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-jabalpur">Google Ads Services Agency in Jabalpur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-khandwa">Google Ads Services Agency in Khandwa</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-ratlam">Google Ads Services Agency in Ratlam</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-rewa">Google Ads Services Agency in Rewa</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-sagar">Google Ads Services Agency in Sagar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-satna">Google Ads Services Agency in Satna</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="google-ads-services-agency-in-ujjain">Google Ads Services Agency in Ujjain</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

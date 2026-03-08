@@ -630,7 +630,31 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Tamil Nadu</h3>
+            <p style="color: #666;">Explore our expert UI/UX Design services across Tamil Nadu</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-chennai">UI/UX Design Agency in Chennai</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-erode">UI/UX Design Agency in Erode</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-madurai">UI/UX Design Agency in Madurai</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-salem">UI/UX Design Agency in Salem</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-thanjavur">UI/UX Design Agency in Thanjavur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-thoothukudi">UI/UX Design Agency in Thoothukudi</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-tiruchirappalli">UI/UX Design Agency in Tiruchirappalli</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-tirunelveli">UI/UX Design Agency in Tirunelveli</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ui-ux-design-agency-in-vellore">UI/UX Design Agency in Vellore</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

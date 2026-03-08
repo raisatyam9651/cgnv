@@ -630,7 +630,30 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Haryana</h3>
+            <p style="color: #666;">Explore our expert E-commerce SEO services across Haryana</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-ambala">E-commerce SEO Agency in Ambala</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-faridabad">E-commerce SEO Agency in Faridabad</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-gurgaon">E-commerce SEO Agency in Gurgaon</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-hisar">E-commerce SEO Agency in Hisar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-karnal">E-commerce SEO Agency in Karnal</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-panipat">E-commerce SEO Agency in Panipat</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-rohtak">E-commerce SEO Agency in Rohtak</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="ecommerce-seo-agency-in-yamunanagar">E-commerce SEO Agency in Yamunanagar</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

@@ -805,7 +805,31 @@
         </section>
 
         <div class="row mt-5"><div class="col-md-12 text-center"><h3 class="h4 font-weight-bold">Other Serving Locations</h3><ul class="list-inline"><li class="list-inline-item mr-3"><a href="/seo-company-in-gujarat" class="text-primary">SEO Company in Gujarat</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-tamil-nadu" class="text-primary">SEO Company in Tamil Nadu</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-telangana" class="text-primary">SEO Company in Telangana</a></li></ul></div></div>
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Punjab</h3>
+            <p style="color: #666;">Explore our expert SEO services across Punjab</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-amritsar">SEO in Amritsar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-bhatinda">SEO in Bhatinda</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-chandigarh">SEO in Chandigarh</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-hoshiarpur">SEO in Hoshiarpur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-jalandhar">SEO in Jalandhar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-ludhiana">SEO in Ludhiana</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-moga">SEO in Moga</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-pathankot">SEO in Pathankot</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-patiala">SEO in Patiala</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
     </div>
 

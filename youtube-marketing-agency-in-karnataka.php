@@ -633,7 +633,32 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Karnataka</h3>
+            <p style="color: #666;">Explore our expert YouTube Marketing services across Karnataka</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-ballari">YouTube Marketing Agency in Ballari</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-belagavi">YouTube Marketing Agency in Belagavi</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-bengaluru">YouTube Marketing Agency in Bengaluru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-davanagere">YouTube Marketing Agency in Davanagere</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-hubballi">YouTube Marketing Agency in Hubballi</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-mangaluru">YouTube Marketing Agency in Mangaluru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-mysuru">YouTube Marketing Agency in Mysuru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-shivamogga">YouTube Marketing Agency in Shivamogga</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-tumakuru">YouTube Marketing Agency in Tumakuru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-udupi">YouTube Marketing Agency in Udupi</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

@@ -633,7 +633,36 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Maharashtra</h3>
+            <p style="color: #666;">Explore our expert YouTube Marketing services across Maharashtra</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-ahmednagar">YouTube Marketing Agency in Ahmednagar</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-amravati">YouTube Marketing Agency in Amravati</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-aurangabad">YouTube Marketing Agency in Aurangabad</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-chandrapur">YouTube Marketing Agency in Chandrapur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-dhule">YouTube Marketing Agency in Dhule</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-jalgaon">YouTube Marketing Agency in Jalgaon</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-kolhapur">YouTube Marketing Agency in Kolhapur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-latur">YouTube Marketing Agency in Latur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-mumbai">YouTube Marketing Agency in Mumbai</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-nagpur">YouTube Marketing Agency in Nagpur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-nanded">YouTube Marketing Agency in Nanded</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-nashik">YouTube Marketing Agency in Nashik</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-pune">YouTube Marketing Agency in Pune</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="youtube-marketing-agency-in-solapur">YouTube Marketing Agency in Solapur</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

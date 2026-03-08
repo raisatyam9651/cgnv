@@ -630,7 +630,32 @@
 
       </section>
 
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Karnataka</h3>
+            <p style="color: #666;">Explore our expert Facebook & Instagram Ads services across Karnataka</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-ballari">Meta Ads Management Agency in Ballari</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-belagavi">Meta Ads Management Agency in Belagavi</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-bengaluru">Meta Ads Management Agency in Bengaluru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-davanagere">Meta Ads Management Agency in Davanagere</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-hubballi">Meta Ads Management Agency in Hubballi</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-mangaluru">Meta Ads Management Agency in Mangaluru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-mysuru">Meta Ads Management Agency in Mysuru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-shivamogga">Meta Ads Management Agency in Shivamogga</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-tumakuru">Meta Ads Management Agency in Tumakuru</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="facebook-instagram-ads-agency-in-udupi">Meta Ads Management Agency in Udupi</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
   </div>
 

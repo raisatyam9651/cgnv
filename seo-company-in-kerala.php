@@ -805,7 +805,30 @@
         </section>
 
         <div class="row mt-5"><div class="col-md-12 text-center"><h3 class="h4 font-weight-bold">Other Serving Locations</h3><ul class="list-inline"><li class="list-inline-item mr-3"><a href="/seo-company-in-bihar" class="text-primary">SEO Company in Bihar</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-manipur" class="text-primary">SEO Company in Manipur</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-meghalaya" class="text-primary">SEO Company in Meghalaya</a></li></ul></div></div>
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Kerala</h3>
+            <p style="color: #666;">Explore our expert SEO services across Kerala</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-alappuzha">SEO in Alappuzha</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-kannur">SEO in Kannur</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-kochi">SEO in Kochi</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-kollam">SEO in Kollam</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-kozhikode">SEO in Kozhikode</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-palakkad">SEO in Palakkad</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-thiruvananthapuram">SEO in Thiruvananthapuram</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-thrissur">SEO in Thrissur</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
     </div>
 

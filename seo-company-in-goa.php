@@ -805,7 +805,24 @@
         </section>
 
         <div class="row mt-5"><div class="col-md-12 text-center"><h3 class="h4 font-weight-bold">Other Serving Locations</h3><ul class="list-inline"><li class="list-inline-item mr-3"><a href="/seo-company-in-arunachal-pradesh" class="text-primary">SEO Company in Arunachal Pradesh</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-madhya-pradesh" class="text-primary">SEO Company in Madhya Pradesh</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-telangana" class="text-primary">SEO Company in Telangana</a></li></ul></div></div>
-      <?php include('footer.php'); ?>
+      
+        <!-- STATE_CITIES_LOCATION_GRID_START -->
+        <div class="container mb-5 mt-5 state-cities-grid">
+    <div class="row">
+        <div class="col-md-12 text-center mb-4">
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Goa</h3>
+            <p style="color: #666;">Explore our expert SEO services across Goa</p>
+        </div>
+        <div class="col-md-12">
+            <div class="row">
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-margao">SEO in Margao</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="seo-company-in-panaji">SEO in Panaji</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- STATE_CITIES_LOCATION_GRID_END -->
+<?php include('footer.php'); ?>
     </div>
     </div>
 
