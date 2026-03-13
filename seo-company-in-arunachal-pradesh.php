@@ -7,7 +7,6 @@
     <title>SEO Company in Arunachal Pradesh | Best SEO Agency & Services</title>
     <meta name="description"
         content="Looking for the best SEO company in Arunachal Pradesh? Cognivic Digital provides expert SEO services to boost your website rankings, organic traffic, and sales. Connect with our SEO experts today!">
-    <link rel="canonical" href="seo-company-in-arunachal-pradesh.php">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <meta charset="utf-8">
     <meta property="og:locale" content="en_IN" />

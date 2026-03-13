@@ -6,7 +6,6 @@
 <head>
   <title>Google Ads Services Agency in Durgapur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best google ads services agency in Durgapur? Cognivic Digital offers premium google ads services to help grow your local business.">
-  <link rel="canonical" href="google-ads-services-agency-in-durgapur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

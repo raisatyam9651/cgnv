@@ -6,7 +6,6 @@
 <head>
   <title>E-commerce SEO Agency in Nizamabad | Cognivic Digital</title>
   <meta name="description" content="Looking for the best e-commerce seo agency in Nizamabad? Cognivic Digital offers premium e-commerce seo to help grow your local business.">
-  <link rel="canonical" href="ecommerce-seo-agency-in-nizamabad.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

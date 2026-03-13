@@ -6,7 +6,6 @@
 <head>
   <title>Creative Agency in Tamil Nadu | Cognivic Digital</title>
   <meta name="description" content="Looking for the best creative agency in Tamil Nadu? Cognivic Digital offers premium creative to help grow your business.">
-  <link rel="canonical" href="creative-services-agency-in-tamil-nadu.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

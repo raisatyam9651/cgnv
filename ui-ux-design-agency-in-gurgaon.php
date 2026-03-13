@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Agency in Gurgaon | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ui/ux design agency in Gurgaon? Cognivic Digital offers premium ui/ux design to help grow your local business.">
-  <link rel="canonical" href="ui-ux-design-agency-in-gurgaon.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

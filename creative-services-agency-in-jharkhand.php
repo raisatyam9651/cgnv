@@ -6,7 +6,6 @@
 <head>
   <title>Creative Agency in Jharkhand | Cognivic Digital</title>
   <meta name="description" content="Looking for the best creative agency in Jharkhand? Cognivic Digital offers premium creative to help grow your business.">
-  <link rel="canonical" href="creative-services-agency-in-jharkhand.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

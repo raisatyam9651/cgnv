@@ -6,7 +6,6 @@
 <head>
   <title>Local SEO Agency in Nagaland | Cognivic Digital</title>
   <meta name="description" content="Looking for the best local seo agency in Nagaland? Cognivic Digital offers premium local seo to help grow your business.">
-  <link rel="canonical" href="local-seo-agency-in-nagaland.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

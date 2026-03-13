@@ -6,7 +6,6 @@
 <head>
   <title>YouTube Marketing Agency in Yamunanagar | Cognivic Digital</title>
   <meta name="description" content="Looking for the best youtube marketing agency in Yamunanagar? Cognivic Digital offers premium youtube marketing to help grow your local business.">
-  <link rel="canonical" href="youtube-marketing-agency-in-yamunanagar.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

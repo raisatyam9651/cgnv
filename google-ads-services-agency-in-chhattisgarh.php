@@ -6,7 +6,6 @@
 <head>
   <title>Google Ads Services Agency in Chhattisgarh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best google ads services agency in Chhattisgarh? Cognivic Digital offers premium google ads services to help grow your business.">
-  <link rel="canonical" href="google-ads-services-agency-in-chhattisgarh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

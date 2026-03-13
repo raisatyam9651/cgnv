@@ -6,7 +6,6 @@
 <head>
   <title>YouTube Marketing Agency in Raipur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best youtube marketing agency in Raipur? Cognivic Digital offers premium youtube marketing to help grow your local business.">
-  <link rel="canonical" href="youtube-marketing-agency-in-raipur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

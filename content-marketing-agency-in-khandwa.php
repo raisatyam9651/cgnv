@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in Khandwa | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in Khandwa? Cognivic Digital offers premium content marketing to help grow your local business.">
-  <link rel="canonical" href="content-marketing-agency-in-khandwa.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

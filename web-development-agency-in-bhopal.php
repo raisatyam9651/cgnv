@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Bhopal | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Bhopal? Cognivic Digital offers premium web development to help grow your local business.">
-  <link rel="canonical" href="web-development-agency-in-bhopal.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

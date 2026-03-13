@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in Latur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in Latur? Cognivic Digital offers premium content marketing to help grow your local business.">
-  <link rel="canonical" href="content-marketing-agency-in-latur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

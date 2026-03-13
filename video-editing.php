@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Services | Cognivic Digital</title>
   <meta name="description" content="">
-  <link rel="canonical" href="video-editing.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Haryana | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Haryana? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-haryana.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

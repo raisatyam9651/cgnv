@@ -6,7 +6,6 @@
 <head>
   <title>Google Ads Services Agency in Gwalior | Cognivic Digital</title>
   <meta name="description" content="Looking for the best google ads services agency in Gwalior? Cognivic Digital offers premium google ads services to help grow your local business.">
-  <link rel="canonical" href="google-ads-services-agency-in-gwalior.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

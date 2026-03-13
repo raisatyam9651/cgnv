@@ -6,7 +6,6 @@
 <head>
   <title>YouTube Marketing Services | Cognivic Digital</title>
   <meta name="description" content="Boost your brand visibility with our expert YouTube Marketing services. Cognivic Digital helps you reach your target audience and grow your channel.">
-  <link rel="canonical" href="youtube-marketing.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

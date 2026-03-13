@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Raipur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Raipur? Cognivic Digital offers premium web development to help grow your local business.">
-  <link rel="canonical" href="web-development-agency-in-raipur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

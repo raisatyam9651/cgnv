@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Agency in Nagpur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ui/ux design agency in Nagpur? Cognivic Digital offers premium ui/ux design to help grow your local business.">
-  <link rel="canonical" href="ui-ux-design-agency-in-nagpur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

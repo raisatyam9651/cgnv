@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Siliguri | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Siliguri? Cognivic Digital offers premium web development to help grow your local business.">
-  <link rel="canonical" href="web-development-agency-in-siliguri.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

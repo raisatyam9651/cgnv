@@ -6,7 +6,6 @@
 <head>
   <title>Landing Page Design Agency in Nagaland | Cognivic Digital</title>
   <meta name="description" content="Looking for the best landing page design agency in Nagaland? Cognivic Digital offers premium landing page design to help grow your business.">
-  <link rel="canonical" href="landing-page-design-agency-in-nagaland.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

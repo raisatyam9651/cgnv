@@ -5,7 +5,6 @@
 <head>
   <title>Best Digital Marketing Agency in Davanagere | Cognivic Digital</title>
   <meta name="description" content="Cognivic Digital is the best Digital Marketing Agency in Davanagere. We provide tailored, result-driven digital marketing solutions to scale your brand.">
-  <link rel="canonical" href="best-digital-marketing-agency-in-davanagere.php">
   <meta name='robots' content='index, follow' />
   
   <meta charset="utf-8">

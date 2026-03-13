@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in Bardhaman | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in Bardhaman? Cognivic Digital offers premium content marketing to help grow your local business.">
-  <link rel="canonical" href="content-marketing-agency-in-bardhaman.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

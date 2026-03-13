@@ -6,7 +6,6 @@
 <head>
   <title>Creative Agency in Arunachal Pradesh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best creative agency in Arunachal Pradesh? Cognivic Digital offers premium creative to help grow your business.">
-  <link rel="canonical" href="creative-services-agency-in-arunachal-pradesh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

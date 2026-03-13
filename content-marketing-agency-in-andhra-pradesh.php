@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in Andhra Pradesh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in Andhra Pradesh? Cognivic Digital offers premium content marketing to help grow your business.">
-  <link rel="canonical" href="content-marketing-agency-in-andhra-pradesh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>Local SEO Agency in Purnia | Cognivic Digital</title>
   <meta name="description" content="Looking for the best local seo agency in Purnia? Cognivic Digital offers premium local seo to help grow your local business.">
-  <link rel="canonical" href="local-seo-agency-in-purnia.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

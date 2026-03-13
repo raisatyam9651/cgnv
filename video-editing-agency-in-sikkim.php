@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Sikkim | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Sikkim? Cognivic Digital offers premium video editing to help grow your business.">
-  <link rel="canonical" href="video-editing-agency-in-sikkim.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

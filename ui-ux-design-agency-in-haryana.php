@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Agency in Haryana | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ui/ux design agency in Haryana? Cognivic Digital offers premium ui/ux design to help grow your business.">
-  <link rel="canonical" href="ui-ux-design-agency-in-haryana.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

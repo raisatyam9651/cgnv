@@ -6,7 +6,6 @@
 <head>
   <title>Landing Page Design Agency in Purnia | Cognivic Digital</title>
   <meta name="description" content="Looking for the best landing page design agency in Purnia? Cognivic Digital offers premium landing page design to help grow your local business.">
-  <link rel="canonical" href="landing-page-design-agency-in-purnia.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>YouTube Marketing Agency in Faridabad | Cognivic Digital</title>
   <meta name="description" content="Looking for the best youtube marketing agency in Faridabad? Cognivic Digital offers premium youtube marketing to help grow your local business.">
-  <link rel="canonical" href="youtube-marketing-agency-in-faridabad.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

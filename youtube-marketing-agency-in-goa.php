@@ -6,7 +6,6 @@
 <head>
   <title>YouTube Marketing Agency in Goa | Cognivic Digital</title>
   <meta name="description" content="Looking for the best youtube marketing agency in Goa? Cognivic Digital offers premium youtube marketing to help grow your business.">
-  <link rel="canonical" href="youtube-marketing-agency-in-goa.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

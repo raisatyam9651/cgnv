@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Agency in Alappuzha | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ui/ux design agency in Alappuzha? Cognivic Digital offers premium ui/ux design to help grow your local business.">
-  <link rel="canonical" href="ui-ux-design-agency-in-alappuzha.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

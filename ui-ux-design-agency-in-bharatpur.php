@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Agency in Bharatpur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ui/ux design agency in Bharatpur? Cognivic Digital offers premium ui/ux design to help grow your local business.">
-  <link rel="canonical" href="ui-ux-design-agency-in-bharatpur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

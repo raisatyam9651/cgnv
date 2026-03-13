@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Delhi | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Delhi? Cognivic Digital offers premium video editing to help grow your local business.">
-  <link rel="canonical" href="video-editing-agency-in-delhi.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

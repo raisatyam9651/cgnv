@@ -5,7 +5,6 @@
 <head>
   <title>Best Digital Marketing Agency in Siliguri | Cognivic Digital</title>
   <meta name="description" content="Cognivic Digital is the best Digital Marketing Agency in Siliguri. We provide tailored, result-driven digital marketing solutions to scale your brand.">
-  <link rel="canonical" href="best-digital-marketing-agency-in-siliguri.php">
   <meta name='robots' content='index, follow' />
   
   <meta charset="utf-8">

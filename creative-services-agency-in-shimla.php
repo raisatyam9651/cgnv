@@ -6,7 +6,6 @@
 <head>
   <title>Creative Agency in Shimla | Cognivic Digital</title>
   <meta name="description" content="Looking for the best creative agency in Shimla? Cognivic Digital offers premium creative to help grow your local business.">
-  <link rel="canonical" href="creative-services-agency-in-shimla.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

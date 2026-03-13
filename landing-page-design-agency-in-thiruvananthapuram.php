@@ -6,7 +6,6 @@
 <head>
   <title>Landing Page Design Agency in Thiruvananthapuram | Cognivic Digital</title>
   <meta name="description" content="Looking for the best landing page design agency in Thiruvananthapuram? Cognivic Digital offers premium landing page design to help grow your local business.">
-  <link rel="canonical" href="landing-page-design-agency-in-thiruvananthapuram.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>Facebook & Instagram Ads Management Agency in Satna | Cognivic Digital</title>
   <meta name="description" content="Looking for the best facebook & instagram ads management agency in Satna? Cognivic Digital offers premium facebook & instagram ads management to help grow your local business.">
-  <link rel="canonical" href="facebook-instagram-ads-agency-in-satna.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

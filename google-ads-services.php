@@ -6,7 +6,6 @@
 <head>
   <title>Google Ads Management </title>
   <meta name="description" content="">
-  <link rel="canonical" href="google-ads-services.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

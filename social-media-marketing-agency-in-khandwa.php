@@ -6,7 +6,6 @@
 <head>
   <title>Social Media Marketing Agency in Khandwa | Cognivic Digital</title>
   <meta name="description" content="Looking for the best social media marketing agency in Khandwa? Cognivic Digital offers premium social media marketing to help grow your local business.">
-  <link rel="canonical" href="social-media-marketing-agency-in-khandwa.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Nagaland | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Nagaland? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-nagaland.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

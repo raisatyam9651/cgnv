@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in West Bengal | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in West Bengal? Cognivic Digital offers premium content marketing to help grow your business.">
-  <link rel="canonical" href="content-marketing-agency-in-west-bengal.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Arunachal Pradesh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Arunachal Pradesh? Cognivic Digital offers premium video editing to help grow your business.">
-  <link rel="canonical" href="video-editing-agency-in-arunachal-pradesh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -4,7 +4,6 @@
 <head>
   <title>PPC  in India 2024 Agency in Punjab | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ppc  in india 2024 agency in Punjab? Cognivic Digital offers premium ppc  in india 2024 to help grow your business.">
-  <link rel="canonical" href="ppc-services-agency-in-punjab.php">
   <meta name='robots' content='index, follow' />
 	     <meta charset="utf-8">
        <?php include('head-links.php'); ?>

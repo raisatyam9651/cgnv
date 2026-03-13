@@ -6,7 +6,6 @@
 <head>
   <title>Local SEO Agency in Uttarakhand | Cognivic Digital</title>
   <meta name="description" content="Looking for the best local seo agency in Uttarakhand? Cognivic Digital offers premium local seo to help grow your business.">
-  <link rel="canonical" href="local-seo-agency-in-uttarakhand.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

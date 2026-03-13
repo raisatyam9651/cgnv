@@ -6,7 +6,6 @@
 <head>
   <title>Creative Agency in Punjab | Cognivic Digital</title>
   <meta name="description" content="Looking for the best creative agency in Punjab? Cognivic Digital offers premium creative to help grow your business.">
-  <link rel="canonical" href="creative-services-agency-in-punjab.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

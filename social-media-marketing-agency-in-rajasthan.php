@@ -6,7 +6,6 @@
 <head>
   <title>Social Media Marketing Agency in Rajasthan | Cognivic Digital</title>
   <meta name="description" content="Looking for the best social media marketing agency in Rajasthan? Cognivic Digital offers premium social media marketing to help grow your business.">
-  <link rel="canonical" href="social-media-marketing-agency-in-rajasthan.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

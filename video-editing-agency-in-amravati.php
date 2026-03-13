@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Amravati | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Amravati? Cognivic Digital offers premium video editing to help grow your local business.">
-  <link rel="canonical" href="video-editing-agency-in-amravati.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

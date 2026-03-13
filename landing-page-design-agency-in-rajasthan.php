@@ -6,7 +6,6 @@
 <head>
   <title>Landing Page Design Agency in Rajasthan | Cognivic Digital</title>
   <meta name="description" content="Looking for the best landing page design agency in Rajasthan? Cognivic Digital offers premium landing page design to help grow your business.">
-  <link rel="canonical" href="landing-page-design-agency-in-rajasthan.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

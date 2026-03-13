@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Dibrugarh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Dibrugarh? Cognivic Digital offers premium video editing to help grow your local business.">
-  <link rel="canonical" href="video-editing-agency-in-dibrugarh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

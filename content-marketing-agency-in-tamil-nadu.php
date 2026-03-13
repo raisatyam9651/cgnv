@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in Tamil Nadu | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in Tamil Nadu? Cognivic Digital offers premium content marketing to help grow your business.">
-  <link rel="canonical" href="content-marketing-agency-in-tamil-nadu.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

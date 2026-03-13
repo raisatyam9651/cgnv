@@ -5,7 +5,6 @@
 <head>
   <title>Cognivic Digital | No.1 Marketing Company in Gurgaon</title>
   <meta name="description" content="">
-  <link reaql="canonical" href="index.php">
   <meta name='robots' content='index, follow' />
   
   <meta charset="utf-8">

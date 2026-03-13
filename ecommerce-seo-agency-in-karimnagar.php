@@ -6,7 +6,6 @@
 <head>
   <title>E-commerce SEO Agency in Karimnagar | Cognivic Digital</title>
   <meta name="description" content="Looking for the best e-commerce seo agency in Karimnagar? Cognivic Digital offers premium e-commerce seo to help grow your local business.">
-  <link rel="canonical" href="ecommerce-seo-agency-in-karimnagar.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

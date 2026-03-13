@@ -6,7 +6,6 @@
 <head>
   <title>Creative Agency in Palakkad | Cognivic Digital</title>
   <meta name="description" content="Looking for the best creative agency in Palakkad? Cognivic Digital offers premium creative to help grow your local business.">
-  <link rel="canonical" href="creative-services-agency-in-palakkad.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

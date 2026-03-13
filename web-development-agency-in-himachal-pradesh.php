@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Himachal Pradesh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Himachal Pradesh? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-himachal-pradesh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

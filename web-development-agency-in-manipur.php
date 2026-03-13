@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Manipur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Manipur? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-manipur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

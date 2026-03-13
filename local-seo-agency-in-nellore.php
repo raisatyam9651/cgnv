@@ -6,7 +6,6 @@
 <head>
   <title>Local SEO Agency in Nellore | Cognivic Digital</title>
   <meta name="description" content="Looking for the best local seo agency in Nellore? Cognivic Digital offers premium local seo to help grow your local business.">
-  <link rel="canonical" href="local-seo-agency-in-nellore.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

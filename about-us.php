@@ -5,7 +5,6 @@
 <head>
   <title>About Cognivic Digital</title>
   <meta name="description" content="One Stop Destination for All Your Digital Marketing Services  | Cognivic Digital">
-  <link rel="canonical" href="about-us.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   <?php include('head-links.php'); ?>

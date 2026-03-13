@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Panaji | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Panaji? Cognivic Digital offers premium web development to help grow your local business.">
-  <link rel="canonical" href="web-development-agency-in-panaji.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

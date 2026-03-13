@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Maharashtra | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Maharashtra? Cognivic Digital offers premium video editing to help grow your business.">
-  <link rel="canonical" href="video-editing-agency-in-maharashtra.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

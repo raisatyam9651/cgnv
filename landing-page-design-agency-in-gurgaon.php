@@ -6,7 +6,6 @@
 <head>
   <title>Landing Page Design Agency in Gurgaon | Cognivic Digital</title>
   <meta name="description" content="Looking for the best landing page design agency in Gurgaon? Cognivic Digital offers premium landing page design to help grow your local business.">
-  <link rel="canonical" href="landing-page-design-agency-in-gurgaon.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

@@ -6,7 +6,6 @@
 <head>
   <title>Google Ads Services Agency in Raipur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best google ads services agency in Raipur? Cognivic Digital offers premium google ads services to help grow your local business.">
-  <link rel="canonical" href="google-ads-services-agency-in-raipur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

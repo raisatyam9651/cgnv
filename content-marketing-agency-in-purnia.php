@@ -6,7 +6,6 @@
 <head>
   <title>Content Marketing Agency in Purnia | Cognivic Digital</title>
   <meta name="description" content="Looking for the best content marketing agency in Purnia? Cognivic Digital offers premium content marketing to help grow your local business.">
-  <link rel="canonical" href="content-marketing-agency-in-purnia.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

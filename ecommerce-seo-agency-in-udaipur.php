@@ -6,7 +6,6 @@
 <head>
   <title>E-commerce SEO Agency in Udaipur | Cognivic Digital</title>
   <meta name="description" content="Looking for the best e-commerce seo agency in Udaipur? Cognivic Digital offers premium e-commerce seo to help grow your local business.">
-  <link rel="canonical" href="ecommerce-seo-agency-in-udaipur.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

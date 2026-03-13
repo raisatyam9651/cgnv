@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Nellore | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Nellore? Cognivic Digital offers premium web development to help grow your local business.">
-  <link rel="canonical" href="web-development-agency-in-nellore.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

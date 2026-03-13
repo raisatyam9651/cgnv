@@ -5,7 +5,7 @@
       </div>		
 			<div class="col-md-9 col-xl-9 d-flex justify-content-end">	
         <ul>
-          <li class="contact-us"> <a href="contact-us" class="border-start ps-3 ">Contact Us</a></li>
+          <li class="contact-us"> <a href="/contact-us" class="border-start ps-3 ">Contact Us</a></li>
           <li><span class="d-none d-lg-none">Sales Enq:</span> <a class="" href="tel:7737861358"><i class="fas fa-phone-alt me-md-1 white-theme-color top-call"></i> +91-7737861358</a></li>
         </ul>
 			</div>		

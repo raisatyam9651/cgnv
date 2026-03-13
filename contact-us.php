@@ -4,7 +4,6 @@
 <head>
   <title>Contact Us | Cognivic Digital</title>
   <meta name="description" content="">
-  <link rel="canonical" href="contact-us.php">
   <meta name='robots' content='index, follow' />
   <link rel="icon" type="image/x-icon" href="images/Our/logo/favicon.png">
   <meta charset="utf-8">

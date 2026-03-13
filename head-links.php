@@ -1,19 +1,34 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="sass/main.css">
-  <link rel='stylesheet' href='assets/css/owl.carousel.css'>
-  <link rel='stylesheet' href='assets/css/owl.theme.default.css'>
-  <link rel="stylesheet" href="assets/css/aos.css">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/sass/main.css">
+  <link rel='stylesheet' href='/assets/css/owl.carousel.css'>
+  <link rel='stylesheet' href='/assets/css/owl.theme.default.css'>
+  <link rel="stylesheet" href="/assets/css/aos.css">
   <link href="https://kit-pro.fontawesome.com/releases/v5.15.3/css/pro.min.css" rel="stylesheet" type="text/css"/>
-  <link rel="stylesheet" href="fonts/font-awesome.min.css" />
-  <link rel="icon" type="image/x-icon" href="images/Our/logo/favicon.png"><style>.top-client-bar .item a img { height: 75px !important; width: auto !important; object-fit: contain; margin: 0 auto; }</style>
+  <link rel="stylesheet" href="/fonts/font-awesome.min.css" />
+  <link rel="icon" type="image/x-icon" href="/images/Our/logo/favicon.png"><style>.top-client-bar .item a img { height: 75px !important; width: auto !important; object-fit: contain; margin: 0 auto; }</style>
 <?php
-$current_url = "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-$page_slug = basename($_SERVER['PHP_SELF'], ".php");
+$page_path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$page_slug = strtolower(basename($_SERVER['PHP_SELF'], ".php"));
+
+if ($page_slug == "index" || empty($page_slug)) {
+    $canonical_url = "https://www.cognivicdigital.com/";
+} else {
+    # Check if we are in a subdirectory
+    $dir = dirname($_SERVER['PHP_SELF']);
+    if ($dir != "/" && $dir != "\\") {
+        $canonical_url = "https://www.cognivicdigital.com" . $dir . "/" . $page_slug;
+    } else {
+        $canonical_url = "https://www.cognivicdigital.com/" . $page_slug;
+    }
+}
+
+$current_url = $canonical_url; // Use canonical as the current URL for OG consistency
 $dynamic_title = ucwords(str_replace("-", " ", $page_slug));
 if($dynamic_title == "Index" || empty($dynamic_title)) { $dynamic_title = "Digital Marketing Agency"; }
 $og_title = $dynamic_title . " | Cognivic Digital";
 ?>
+<link rel="canonical" href="<?php echo $canonical_url; ?>">
 
 <!-- Essential Core Tags -->
 <meta name="author" content="Cognivic Digital">

@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Services | Cognivic Digital</title>
   <meta name="description" content="">
-  <link rel="canonical" href="ui-ux-design.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

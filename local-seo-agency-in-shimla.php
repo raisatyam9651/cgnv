@@ -6,7 +6,6 @@
 <head>
   <title>Local SEO Agency in Shimla | Cognivic Digital</title>
   <meta name="description" content="Looking for the best local seo agency in Shimla? Cognivic Digital offers premium local seo to help grow your local business.">
-  <link rel="canonical" href="local-seo-agency-in-shimla.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

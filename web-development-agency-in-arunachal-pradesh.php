@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Arunachal Pradesh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Arunachal Pradesh? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-arunachal-pradesh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

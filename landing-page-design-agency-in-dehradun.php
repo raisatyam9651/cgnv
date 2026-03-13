@@ -6,7 +6,6 @@
 <head>
   <title>Landing Page Design Agency in Dehradun | Cognivic Digital</title>
   <meta name="description" content="Looking for the best landing page design agency in Dehradun? Cognivic Digital offers premium landing page design to help grow your local business.">
-  <link rel="canonical" href="landing-page-design-agency-in-dehradun.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

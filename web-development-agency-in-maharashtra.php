@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Maharashtra | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Maharashtra? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-maharashtra.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

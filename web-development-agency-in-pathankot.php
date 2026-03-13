@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Pathankot | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Pathankot? Cognivic Digital offers premium web development to help grow your local business.">
-  <link rel="canonical" href="web-development-agency-in-pathankot.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

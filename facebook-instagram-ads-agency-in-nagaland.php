@@ -6,7 +6,6 @@
 <head>
   <title>Facebook & Instagram Ads Management Agency in Nagaland | Cognivic Digital</title>
   <meta name="description" content="Looking for the best facebook & instagram ads management agency in Nagaland? Cognivic Digital offers premium facebook & instagram ads management to help grow your business.">
-  <link rel="canonical" href="facebook-instagram-ads-agency-in-nagaland.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

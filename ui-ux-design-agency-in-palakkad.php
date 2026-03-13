@@ -6,7 +6,6 @@
 <head>
   <title>UI/UX Design Agency in Palakkad | Cognivic Digital</title>
   <meta name="description" content="Looking for the best ui/ux design agency in Palakkad? Cognivic Digital offers premium ui/ux design to help grow your local business.">
-  <link rel="canonical" href="ui-ux-design-agency-in-palakkad.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

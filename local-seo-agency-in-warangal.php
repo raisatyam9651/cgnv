@@ -6,7 +6,6 @@
 <head>
   <title>Local SEO Agency in Warangal | Cognivic Digital</title>
   <meta name="description" content="Looking for the best local seo agency in Warangal? Cognivic Digital offers premium local seo to help grow your local business.">
-  <link rel="canonical" href="local-seo-agency-in-warangal.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

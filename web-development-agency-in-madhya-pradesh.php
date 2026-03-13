@@ -6,7 +6,6 @@
 <head>
   <title>Web Development Agency in Madhya Pradesh | Cognivic Digital</title>
   <meta name="description" content="Looking for the best web development agency in Madhya Pradesh? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
-  <link rel="canonical" href="web-development-agency-in-madhya-pradesh.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

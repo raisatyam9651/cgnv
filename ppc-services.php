@@ -4,7 +4,6 @@
 <head>
   <title>PPC Services in India 2024 | Best PPC Campaign Management Services | Cognivic Digital</title>
   <meta name="description" content="">
-  <link rel="canonical" href="ppc-services.php">
   <meta name='robots' content='index, follow' />
 	     <meta charset="utf-8">
        <?php include('head-links.php'); ?>

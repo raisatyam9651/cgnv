@@ -6,7 +6,6 @@
 <head>
   <title>Google Ads Services Agency in Bihar | Cognivic Digital</title>
   <meta name="description" content="Looking for the best google ads services agency in Bihar? Cognivic Digital offers premium google ads services to help grow your business.">
-  <link rel="canonical" href="google-ads-services-agency-in-bihar.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

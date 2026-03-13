@@ -6,7 +6,6 @@
 <head>
   <title>Video Editing Agency in Bihar | Cognivic Digital</title>
   <meta name="description" content="Looking for the best video editing agency in Bihar? Cognivic Digital offers premium video editing to help grow your business.">
-  <link rel="canonical" href="video-editing-agency-in-bihar.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

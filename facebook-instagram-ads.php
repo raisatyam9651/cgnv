@@ -6,7 +6,6 @@
 <head>
   <title>Facebook & Instagram Ads Management | Cognivic Digital</title>
   <meta name="description" content="">
-  <link rel="canonical" href="facebook-instagram-ads.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   

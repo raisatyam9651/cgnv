@@ -6,7 +6,6 @@
 <head>
   <title>Social Media Marketing Agency in Siliguri | Cognivic Digital</title>
   <meta name="description" content="Looking for the best social media marketing agency in Siliguri? Cognivic Digital offers premium social media marketing to help grow your local business.">
-  <link rel="canonical" href="social-media-marketing-agency-in-siliguri.php">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   
