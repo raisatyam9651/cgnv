@@ -1,5 +1,5 @@
 <script src="/assets/js/tweenmax.min.js"></script>
-<script src='assets/js/jquery.min.js'></script>
+<script src='/assets/js/jquery.min.js'></script>
 <script src="/assets/js/jquery-migrate-3.0.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
@@ -7,10 +7,10 @@
 <script src="/assets/js/ScrollMagic.min.js"></script>
 <script src="/assets/js/animation.gsap.min.js"></script>
 <script src="/assets/js/debug.addIndicators.min.js"></script>
-<script src='assets/js/owl.carousel.js'></script>
-<script src='assets/js/aos.js'></script>
-<script src='assets/js/custom.js'></script>
-<script src='assets/js/menu.js'></script>
+<script src='/assets/js/owl.carousel.js'></script>
+<script src='/assets/js/aos.js'></script>
+<script src='/assets/js/custom.js'></script>
+<script src='/assets/js/menu.js'></script>
 <script src="/assets/js/jquery.counterup.min.js"></script>
 <script src="/assets/js/waypoints.min.js"></script>
 <script src="/assets/js/typed.min.js"></script>
