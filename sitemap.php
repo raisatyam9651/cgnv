@@ -34,19 +34,47 @@ echo "    <changefreq>weekly</changefreq>\n";
 echo "    <priority>1.0</priority>\n";
 echo "  </url>\n";
 
-foreach ($files as $file) {
-    if (pathinfo($file, PATHINFO_EXTENSION) === 'php' && !in_array($file, $excluded_files) && $file !== 'index.php') {
-        // Page slug (filename without .php)
-        $slug = pathinfo($file, PATHINFO_FILENAME);
-        $file_path = __DIR__ . '/' . $file;
-        $lastmod = date('Y-m-d', filemtime($file_path));
+$excluded_dirs = ['assets', 'fonts', 'images', 'images1', 'sass', 'css', 'js', '.git'];
 
-        echo "  <url>\n";
-        echo "    <loc>" . htmlspecialchars($base_url . "/" . $slug) . "</loc>\n";
-        echo "    <lastmod>" . $lastmod . "</lastmod>\n";
-        echo "    <changefreq>monthly</changefreq>\n";
-        echo "    <priority>0.8</priority>\n";
-        echo "  </url>\n";
+foreach ($files as $file) {
+    if ($file === '.' || $file === '..') continue;
+    $file_path = __DIR__ . '/' . $file;
+
+    if (is_dir($file_path)) {
+        if (!in_array($file, $excluded_dirs)) {
+            $sub_files = scandir($file_path);
+            foreach ($sub_files as $sub_file) {
+                if (pathinfo($sub_file, PATHINFO_EXTENSION) === 'php' && !in_array($sub_file, $excluded_files)) {
+                    $sub_file_path = $file_path . '/' . $sub_file;
+                    $slug = pathinfo($sub_file, PATHINFO_FILENAME);
+                    if ($slug === 'index') {
+                        $url_path = $file . "/";
+                    } else {
+                        $url_path = $file . "/" . $slug;
+                    }
+                    
+                    echo "  <url>\n";
+                    echo "    <loc>" . htmlspecialchars($base_url . "/" . $url_path) . "</loc>\n";
+                    echo "    <lastmod>" . date('Y-m-d', filemtime($sub_file_path)) . "</lastmod>\n";
+                    echo "    <changefreq>monthly</changefreq>\n";
+                    echo "    <priority>0.8</priority>\n";
+                    echo "  </url>\n";
+                }
+            }
+        }
+    } else {
+        if (pathinfo($file, PATHINFO_EXTENSION) === 'php' && !in_array($file, $excluded_files) && $file !== 'index.php') {
+            // Page slug (filename without .php)
+            $slug = pathinfo($file, PATHINFO_FILENAME);
+            $lastmod = date('Y-m-d', filemtime($file_path));
+
+            echo "  <url>\n";
+            echo "    <loc>" . htmlspecialchars($base_url . "/" . $slug) . "</loc>\n";
+            echo "    <lastmod>" . $lastmod . "</lastmod>\n";
+            echo "    <changefreq>monthly</changefreq>\n";
+            echo "    <priority>0.8</priority>\n";
+            echo "  </url>\n";
+        }
     }
 }
 
