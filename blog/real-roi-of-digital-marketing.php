@@ -122,27 +122,33 @@
 <body>
 
 <?php include('../topbar.php'); ?>
-<?php include('../header.php'); ?>
-
 <!-- Blog Post Banner -->
-<section class="blog-post-banner">
-  <div class="container">
-    <nav class="breadcrumb">
-      <a href="/">Home</a> &raquo; <a href="/blog/">Blog</a> &raquo; <span>The Real ROI of Digital Marketing</span>
-    </nav>
-    <h1>The Real ROI of Digital Marketing: What Every Owner Should Know</h1>
-    <div class="post-meta">
-      <span class="post-category">ROI & Analytics</span>
-      <span class="post-date">February 28, 2026</span>
-      <span class="post-read-time">13 min read</span>
+  <section class="blog-post-banner" style="background: linear-gradient(135deg, #000950 0%, #425CA9 100%);">
+    <?php include('../header.php'); ?>
+    <div class="container">
+      <div class="breadcrumb-blog">
+        <a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>The Real ROI of Digital Marketing: What Every Owner Should Know</span>
+      </div>
+      <span class="blog-category-badge">Category</span>
+      <h1>The Real ROI of Digital Marketing: What Every Owner Should Know</h1>
+      <div class="post-meta">
+        <span><i class="fa fa-calendar"></i> </span>
+        <span><i class="fa fa-user"></i> By Cognivic Digital</span>
+        <span><i class="fa fa-clock-o"></i> 10 min read</span>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<!-- Blog Post Content -->
-<section class="blog-post-content">
-  <div class="container">
-    <div class="post-body">
+  <!-- Blog Post Content -->
+  <section class="blog-post-content">
+    <div class="container">
+      <div class="blog-post-wrapper">
+        <div class="blog-post-hero-img-container">
+          <img src="/images/blog/roi-digital-marketing.svg" alt="The Real ROI of Digital Marketing: What Every Owner Should Know" class="blog-post-hero-img">
+        </div>
+
+        
+        <div class="post-body">
 
       <!-- Table of Contents -->
       <div class="table-of-contents">

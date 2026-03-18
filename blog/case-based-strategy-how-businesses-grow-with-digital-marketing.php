@@ -119,25 +119,33 @@
 <body>
 
 <?php include('../topbar.php'); ?>
-<?php include('../header.php'); ?>
-
-<section class="blog-post-banner">
-  <div class="container">
-    <nav class="breadcrumb">
-      <a href="/">Home</a> &raquo; <a href="/blog/">Blog</a> &raquo; <span>Case-Based Strategy: How Businesses Grow with Digital Marketing</span>
-    </nav>
-    <h1>Case-Based Strategy: How Businesses Grow Faster with Digital Marketing</h1>
-    <div class="post-meta">
-      <span class="post-category">Case Study</span>
-      <span class="post-date">January 28, 2026</span>
-      <span class="post-read-time">16 min read</span>
+<!-- Blog Post Banner -->
+  <section class="blog-post-banner" style="background: linear-gradient(135deg, #000950 0%, #425CA9 100%);">
+    <?php include('../header.php'); ?>
+    <div class="container">
+      <div class="breadcrumb-blog">
+        <a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>Case-Based Strategy: How Businesses Grow Faster with Digital Marketing</span>
+      </div>
+      <span class="blog-category-badge">Category</span>
+      <h1>Case-Based Strategy: How Businesses Grow Faster with Digital Marketing</h1>
+      <div class="post-meta">
+        <span><i class="fa fa-calendar"></i> </span>
+        <span><i class="fa fa-user"></i> By Cognivic Digital</span>
+        <span><i class="fa fa-clock-o"></i> 10 min read</span>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="blog-post-content">
-  <div class="container">
-    <div class="post-body">
+  <!-- Blog Post Content -->
+  <section class="blog-post-content">
+    <div class="container">
+      <div class="blog-post-wrapper">
+        <div class="blog-post-hero-img-container">
+          <img src="/images/blog/business-growth-case-study.svg" alt="Case-Based Strategy: How Businesses Grow Faster with Digital Marketing" class="blog-post-hero-img">
+        </div>
+
+        
+        <div class="post-body">
 
       <div class="table-of-contents">
         <h2>Table of Contents</h2>

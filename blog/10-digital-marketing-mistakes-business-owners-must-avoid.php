@@ -101,34 +101,32 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <?php include('../topbar.php'); ?>
-  <?php include('../header.php'); ?>
-
-  <!-- Breadcrumb -->
-  <section class="blog-breadcrumb">
+  <!-- Blog Post Banner -->
+  <section class="blog-post-banner" style="background: linear-gradient(135deg, #000950 0%, #425CA9 100%);">
+    <?php include('../header.php'); ?>
     <div class="container">
-      <ul class="breadcrumb-list">
-        <li><a href="/">Home</a></li>
-        <li><a href="/blog/">Blog</a></li>
-        <li>10 Digital Marketing Mistakes Business Owners Must Avoid in 2026</li>
-      </ul>
+      <div class="breadcrumb-blog">
+        <a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>10 Digital Marketing Mistakes Business Owners Must Avoid in 2026</span>
+      </div>
+      <span class="blog-category-badge">Strategy</span>
+      <h1>10 Digital Marketing Mistakes Business Owners Must Avoid in 2026</h1>
+      <div class="post-meta">
+        <span><i class="fa fa-calendar"></i> March 8, 2026</span>
+        <span><i class="fa fa-user"></i> By Cognivic Digital</span>
+        <span><i class="fa fa-clock-o"></i> 15 min read</span>
+      </div>
     </div>
   </section>
 
-  <!-- Blog Post -->
-  <section class="blog-post-section">
+  <!-- Blog Post Content -->
+  <section class="blog-post-content">
     <div class="container">
       <div class="blog-post-wrapper">
-
-        <div class="blog-post-header">
-          <span class="blog-category">Strategy</span>
-          <h1>10 Digital Marketing Mistakes Business Owners Must Avoid in 2026</h1>
-          <div class="blog-meta">
-            <span class="blog-date">March 8, 2026</span>
-            <span class="blog-author">By Cognivic Digital</span>
-            <span class="blog-read-time">15 min read</span>
-          </div>
+        <div class="blog-post-hero-img-container">
+          <img src="/images/blog/digital-marketing-mistakes.svg" alt="10 Digital Marketing Mistakes Business Owners Must Avoid in 2026" class="blog-post-hero-img">
         </div>
 
+        
         <!-- Table of Contents -->
         <div class="blog-toc">
           <h2>Table of Contents</h2>

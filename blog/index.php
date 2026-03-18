@@ -31,10 +31,10 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <?php include('../topbar.php'); ?>
-  <?php include('../header.php'); ?>
 
   <!-- Blog Banner -->
   <section class="blog-banner">
+    <?php include('../header.php'); ?>
     <div class="container">
       <h1>Digital Marketing Blog</h1>
       <p>Expert insights, actionable strategies, and proven tips to grow your business online</p>
@@ -214,18 +214,20 @@
         ?>
         <div class="col-lg-4 col-md-6 col-12 mb-4" data-aos="fade-up">
           <div class="blog-card">
-            <a href="/blog/<?php echo $blog['slug']; ?>">
-              <img loading="lazy" src="<?php echo $blog['image']; ?>" alt="<?php echo htmlspecialchars($blog['title']); ?>" class="blog-card-img">
-            </a>
-            <div class="blog-card-body">
+            <div class="blog-card-img-wrapper">
+              <a href="/blog/<?php echo $blog['slug']; ?>">
+                <img loading="lazy" src="<?php echo $blog['image']; ?>" alt="<?php echo htmlspecialchars($blog['title']); ?>" class="blog-card-img">
+              </a>
               <span class="blog-card-category"><?php echo $blog['category']; ?></span>
+            </div>
+            <div class="blog-card-body">
               <h2 class="blog-card-title">
                 <a href="/blog/<?php echo $blog['slug']; ?>"><?php echo $blog['title']; ?></a>
               </h2>
               <p class="blog-card-excerpt"><?php echo $blog['excerpt']; ?></p>
               <div class="blog-card-meta">
-                <span class="blog-card-date"><i class="fa fa-calendar-alt"></i> <?php echo $blog['date']; ?></span>
-                <a href="/blog/<?php echo $blog['slug']; ?>" class="blog-card-readmore">Read More →</a>
+                <span class="blog-card-date"><i class="fa fa-calendar"></i> <?php echo $blog['date']; ?></span>
+                <a href="/blog/<?php echo $blog['slug']; ?>" class="blog-card-readmore">Read More</a>
               </div>
             </div>
           </div>

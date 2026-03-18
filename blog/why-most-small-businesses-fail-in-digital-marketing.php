@@ -118,25 +118,33 @@
 <body>
 
 <?php include('../topbar.php'); ?>
-<?php include('../header.php'); ?>
-
-<section class="blog-post-banner">
-  <div class="container">
-    <nav class="breadcrumb">
-      <a href="/">Home</a> &raquo; <a href="/blog/">Blog</a> &raquo; <span>Why Most Small Businesses Fail in Digital Marketing</span>
-    </nav>
-    <h1>Why Most Small Businesses Fail in Digital Marketing (And How to Win)</h1>
-    <div class="post-meta">
-      <span class="category">Small Business</span>
-      <span class="date">February 18, 2026</span>
-      <span class="read-time">14 min read</span>
+<!-- Blog Post Banner -->
+  <section class="blog-post-banner" style="background: linear-gradient(135deg, #000950 0%, #425CA9 100%);">
+    <?php include('../header.php'); ?>
+    <div class="container">
+      <div class="breadcrumb-blog">
+        <a href="/">Home</a> / <a href="/blog/">Blog</a> / <span>Why Most Small Businesses Fail in Digital Marketing (And How to Win)</span>
+      </div>
+      <span class="blog-category-badge">Category</span>
+      <h1>Why Most Small Businesses Fail in Digital Marketing (And How to Win)</h1>
+      <div class="post-meta">
+        <span><i class="fa fa-calendar"></i> </span>
+        <span><i class="fa fa-user"></i> By Cognivic Digital</span>
+        <span><i class="fa fa-clock-o"></i> 10 min read</span>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="blog-post-content">
-  <div class="container">
-    <div class="post-body">
+  <!-- Blog Post Content -->
+  <section class="blog-post-content">
+    <div class="container">
+      <div class="blog-post-wrapper">
+        <div class="blog-post-hero-img-container">
+          <img src="/images/blog/small-business-digital-marketing.svg" alt="Why Most Small Businesses Fail in Digital Marketing (And How to Win)" class="blog-post-hero-img">
+        </div>
+
+        
+        <div class="post-body">
 
       <div class="table-of-contents">
         <h2>Table of Contents</h2>
