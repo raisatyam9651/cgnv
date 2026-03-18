@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#388e3c"/>
+      <stop offset="100%" style="stop-color:#1565c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="700" cy="80" r="52" fill="white" opacity="0.05"/>
+  <circle cx="100" cy="360" r="40" fill="white" opacity="0.05"/>
+  <!-- Dollar/chart icon -->
+  <g transform="translate(400,170)" opacity="0.9">
+    <!-- Circular dollar -->
+    <circle cx="0" cy="-20" r="45" fill="white" opacity="0.15" stroke="white" stroke-width="2.5"/>
+    <text x="0" y="-8" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="40" font-weight="bold">$</text>
+    <!-- Upward arrow -->
+    <line x1="55" y1="30" x2="55" y2="-50" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <polyline points="45,-40 55,-50 65,-40" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Percentage symbol -->
+    <text x="-60" y="50" fill="white" font-family="Arial,sans-serif" font-size="24" opacity="0.5">%</text>
+    <!-- Small chart bars -->
+    <rect x="-70" y="10" width="10" height="20" rx="2" fill="white" opacity="0.4"/>
+    <rect x="-55" y="0" width="10" height="30" rx="2" fill="white" opacity="0.5"/>
+    <rect x="-40" y="-10" width="10" height="40" rx="2" fill="white" opacity="0.6"/>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Measuring ROI in Digital Marketing</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

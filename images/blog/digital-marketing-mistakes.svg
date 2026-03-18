@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e65100"/>
+      <stop offset="100%" style="stop-color:#f9a825"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="660" cy="90" r="65" fill="white" opacity="0.05"/>
+  <circle cx="140" cy="350" r="40" fill="white" opacity="0.05"/>
+  <!-- Warning triangle icon -->
+  <g transform="translate(400,170)" opacity="0.9">
+    <path d="M0,-70 L65,50 L-65,50 Z" fill="none" stroke="white" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M0,-70 L65,50 L-65,50 Z" fill="white" opacity="0.15"/>
+    <line x1="0" y1="-30" x2="0" y2="15" stroke="white" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="32" r="4" fill="white"/>
+    <!-- Small X marks around -->
+    <g stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.5">
+      <line x1="-85" y1="-30" x2="-75" y2="-20"/>
+      <line x1="-75" y1="-30" x2="-85" y2="-20"/>
+      <line x1="80" y1="-25" x2="90" y2="-15"/>
+      <line x1="90" y1="-25" x2="80" y2="-15"/>
+      <line x1="-80" y1="40" x2="-70" y2="50"/>
+      <line x1="-70" y1="40" x2="-80" y2="50"/>
+    </g>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Digital Marketing Mistakes to Avoid</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

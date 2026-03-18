@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c62828"/>
+      <stop offset="100%" style="stop-color:#e65100"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="700" cy="70" r="55" fill="white" opacity="0.05"/>
+  <circle cx="100" cy="370" r="45" fill="white" opacity="0.05"/>
+  <!-- Funnel icon -->
+  <g transform="translate(400,170)" opacity="0.9">
+    <!-- Funnel shape -->
+    <path d="M-60,-60 L60,-60 L20,20 L20,55 L-20,55 L-20,20 Z" fill="white" opacity="0.2" stroke="white" stroke-width="2.5"/>
+    <!-- Dots entering funnel -->
+    <circle cx="-30" cy="-80" r="6" fill="white" opacity="0.9"/>
+    <circle cx="0" cy="-85" r="6" fill="white" opacity="0.9"/>
+    <circle cx="30" cy="-80" r="6" fill="white" opacity="0.9"/>
+    <circle cx="-15" cy="-75" r="5" fill="white" opacity="0.7"/>
+    <circle cx="15" cy="-75" r="5" fill="white" opacity="0.7"/>
+    <!-- X mark at bottom -->
+    <line x1="-12" y1="68" x2="12" y2="92" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <line x1="12" y1="68" x2="-12" y2="92" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <!-- Question marks -->
+    <text x="-70" y="10" fill="white" font-family="Arial,sans-serif" font-size="28" font-weight="bold" opacity="0.6">?</text>
+    <text x="60" y="10" fill="white" font-family="Arial,sans-serif" font-size="28" font-weight="bold" opacity="0.6">?</text>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Why Your Business Is Not Getting Leads</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00838f"/>
+      <stop offset="100%" style="stop-color:#1565c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="670" cy="85" r="55" fill="white" opacity="0.05"/>
+  <circle cx="130" cy="355" r="38" fill="white" opacity="0.05"/>
+  <!-- Balance/scale icon -->
+  <g transform="translate(400,170)" opacity="0.9">
+    <!-- Center pillar -->
+    <rect x="-4" y="-10" width="8" height="80" rx="3" fill="white" opacity="0.7"/>
+    <circle cx="0" cy="-15" r="8" fill="white" opacity="0.8"/>
+    <!-- Beam -->
+    <line x1="-70" y1="-5" x2="70" y2="5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <!-- Left pan (SEO) -->
+    <path d="M-85,0 L-55,0 L-60,30 L-90,30 Z" fill="white" opacity="0.2" stroke="white" stroke-width="2"/>
+    <line x1="-70" y1="-5" x2="-85" y2="0" stroke="white" stroke-width="1.5"/>
+    <line x1="-70" y1="-5" x2="-55" y2="0" stroke="white" stroke-width="1.5"/>
+    <text x="-72" y="22" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="bold">SEO</text>
+    <!-- Right pan (ADS) -->
+    <path d="M55,5 L85,5 L80,35 L50,35 Z" fill="white" opacity="0.2" stroke="white" stroke-width="2"/>
+    <line x1="70" y1="5" x2="55" y2="5" stroke="white" stroke-width="1.5"/>
+    <line x1="70" y1="5" x2="85" y2="5" stroke="white" stroke-width="1.5"/>
+    <text x="68" y="27" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="bold">ADS</text>
+    <!-- VS text -->
+    <text x="0" y="-45" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="18" font-weight="bold" opacity="0.6">VS</text>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">SEO vs Paid Ads: Which Is Better?</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

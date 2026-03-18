@@ -210,7 +210,10 @@
                   </div>
                 </li>
 
-     
+                <li>
+                  <a href="/blog/">Blog</a>
+                </li>
+
                 <li class="d-mob-none">
                   <a href="tel:7737861358" class="top-phone">
                     <img alt="Header graphic" loading="lazy" src="/images/phone.svg" width="23" />

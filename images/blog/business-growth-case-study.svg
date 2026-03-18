@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1565c0"/>
+      <stop offset="100%" style="stop-color:#00897b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="680" cy="75" r="52" fill="white" opacity="0.05"/>
+  <circle cx="120" cy="365" r="40" fill="white" opacity="0.05"/>
+  <!-- Growth/chart icon with case study feel -->
+  <g transform="translate(400,165)" opacity="0.9">
+    <!-- Document/case study -->
+    <rect x="-55" y="-65" width="70" height="90" rx="5" fill="white" opacity="0.15" stroke="white" stroke-width="2"/>
+    <!-- Document lines -->
+    <rect x="-42" y="-50" width="35" height="3" rx="1" fill="white" opacity="0.4"/>
+    <rect x="-42" y="-40" width="44" height="3" rx="1" fill="white" opacity="0.3"/>
+    <rect x="-42" y="-30" width="30" height="3" rx="1" fill="white" opacity="0.3"/>
+    <!-- Mini chart on document -->
+    <rect x="-42" y="-15" width="44" height="28" rx="2" fill="white" opacity="0.1" stroke="white" stroke-width="1"/>
+    <polyline points="-38,8 -25,0 -12,-8 0,-2 8,-12" fill="none" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Large growth arrow -->
+    <path d="M30,40 L30,-10 Q30,-40 50,-55" fill="none" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <polygon points="50,-55 42,-48 48,-40" fill="white"/>
+    <!-- Percentage badges -->
+    <rect x="20" y="45" width="50" height="20" rx="10" fill="white" opacity="0.25"/>
+    <text x="45" y="59" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="bold">+250%</text>
+    <!-- Checkmark -->
+    <circle cx="55" cy="-15" r="14" fill="white" opacity="0.2"/>
+    <polyline points="48,-15 53,-10 63,-22" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Business Growth: A Case Study</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

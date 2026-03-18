@@ -39,7 +39,7 @@
             <div class="col-md-6 col-lg-2 pb-md-0 pb-4 pt-lg-0 pt-3">
               <span>Need more Info</span>
               <ul>
-                <li><a href="#" class="disabled-link">Blog </a></li>
+                <li><a href="/blog/">Blog </a></li>
                 <li><a href="#" rel="nofollow" target="_blank" >Privacy Policy </a></li>
                 <li><a href="#" class="disabled-link">Terms and Conditions</a></li>
               </ul>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1565c0"/>
+      <stop offset="100%" style="stop-color:#6a1b9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="690" cy="75" r="45" fill="white" opacity="0.05"/>
+  <circle cx="110" cy="365" r="38" fill="white" opacity="0.05"/>
+  <!-- Screen (website) and phone (social media) -->
+  <g transform="translate(400,165)" opacity="0.9">
+    <!-- Desktop screen -->
+    <rect x="-85" y="-55" width="80" height="60" rx="5" fill="white" opacity="0.15" stroke="white" stroke-width="2"/>
+    <rect x="-80" y="-50" width="70" height="42" rx="2" fill="white" opacity="0.1"/>
+    <rect x="-55" y="5" width="20" height="12" fill="white" opacity="0.3"/>
+    <rect x="-65" y="17" width="40" height="3" rx="1" fill="white" opacity="0.3"/>
+    <!-- Lines on screen -->
+    <rect x="-75" y="-45" width="30" height="3" rx="1" fill="white" opacity="0.5"/>
+    <rect x="-75" y="-38" width="50" height="2" rx="1" fill="white" opacity="0.3"/>
+    <rect x="-75" y="-32" width="40" height="2" rx="1" fill="white" opacity="0.3"/>
+    <!-- VS -->
+    <text x="0" y="0" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="18" font-weight="bold" opacity="0.6">VS</text>
+    <!-- Phone -->
+    <rect x="25" y="-45" width="40" height="70" rx="6" fill="white" opacity="0.15" stroke="white" stroke-width="2"/>
+    <rect x="30" y="-35" width="30" height="45" rx="2" fill="white" opacity="0.1"/>
+    <circle cx="45" cy="18" r="4" fill="white" opacity="0.4"/>
+    <!-- Social icons on phone -->
+    <circle cx="38" cy="-25" r="4" fill="white" opacity="0.5"/>
+    <circle cx="52" cy="-25" r="4" fill="white" opacity="0.5"/>
+    <circle cx="38" cy="-12" r="4" fill="white" opacity="0.5"/>
+    <circle cx="52" cy="-12" r="4" fill="white" opacity="0.5"/>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Website vs Social Media: What You Need</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8e24aa"/>
+      <stop offset="100%" style="stop-color:#d81b60"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="690" cy="75" r="50" fill="white" opacity="0.05"/>
+  <circle cx="110" cy="365" r="40" fill="white" opacity="0.05"/>
+  <!-- Trend/arrow icon -->
+  <g transform="translate(400,165)" opacity="0.9">
+    <!-- Upward trending line -->
+    <polyline points="-65,50 -30,20 0,-10 30,-30 65,-60" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Arrow head -->
+    <polygon points="65,-60 50,-55 58,-45" fill="white"/>
+    <!-- Data points -->
+    <circle cx="-65" cy="50" r="5" fill="white" opacity="0.8"/>
+    <circle cx="-30" cy="20" r="5" fill="white" opacity="0.8"/>
+    <circle cx="0" cy="-10" r="5" fill="white" opacity="0.8"/>
+    <circle cx="30" cy="-30" r="5" fill="white" opacity="0.8"/>
+    <circle cx="65" cy="-60" r="5" fill="white" opacity="0.9"/>
+    <!-- Dotted prediction line -->
+    <line x1="65" y1="-60" x2="85" y2="-80" stroke="white" stroke-width="2" stroke-dasharray="4,4" opacity="0.5"/>
+    <!-- Year badge -->
+    <rect x="-30" y="-80" width="60" height="24" rx="12" fill="white" opacity="0.25"/>
+    <text x="0" y="-64" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" font-weight="bold">2026</text>
+    <!-- Sparkle effects -->
+    <line x1="-75" y1="-40" x2="-75" y2="-50" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+    <line x1="-80" y1="-45" x2="-70" y2="-45" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+    <line x1="80" y1="-30" x2="80" y2="-40" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+    <line x1="75" y1="-35" x2="85" y2="-35" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Digital Marketing Trends for 2026</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

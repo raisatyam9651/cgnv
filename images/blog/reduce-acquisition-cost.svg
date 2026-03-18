@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#388e3c"/>
+      <stop offset="100%" style="stop-color:#f9a825"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="685" cy="80" r="48" fill="white" opacity="0.05"/>
+  <circle cx="115" cy="360" r="36" fill="white" opacity="0.05"/>
+  <!-- Savings/coin icon -->
+  <g transform="translate(400,165)" opacity="0.9">
+    <!-- Piggy bank shape (simplified) -->
+    <ellipse cx="-10" cy="0" rx="50" ry="40" fill="white" opacity="0.15" stroke="white" stroke-width="2"/>
+    <!-- Coin slot -->
+    <rect x="-20" y="-42" width="20" height="4" rx="2" fill="white" opacity="0.6"/>
+    <!-- Eye -->
+    <circle cx="-35" cy="-12" r="4" fill="white" opacity="0.7"/>
+    <!-- Snout -->
+    <ellipse cx="-58" cy="0" rx="10" ry="8" fill="white" opacity="0.25" stroke="white" stroke-width="1.5"/>
+    <circle cx="-60" cy="-2" r="2" fill="white" opacity="0.6"/>
+    <circle cx="-56" cy="-2" r="2" fill="white" opacity="0.6"/>
+    <!-- Legs -->
+    <rect x="-30" y="35" width="8" height="15" rx="3" fill="white" opacity="0.4"/>
+    <rect x="10" y="35" width="8" height="15" rx="3" fill="white" opacity="0.4"/>
+    <!-- Coins stacking -->
+    <ellipse cx="55" cy="40" rx="20" ry="6" fill="white" opacity="0.3" stroke="white" stroke-width="1"/>
+    <ellipse cx="55" cy="32" rx="20" ry="6" fill="white" opacity="0.35" stroke="white" stroke-width="1"/>
+    <ellipse cx="55" cy="24" rx="20" ry="6" fill="white" opacity="0.4" stroke="white" stroke-width="1"/>
+    <ellipse cx="55" cy="16" rx="20" ry="6" fill="white" opacity="0.45" stroke="white" stroke-width="1"/>
+    <!-- Down arrow (cost reduction) -->
+    <line x1="55" y1="-50" x2="55" y2="-20" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <polyline points="45,-28 55,-18 65,-28" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Dollar sign -->
+    <text x="55" y="-55" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="18" font-weight="bold" opacity="0.6">$</text>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Reduce Customer Acquisition Cost</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2e7d32"/>
+      <stop offset="100%" style="stop-color:#1565c0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="680" cy="85" r="52" fill="white" opacity="0.05"/>
+  <circle cx="120" cy="350" r="38" fill="white" opacity="0.05"/>
+  <!-- Shield/heart icon -->
+  <g transform="translate(400,165)" opacity="0.9">
+    <!-- Shield -->
+    <path d="M0,-70 L50,-50 L50,10 C50,45 0,70 0,70 C0,70 -50,45 -50,10 L-50,-50 Z" fill="white" opacity="0.15" stroke="white" stroke-width="2.5"/>
+    <!-- Heart inside shield -->
+    <path d="M0,-15 C0,-15 -25,-40 -25,-22 C-25,-8 0,15 0,15 C0,15 25,-8 25,-22 C25,-40 0,-15 0,-15 Z" fill="white" opacity="0.7"/>
+    <!-- Checkmark on heart -->
+    <polyline points="-8,-8 -3,0 10,-15" fill="none" stroke="#2e7d32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Trust dots around -->
+    <circle cx="-65" cy="-20" r="4" fill="white" opacity="0.4"/>
+    <circle cx="65" cy="-20" r="4" fill="white" opacity="0.4"/>
+    <circle cx="-55" cy="30" r="3" fill="white" opacity="0.3"/>
+    <circle cx="55" cy="30" r="3" fill="white" opacity="0.3"/>
+    <!-- Small stars -->
+    <text x="-60" y="-45" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.4">&#9733;</text>
+    <text x="52" y="-45" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.4">&#9733;</text>
+  </g>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold" opacity="0.95">Build Trust With Your Online Audience</text>
+  <text x="400" y="400" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="14" opacity="0.7">CGNV MARKETING</text>
+</svg>
