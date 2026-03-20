@@ -83,51 +83,51 @@
               <div class="col-md-12">
               <div class="owl-carousel owl-theme top-client-bar">
 			    <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Web Development graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                
               </div>
@@ -141,7 +141,7 @@
         <div class="container">
           <div class="text-center">
             <h2 class="black-text aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-              Web Development in Anantapur That Works Like Magic
+              Web Development Agency in Anantapur That Works Like Magic
             </h2>
             <div class="col-md-8 m-auto text-center">
               <p class="font-weight-bold">Cognivic Digital crafts success by turning clicks into loyal customers.</p>
@@ -153,7 +153,7 @@
                 <div class="col-md-4">
                   <div class="box orange py-3 py-md-5 px-md-4 px-2">
                     <h3 class="white-text font-weight-bold h4">Increases Leads and Customers</h3>
-                    <p class="white-text">Being the best Web Development agency in Anantapur, we build your website with the best technologies. A well-structured site has great potential to capture and convert your visitors.</p>
+                    <p class="white-text">Being the best Web Development Agency agency in Anantapur, we build your website with the best technologies. A well-structured site has great potential to capture and convert your visitors.</p>
                   </div>
                 </div>
                 <div class="col-md-4">
@@ -194,10 +194,10 @@
         <div class="container">
           <div class="text-center">
             <h2 class="black-text" data-aos="fade-up" data-aos-delay="200">
-              How we maximize your returns with Web Development in Anantapur
+              How we maximize your returns with Web Development Agency in Anantapur
             </h2>
             <div class="col-lg-8 col-md-12 m-auto text-center" data-aos="fade-up" data-aos-delay="300">
-              <p class="">Designing, developing, and maintaining a professional website is quite complex to handle on your own. This is where our Web Development services come to help you achieve success.</p>
+              <p class="">Designing, developing, and maintaining a professional website is quite complex to handle on your own. This is where our Web Development Agency services come to help you achieve success.</p>
             </div>
           </div>
           <div class="row p-lg-5 p-3 position-relative line-section">
@@ -232,8 +232,8 @@
                 <div class="number">
                   02
                 </div>
-                <h3 class="black-text font-weight-bold">Custom Web Development</h3>
-                <p>Custom websites enable businesses to showcase their products effectively in the digital space. The final website relies on factors such as codebase quality, scalable architecture, security, responsiveness, and loading speed. Our prominent Web Development service in Anantapur helps you harness the power of modern web technologies.</p>
+                <h3 class="black-text font-weight-bold">Custom Web Development Agency</h3>
+                <p>Custom websites enable businesses to showcase their products effectively in the digital space. The final website relies on factors such as codebase quality, scalable architecture, security, responsiveness, and loading speed. Our prominent Web Development Agency service in Anantapur helps you harness the power of modern web technologies.</p>
               </div>
             </div>
           </div>
@@ -283,7 +283,7 @@
                   05
                 </div>
                 <h3 class="black-text font-weight-bold">Responsive Web Design</h3>
-                <p>When you hire our Web Development service in Anantapur, we also level up your business by ensuring your website is fully responsive across all devices. We at Cognivic Digital design fluid layouts that automatically adapt to mobile phones, tablets, and desktops. In this way, we provide a seamless experience to all your users.</p>
+                <p>When you hire our Web Development Agency service in Anantapur, we also level up your business by ensuring your website is fully responsive across all devices. We at Cognivic Digital design fluid layouts that automatically adapt to mobile phones, tablets, and desktops. In this way, we provide a seamless experience to all your users.</p>
               </div>
             </div>
             <div class="col-md-6 me-auto order-lg-2 order-1 ">
@@ -389,7 +389,7 @@
                     </div>
                     <div>
                       <h3 class="text-white h5">Expertise</h3>
-                      <p class="text-white">We have certified Web Development professionals with years of expertise in building platforms that convert visitors into loyal customers.</p>
+                      <p class="text-white">We have certified Web Development Agency professionals with years of expertise in building platforms that convert visitors into loyal customers.</p>
                     </div>
                   </li>
                   <li data-aos="fade-down" data-aos-delay="600" data-aos-duration="1000">
@@ -423,7 +423,7 @@
                 <div class="img-part position-relative">
                   <img loading="lazy" src="images/google/img.webp" alt="" class="img-responsive">
                   <div class="orange-box">
-                    Grow your <br> business with <br> Web Development <br> by Cognivic Digital
+                    Grow your <br> business with <br> Web Development Agency <br> by Cognivic Digital
                   </div>
                 </div>
 
@@ -439,7 +439,7 @@
           <div class="row">
             <div class="col-md-10 m-auto text-center">
               <h2 data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000"> Connected Clients</h2>
-              <p data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1000">Because of our high-performing and budget-friendly Web Development services in Anantapur, we have achieved a deep trust and strong presence between different clients. We ensure your long-term success.</p>
+              <p data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1000">Because of our high-performing and budget-friendly Web Development Agency services in Anantapur, we have achieved a deep trust and strong presence between different clients. We ensure your long-term success.</p>
             </div>
           </div>
         </div>
@@ -479,7 +479,7 @@
 
                 <div class="item item5">
                   <p class="h3">Parashnath Clinic</p>
-                 <p class="h5">Cognivic Digital’s expertise in Web Development in Anantapur has made a huge difference for my business. Their strategic approach has helped us generate more leads, and I couldn’t be happier with the results.</p>
+                 <p class="h5">Cognivic Digital’s expertise in Web Development Agency in Anantapur has made a huge difference for my business. Their strategic approach has helped us generate more leads, and I couldn’t be happier with the results.</p>
                 </div>
 
               
@@ -524,7 +524,7 @@
                 audience. Hire us now!</p>
             </div>
             <div class="col-md-3 text-right">
-              <img alt="Web Development graphic" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
+              <img alt="Web Development Agency In Anantapur graphic" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
             </div>
           </div>
         </div>
@@ -538,60 +538,60 @@
                     <div class="card">
                       <div class="card-header" id="faqhead1">
                         <h3><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                          aria-expanded="true" aria-controls="faq1">How do Web Development agencies in Anantapur charge for their services?</a> </h3>
+                          aria-expanded="true" aria-controls="faq1">How do Web Development Agency agencies in Anantapur charge for their services?</a> </h3>
                       </div>
     
                       <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                         <div class="card-body">
-                          Web Development agencies typically charge clients based on a variety of models, including a monthly retainer fee, a percentage of ad spend, or a performance-based fee structure. The pricing model can vary depending on the agency's services, expertise, and the scope of the client's advertising needs.
+                          Web Development Agency agencies typically charge clients based on a variety of models, including a monthly retainer fee, a percentage of ad spend, or a performance-based fee structure. The pricing model can vary depending on the agency's services, expertise, and the scope of the client's advertising needs.
                         </div>
                       </div>
                     </div>
                     <div class="card">
                       <div class="card-header" id="faqhead2">
                         <h3><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                          aria-expanded="true" aria-controls="faq2">Will I have access to my Web Development account if I hire an agency?</a></h3>
+                          aria-expanded="true" aria-controls="faq2">Will I have access to my Web Development Agency account if I hire an agency?</a></h3>
                       </div>
     
                       <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
                         <div class="card-body">
-                          Yes, as the client, you should retain ownership and access to your Web Development account when working with an agency. The agency will typically request access to your account through Google's platform, allowing them to manage campaigns on your behalf.
+                          Yes, as the client, you should retain ownership and access to your Web Development Agency account when working with an agency. The agency will typically request access to your account through Google's platform, allowing them to manage campaigns on your behalf.
                         </div>
                       </div>
                     </div>
                     <div class="card">
                       <div class="card-header" id="faqhead3">
                        <h3> <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq3"
-                          aria-expanded="true" aria-controls="faq3">How long does it take to see results from Web Development campaigns managed by an agency?</a></h3>
+                          aria-expanded="true" aria-controls="faq3">How long does it take to see results from Web Development Agency campaigns managed by an agency?</a></h3>
                       </div>
     
                       <div id="faq3" class="collapse" aria-labelledby="faqhead3" data-parent="#faq">
                         <div class="card-body">
-                          The timeline for seeing results from Web Development campaigns can vary depending on factors such as the competitiveness of your industry, the effectiveness of your campaign strategy, and your advertising budget. Generally, it may take a few days to 2 Weeks to see significant improvements in campaign performance.
+                          The timeline for seeing results from Web Development Agency campaigns can vary depending on factors such as the competitiveness of your industry, the effectiveness of your campaign strategy, and your advertising budget. Generally, it may take a few days to 2 Weeks to see significant improvements in campaign performance.
                         </div>
                       </div>
                     </div>
                     <div class="card">
                       <div class="card-header" id="faqhead4">
                         <h3> <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                          aria-expanded="true" aria-controls="faq4"> How do I choose the right Web Development agency in Anantapur for my business?</a> </h3>
+                          aria-expanded="true" aria-controls="faq4"> How do I choose the right Web Development Agency agency in Anantapur for my business?</a> </h3>
                       </div>
     
                       <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                         <div class="card-body">
-                          When selecting a Web Development agency, consider factors such as the agency's experience and expertise in your industry, client testimonials and case studies, transparency in pricing and reporting, communication and responsiveness, and alignment with your business goals and values.
+                          When selecting a Web Development Agency agency, consider factors such as the agency's experience and expertise in your industry, client testimonials and case studies, transparency in pricing and reporting, communication and responsiveness, and alignment with your business goals and values.
                         </div>
                       </div>
                     </div>
                     <div class="card">
                       <div class="card-header" id="faqhead5">
                         <h3> <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                          aria-expanded="true" aria-controls="faq5">Why should I hire a Web Development agency in Anantapur?</a> </h3>
+                          aria-expanded="true" aria-controls="faq5">Why should I hire a Web Development Agency agency in Anantapur?</a> </h3>
                       </div>
     
                       <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                         <div class="card-body">
-                          Hiring a top Web Development agency in Anantapur ensures your website is built with industry best practices, is optimized for speed and SEO, and provides an excellent user experience tailored to your business goals.
+                          Hiring a top Web Development Agency agency in Anantapur ensures your website is built with industry best practices, is optimized for speed and SEO, and provides an excellent user experience tailored to your business goals.
                         </div>
                       </div>
                     </div>
@@ -634,19 +634,13 @@
         <div class="container mb-5 mt-5 state-cities-grid">
     <div class="row">
         <div class="col-md-12 text-center mb-4">
-            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Andhra Pradesh</h3>
-            <p style="color: #666;">Explore our expert Web Development services across Andhra Pradesh</p>
+            <h3 class="h2 font-weight-bold" style="color: #000;">Our Serving Locations in Anantapur</h3>
+            <p style="color: #666;">Explore our expert Web Development Agency services across Anantapur</p>
         </div>
         <div class="col-md-12">
             <div class="row">
                <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-anantapur">Web Development Agency in Anantapur</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-chittoor">Web Development Agency in Chittoor</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-guntur">Web Development Agency in Guntur</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-kadapa">Web Development Agency in Kadapa</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-kurnool">Web Development Agency in Kurnool</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-nellore">Web Development Agency in Nellore</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-vijayawada">Web Development Agency in Vijayawada</a></div>
-               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-visakhapatnam">Web Development Agency in Visakhapatnam</a></div>
+               <div class="col-md-3 col-6 mb-3"><a class="btn btn-outline-primary w-100" style="font-size: 14px; padding: 10px 5px;" href="web-development-agency-in-new-anantapur">Web Development Agency in New Anantapur</a></div>
             </div>
         </div>
     </div>

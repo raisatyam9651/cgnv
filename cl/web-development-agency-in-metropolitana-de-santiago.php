@@ -4,8 +4,8 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Web Development Agency in Metropolitana de Santiago | Cognivic Digital</title>
-  <meta name="description" content="Looking for the best web development agency in Metropolitana de Santiago? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
+  <title>Web Development Agency in Metropolitana De Santiago | Cognivic Digital</title>
+  <meta name="description" content="Looking for the best web development agency in Metropolitana De Santiago? Cognivic Digital offers custom web design, eCommerce solutions, and responsive websites.">
   <meta name='robots' content='index, follow' />
   <meta charset="utf-8">
   
@@ -27,9 +27,9 @@
           <div class="row">
             <div class="col-md-7">
              <div class="content pr-5" data-aos="fade-right" data-aos-delay="400">
-			  <h1 class="inner-banner-head">Web Development Agency in Metropolitana de Santiago</h1>
+			  <h1 class="inner-banner-head">Web Development Agency in Metropolitana De Santiago</h1>
                 <h2 class="white-text" data-aos="fade-right">
-                  Your Ideas, Our Code, Flawless Execution. We Build High-Performing Websites in Metropolitana de Santiago.
+                  Your Ideas, Our Code, Flawless Execution. We Build High-Performing Websites in Metropolitana De Santiago.
                 </h2>
                 <p class="white-text" data-aos="fade-right">
                   Let's turn visitors into customers with fast, secure, and custom web solutions.
@@ -83,51 +83,51 @@
               <div class="col-md-12">
               <div class="owl-carousel owl-theme top-client-bar">
 			    <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/1-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/2-11.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/3.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/4-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/5-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images1/client-logo/6-1.png" /> </a>
+                  <a href="#"> <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images1/client-logo/6-1.png" /> </a>
                 </div>
                
               </div>
@@ -141,7 +141,7 @@
         <div class="container">
           <div class="text-center">
             <h2 class="black-text aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-              Web Development in Metropolitana de Santiago That Works Like Magic
+              Web Development Agency in Metropolitana De Santiago That Works Like Magic
             </h2>
             <div class="col-md-8 m-auto text-center">
               <p class="font-weight-bold">Cognivic Digital crafts success by turning clicks into loyal customers.</p>
@@ -153,7 +153,7 @@
                 <div class="col-md-4">
                   <div class="box orange py-3 py-md-5 px-md-4 px-2">
                     <h3 class="white-text font-weight-bold h4">Increases Leads and Customers</h3>
-                    <p class="white-text">Being the best Web Development agency in Metropolitana de Santiago, we build your website with the best technologies. A well-structured site has great potential to capture and convert your visitors.</p>
+                    <p class="white-text">Being the best Web Development Agency agency in Metropolitana De Santiago, we build your website with the best technologies. A well-structured site has great potential to capture and convert your visitors.</p>
                   </div>
                 </div>
                 <div class="col-md-4">
@@ -194,10 +194,10 @@
         <div class="container">
           <div class="text-center">
             <h2 class="black-text" data-aos="fade-up" data-aos-delay="200">
-              How we maximize your returns with Web Development in Metropolitana de Santiago
+              How we maximize your returns with Web Development Agency in Metropolitana De Santiago
             </h2>
             <div class="col-lg-8 col-md-12 m-auto text-center" data-aos="fade-up" data-aos-delay="300">
-              <p class="">Designing, developing, and maintaining a professional website is quite complex to handle on your own. This is where our Web Development services come to help you achieve success.</p>
+              <p class="">Designing, developing, and maintaining a professional website is quite complex to handle on your own. This is where our Web Development Agency services come to help you achieve success.</p>
             </div>
           </div>
           <div class="row p-lg-5 p-3 position-relative line-section">
@@ -232,8 +232,8 @@
                 <div class="number">
                   02
                 </div>
-                <h3 class="black-text font-weight-bold">Custom Web Development</h3>
-                <p>Custom websites enable businesses to showcase their products effectively in the digital space. The final website relies on factors such as codebase quality, scalable architecture, security, responsiveness, and loading speed. Our prominent Web Development service in Metropolitana de Santiago helps you harness the power of modern web technologies.</p>
+                <h3 class="black-text font-weight-bold">Custom Web Development Agency</h3>
+                <p>Custom websites enable businesses to showcase their products effectively in the digital space. The final website relies on factors such as codebase quality, scalable architecture, security, responsiveness, and loading speed. Our prominent Web Development Agency service in Metropolitana De Santiago helps you harness the power of modern web technologies.</p>
               </div>
             </div>
           </div>
@@ -271,7 +271,7 @@
                   04
                 </div>
                 <h3 class="black-text font-weight-bold">Content Management Systems</h3>
-                <p>We are the best web development agency in Metropolitana de Santiago with strong expertise and skills in various platforms, and CMS integration is one of them. Our CMS solutions like WordPress and Shopify assist businesses to easily manage their digital content with less time and effort. We help them take full control of their online presence.</p>
+                <p>We are the best web development agency in Metropolitana De Santiago with strong expertise and skills in various platforms, and CMS integration is one of them. Our CMS solutions like WordPress and Shopify assist businesses to easily manage their digital content with less time and effort. We help them take full control of their online presence.</p>
               </div>
             </div>
           </div>
@@ -283,7 +283,7 @@
                   05
                 </div>
                 <h3 class="black-text font-weight-bold">Responsive Web Design</h3>
-                <p>When you hire our Web Development service in Metropolitana de Santiago, we also level up your business by ensuring your website is fully responsive across all devices. We at Cognivic Digital design fluid layouts that automatically adapt to mobile phones, tablets, and desktops. In this way, we provide a seamless experience to all your users.</p>
+                <p>When you hire our Web Development Agency service in Metropolitana De Santiago, we also level up your business by ensuring your website is fully responsive across all devices. We at Cognivic Digital design fluid layouts that automatically adapt to mobile phones, tablets, and desktops. In this way, we provide a seamless experience to all your users.</p>
               </div>
             </div>
             <div class="col-md-6 me-auto order-lg-2 order-1 ">
@@ -380,7 +380,7 @@
                   Why Choose Us
                 </h2>
                 <p class="text-white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="700">
-                  As a dedicated web development agency in Metropolitana de Santiago, we help you grow your business with our intelligent deliverables that create measurable KPIs.
+                  As a dedicated web development agency in Metropolitana De Santiago, we help you grow your business with our intelligent deliverables that create measurable KPIs.
                 </p>
                 <ul class="pt-md-4 pt-2">
                   <li data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
@@ -389,7 +389,7 @@
                     </div>
                     <div>
                       <h3 class="text-white h5">Expertise</h3>
-                      <p class="text-white">We have certified Web Development professionals with years of expertise in building platforms that convert visitors into loyal customers.</p>
+                      <p class="text-white">We have certified Web Development Agency professionals with years of expertise in building platforms that convert visitors into loyal customers.</p>
                     </div>
                   </li>
                   <li data-aos="fade-down" data-aos-delay="600" data-aos-duration="1000">
@@ -423,7 +423,7 @@
                 <div class="img-part position-relative">
                   <img loading="lazy" src="/images/google/img.webp" alt="" class="img-responsive">
                   <div class="orange-box">
-                    Grow your <br> business with <br> Web Development <br> by Cognivic Digital
+                    Grow your <br> business with <br> Web Development Agency <br> by Cognivic Digital
                   </div>
                 </div>
 
@@ -439,7 +439,7 @@
           <div class="row">
             <div class="col-md-10 m-auto text-center">
               <h2 data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000"> Connected Clients</h2>
-              <p data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1000">Because of our high-performing and budget-friendly Web Development services in Metropolitana de Santiago, we have achieved a deep trust and strong presence between different clients. We ensure your long-term success.</p>
+              <p data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1000">Because of our high-performing and budget-friendly Web Development Agency services in Metropolitana De Santiago, we have achieved a deep trust and strong presence between different clients. We ensure your long-term success.</p>
             </div>
           </div>
         </div>
@@ -479,7 +479,7 @@
 
                 <div class="item item5">
                   <p class="h3">Parashnath Clinic</p>
-                 <p class="h5">Cognivic Digital’s expertise in Web Development in Metropolitana de Santiago has made a huge difference for my business. Their strategic approach has helped us generate more leads, and I couldn’t be happier with the results.</p>
+                 <p class="h5">Cognivic Digital’s expertise in Web Development Agency in Metropolitana De Santiago has made a huge difference for my business. Their strategic approach has helped us generate more leads, and I couldn’t be happier with the results.</p>
                 </div>
 
               
@@ -524,7 +524,7 @@
                 audience. Hire us now!</p>
             </div>
             <div class="col-md-3 text-right">
-              <img alt="Web Development Agency In Metropolitana de Santiago graphic" loading="lazy" src="/images/scroll-down-arrow.webp" style="filter: invert(100%);" />
+              <img alt="Web Development Agency In Metropolitana De Santiago graphic" loading="lazy" src="/images/scroll-down-arrow.webp" style="filter: invert(100%);" />
             </div>
           </div>
         </div>
@@ -538,19 +538,19 @@
                     <div class="card">
                       <div class="card-header" id="faqhead1">
                         <h3><a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1"
-                          aria-expanded="true" aria-controls="faq1">How do Web Development agencies in Metropolitana de Santiago charge for their services?</a> </h3>
+                          aria-expanded="true" aria-controls="faq1">How do Web Development Agency agencies in Metropolitana De Santiago charge for their services?</a> </h3>
                       </div>
     
                       <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                         <div class="card-body">
-                          Web Development agencies typically charge clients based on a variety of models, including a monthly retainer fee, a project scope, or a performance-based fee structure. The pricing model can vary depending on the agency's services, expertise, and the scope of the client's development needs.
+                          Web Development Agency agencies typically charge clients based on a variety of models, including a monthly retainer fee, a project scope, or a performance-based fee structure. The pricing model can vary depending on the agency's services, expertise, and the scope of the client's development needs.
                         </div>
                       </div>
                     </div>
                     <div class="card">
                       <div class="card-header" id="faqhead2">
                         <h3><a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq2"
-                          aria-expanded="true" aria-controls="faq2">Will I own my website if I hire your Web Development agency?</a></h3>
+                          aria-expanded="true" aria-controls="faq2">Will I own my website if I hire your Web Development Agency agency?</a></h3>
                       </div>
     
                       <div id="faq2" class="collapse" aria-labelledby="faqhead2" data-parent="#faq">
@@ -574,24 +574,24 @@
                     <div class="card">
                       <div class="card-header" id="faqhead4">
                         <h3> <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq4"
-                          aria-expanded="true" aria-controls="faq4"> How do I choose the right Web Development agency in Metropolitana de Santiago for my business?</a> </h3>
+                          aria-expanded="true" aria-controls="faq4"> How do I choose the right Web Development Agency agency in Metropolitana De Santiago for my business?</a> </h3>
                       </div>
     
                       <div id="faq4" class="collapse" aria-labelledby="faqhead4" data-parent="#faq">
                         <div class="card-body">
-                          When selecting a Web Development agency, consider factors such as the agency's experience and expertise in your industry, client testimonials and case studies, transparency in pricing and reporting, communication and responsiveness, and alignment with your business goals and values.
+                          When selecting a Web Development Agency agency, consider factors such as the agency's experience and expertise in your industry, client testimonials and case studies, transparency in pricing and reporting, communication and responsiveness, and alignment with your business goals and values.
                         </div>
                       </div>
                     </div>
                     <div class="card">
                       <div class="card-header" id="faqhead5">
                         <h3> <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse" data-target="#faq5"
-                          aria-expanded="true" aria-controls="faq5">Why should I hire a Web Development agency in Metropolitana de Santiago?</a> </h3>
+                          aria-expanded="true" aria-controls="faq5">Why should I hire a Web Development Agency agency in Metropolitana De Santiago?</a> </h3>
                       </div>
     
                       <div id="faq5" class="collapse" aria-labelledby="faqhead5" data-parent="#faq">
                         <div class="card-body">
-                          Hiring a top Web Development agency in Metropolitana de Santiago ensures your website is built with industry best practices, is optimized for speed and SEO, and provides an excellent user experience tailored to your business goals.
+                          Hiring a top Web Development Agency agency in Metropolitana De Santiago ensures your website is built with industry best practices, is optimized for speed and SEO, and provides an excellent user experience tailored to your business goals.
                         </div>
                       </div>
                     </div>
