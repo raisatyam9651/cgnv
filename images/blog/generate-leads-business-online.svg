@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8E2DE2"/>
+      <stop offset="100%" style="stop-color:#F953C6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <polygon points="370,80 430,80 410,200 390,200" fill="rgba(255,255,255,0.4)"/><circle cx="380" cy="70" r="6" fill="rgba(255,255,255,0.5)"/><circle cx="400" cy="60" r="6" fill="rgba(255,255,255,0.6)"/><circle cx="420" cy="70" r="6" fill="rgba(255,255,255,0.5)"/><circle cx="400" cy="220" r="10" fill="rgba(255,255,255,0.8)"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Generate Leads Online</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

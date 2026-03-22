@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DA22FF"/>
+      <stop offset="100%" style="stop-color:#9733EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="340" cy="140" r="20" fill="rgba(255,255,255,0.4)"/><text x="340" y="147" text-anchor="middle" fill="white" font-size="20" font-family="Arial">👁</text><path d="M370,140 L430,140" fill="none" stroke="rgba(255,255,255,0.5)" stroke-width="2" stroke-dasharray="5,5"/><polygon points="430,135 440,140 430,145" fill="rgba(255,255,255,0.5)"/><rect x="450" y="120" width="40" height="40" rx="6" fill="rgba(255,255,255,0.5)"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Convert Visitors to Customers</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

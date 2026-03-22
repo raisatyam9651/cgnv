@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A2980"/>
+      <stop offset="100%" style="stop-color:#26D0CE"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="400" cy="120" r="40" fill="rgba(255,255,255,0.15)"/><path d="M400,80 L400,140 M385,105 L400,80 L415,105" fill="none" stroke="rgba(255,255,255,0.7)" stroke-width="3"/><circle cx="400" cy="155" r="5" fill="rgba(255,255,255,0.7)"/><circle cx="340" cy="200" r="15" fill="rgba(255,255,255,0.3)"/><circle cx="400" cy="200" r="15" fill="rgba(255,255,255,0.4)"/><circle cx="460" cy="200" r="15" fill="rgba(255,255,255,0.3)"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Why Your Business Needs Digital Marketing</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

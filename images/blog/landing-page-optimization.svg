@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F37335"/>
+      <stop offset="100%" style="stop-color:#FDC830"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <rect x="340" y="70" width="120" height="160" rx="6" fill="rgba(255,255,255,0.3)"/><rect x="355" y="85" width="90" height="15" rx="4" fill="rgba(255,255,255,0.5)"/><rect x="355" y="110" width="90" height="40" rx="4" fill="rgba(255,255,255,0.2)"/><rect x="370" y="160" width="60" height="25" rx="12" fill="rgba(255,255,255,0.6)"/><text x="400" y="178" text-anchor="middle" fill="white" font-size="10" font-family="Arial">CTA</text><path d="M470,90 L490,80 L490,100Z" fill="rgba(255,255,255,0.4)"/><path d="M470,130 L490,120 L490,140Z" fill="rgba(255,255,255,0.4)"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Landing Page Optimization</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

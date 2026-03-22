@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0575E6"/>
+      <stop offset="100%" style="stop-color:#4ECDC4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <rect x="355" y="110" width="90" height="70" rx="6" fill="rgba(255,255,255,0.4)"/><polygon points="345,110 400,80 455,110" fill="rgba(255,255,255,0.5)"/><rect x="380" y="140" width="20" height="40" fill="rgba(255,255,255,0.3)"/><path d="M460,170 L500,100 L510,105 L470,175" fill="rgba(255,255,255,0.7)"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Scale Local Business with Digital Marketing</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

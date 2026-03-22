@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F12711"/>
+      <stop offset="100%" style="stop-color:#8E54E9"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <path d="M390,80 Q400,60 410,80 Q420,100 410,120 Q400,145 390,120 Q380,100 390,80Z" fill="rgba(255,255,255,0.6)"/><path d="M395,95 Q400,85 405,95 Q410,105 405,115 Q400,125 395,115 Q390,105 395,95Z" fill="rgba(255,255,255,0.3)"/><circle cx="340" cy="170" r="12" fill="rgba(255,255,255,0.3)"/><circle cx="460" cy="170" r="12" fill="rgba(255,255,255,0.3)"/><path d="M352" y1="170" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Create Viral Content</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

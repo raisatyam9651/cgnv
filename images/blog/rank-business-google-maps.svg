@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F9B0F"/>
+      <stop offset="100%" style="stop-color:#38ef7d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <rect x="330" y="80" width="140" height="120" rx="8" fill="rgba(255,255,255,0.2)"/><path d="M370,120 C380,120 385,125 385,135 C385,150 370,160 370,160 C370,160 355,150 355,135 C355,125 360,120 370,120Z" fill="rgba(255,255,255,0.5)"/><circle cx="430" cy="100" r="20" fill="rgba(255,255,255,0.7)"/><text x="430" y="107" text-anchor="middle" fill="white" font-size="16" font-family="Arial" font-weight="bold">#1</text>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Rank on Google Maps</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>

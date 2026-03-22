@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#11998e"/>
+      <stop offset="100%" style="stop-color:#38ef7d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" rx="12"/>
+  <rect x="40" y="40" width="720" height="370" rx="8" fill="rgba(255,255,255,0.08)"/>
+  <path d="M400,70 C420,70 435,85 435,105 C435,135 400,170 400,170 C400,170 365,135 365,105 C365,85 380,70 400,70Z" fill="rgba(255,255,255,0.6)"/><circle cx="400" cy="105" r="12" fill="rgba(255,255,255,0.3)"/><circle cx="360" cy="200" r="6" fill="rgba(255,255,255,0.4)"/><circle cx="440" cy="190" r="6" fill="rgba(255,255,255,0.4)"/><circle cx="380" cy="220" r="6" fill="rgba(255,255,255,0.3)"/>
+  <text x="400" y="340" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Customers from Google Maps</text>
+  <text x="400" y="420" text-anchor="middle" fill="rgba(255,255,255,0.5)" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CGNV MARKETING</text>
+</svg>
