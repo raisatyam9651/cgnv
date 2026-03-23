@@ -144,7 +144,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/seo-vs-paid-ads.svg" alt="SEO vs Paid Ads: What Should Business Owners Invest In First?" class="blog-post-hero-img">
+          <img src="/images/blog/seo-vs-paid-ads.png" alt="SEO vs Paid Ads: What Should Business Owners Invest In First?" class="blog-post-hero-img">
         </div>
 
         

@@ -141,7 +141,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/business-growth-case-study.svg" alt="Case-Based Strategy: How Businesses Grow Faster with Digital Marketing" class="blog-post-hero-img">
+          <img src="/images/blog/business-growth-case-study.png" alt="Case-Based Strategy: How Businesses Grow Faster with Digital Marketing" class="blog-post-hero-img">
         </div>
 
         

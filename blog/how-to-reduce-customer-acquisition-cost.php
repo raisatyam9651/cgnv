@@ -141,7 +141,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/reduce-acquisition-cost.svg" alt="How to Reduce Customer Acquisition Cost Using Smart Marketing Strategies" class="blog-post-hero-img">
+          <img src="/images/blog/reduce-acquisition-cost.png" alt="How to Reduce Customer Acquisition Cost Using Smart Marketing Strategies" class="blog-post-hero-img">
         </div>
 
         

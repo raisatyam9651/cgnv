@@ -54,7 +54,7 @@
             'excerpt' => 'Discover proven digital marketing strategies that can help you scale your revenue 2x within six months using SEO, paid ads, and conversion optimization.',
             'category' => 'Revenue Growth',
             'date' => 'March 15, 2026',
-            'image' => '/images/blog/digital-marketing-revenue-growth.svg'
+            'image' => '/images/blog/digital-marketing-revenue-growth.png'
           ],
           [
             'slug' => 'complete-guide-business-owners-build-profitable-online-presence',
@@ -62,7 +62,7 @@
             'excerpt' => 'Learn step-by-step how to build a strong online presence that drives traffic, generates leads, and converts visitors into paying customers.',
             'category' => 'Online Presence',
             'date' => 'March 12, 2026',
-            'image' => '/images/blog/build-online-presence.svg'
+            'image' => '/images/blog/build-online-presence.png'
           ],
           [
             'slug' => 'why-your-business-is-not-getting-leads',
@@ -70,7 +70,7 @@
             'excerpt' => 'Struggling with low lead volume? Uncover the most common reasons businesses fail to generate leads and how digital marketing provides the fix.',
             'category' => 'Lead Generation',
             'date' => 'March 10, 2026',
-            'image' => '/images/blog/business-not-getting-leads.svg'
+            'image' => '/images/blog/business-not-getting-leads.png'
           ],
           [
             'slug' => '10-digital-marketing-mistakes-business-owners-must-avoid',
@@ -78,7 +78,7 @@
             'excerpt' => 'Avoid these costly digital marketing mistakes that drain your budget and kill your ROI. Learn what top-performing businesses do differently.',
             'category' => 'Strategy',
             'date' => 'March 8, 2026',
-            'image' => '/images/blog/digital-marketing-mistakes.svg'
+            'image' => '/images/blog/digital-marketing-mistakes.png'
           ],
           [
             'slug' => 'how-to-choose-right-digital-marketing-agency',
@@ -86,7 +86,7 @@
             'excerpt' => 'Not all agencies deliver results. Learn the key factors to evaluate before hiring a digital marketing agency that aligns with your goals.',
             'category' => 'Agency Selection',
             'date' => 'March 6, 2026',
-            'image' => '/images/blog/choose-digital-marketing-agency.svg'
+            'image' => '/images/blog/choose-digital-marketing-agency.png'
           ],
           [
             'slug' => 'seo-vs-paid-ads-what-should-business-owners-invest-in-first',
@@ -94,7 +94,7 @@
             'excerpt' => 'SEO or Google Ads? Understand the pros, cons, and ideal budget allocation to maximize your marketing ROI from day one.',
             'category' => 'SEO & PPC',
             'date' => 'March 4, 2026',
-            'image' => '/images/blog/seo-vs-paid-ads.svg'
+            'image' => '/images/blog/seo-vs-paid-ads.png'
           ],
           [
             'slug' => 'how-local-seo-can-bring-more-customers',
@@ -102,7 +102,7 @@
             'excerpt' => 'Dominate local search results and attract nearby customers with proven local SEO strategies including Google Business Profile optimization.',
             'category' => 'Local SEO',
             'date' => 'March 2, 2026',
-            'image' => '/images/blog/local-seo-customers.svg'
+            'image' => '/images/blog/local-seo-customers.png'
           ],
           [
             'slug' => 'real-roi-of-digital-marketing',
@@ -110,7 +110,7 @@
             'excerpt' => 'Cut through the noise and understand the actual returns you can expect from digital marketing investments across different channels.',
             'category' => 'ROI & Analytics',
             'date' => 'February 28, 2026',
-            'image' => '/images/blog/roi-digital-marketing.svg'
+            'image' => '/images/blog/roi-digital-marketing.png'
           ],
           [
             'slug' => 'how-to-generate-high-quality-leads-without-increasing-budget',
@@ -118,7 +118,7 @@
             'excerpt' => 'Smart lead generation tactics that help you attract better prospects and increase conversion rates without spending more money.',
             'category' => 'Lead Generation',
             'date' => 'February 25, 2026',
-            'image' => '/images/blog/generate-high-quality-leads.svg'
+            'image' => '/images/blog/generate-high-quality-leads.png'
           ],
           [
             'slug' => 'website-vs-social-media-where-should-business-owners-focus',
@@ -126,7 +126,7 @@
             'excerpt' => 'Should you invest more in your website or social media? This guide helps you decide based on your business goals and target audience.',
             'category' => 'Strategy',
             'date' => 'February 22, 2026',
-            'image' => '/images/blog/website-vs-social-media.svg'
+            'image' => '/images/blog/website-vs-social-media.png'
           ],
           [
             'slug' => 'how-to-scale-your-business-using-performance-marketing',
@@ -134,7 +134,7 @@
             'excerpt' => 'Learn how performance marketing through Google Ads and Meta Ads can deliver measurable, scalable growth for your business.',
             'category' => 'Performance Marketing',
             'date' => 'February 20, 2026',
-            'image' => '/images/blog/performance-marketing-scale.svg'
+            'image' => '/images/blog/performance-marketing-scale.png'
           ],
           [
             'slug' => 'why-most-small-businesses-fail-in-digital-marketing',
@@ -142,7 +142,7 @@
             'excerpt' => 'Understand the top reasons small businesses struggle with digital marketing and the actionable steps to turn failure into success.',
             'category' => 'Small Business',
             'date' => 'February 18, 2026',
-            'image' => '/images/blog/small-business-digital-marketing.svg'
+            'image' => '/images/blog/small-business-digital-marketing.png'
           ],
           [
             'slug' => 'how-branding-impacts-your-sales',
@@ -150,7 +150,7 @@
             'excerpt' => 'Strong branding is not just about logos. Learn how strategic branding directly increases customer trust, loyalty, and sales.',
             'category' => 'Branding',
             'date' => 'February 15, 2026',
-            'image' => '/images/blog/branding-impacts-sales.svg'
+            'image' => '/images/blog/branding-impacts-sales.png'
           ],
           [
             'slug' => 'ultimate-digital-marketing-checklist-for-new-business-owners',
@@ -158,7 +158,7 @@
             'excerpt' => 'Starting your digital marketing journey? Use this comprehensive checklist to cover SEO, content, ads, and social media from day one.',
             'category' => 'Getting Started',
             'date' => 'February 12, 2026',
-            'image' => '/images/blog/digital-marketing-checklist.svg'
+            'image' => '/images/blog/digital-marketing-checklist.png'
           ],
           [
             'slug' => 'how-to-turn-your-website-into-sales-machine',
@@ -166,7 +166,7 @@
             'excerpt' => 'Transform your website from a digital brochure into a lead-generating, revenue-driving machine with these proven optimization techniques.',
             'category' => 'Web Development',
             'date' => 'February 10, 2026',
-            'image' => '/images/blog/website-sales-machine.svg'
+            'image' => '/images/blog/website-sales-machine.png'
           ],
           [
             'slug' => 'what-business-owners-should-track-in-google-analytics',
@@ -174,7 +174,7 @@
             'excerpt' => 'Skip the overwhelm. Here are the exact metrics and reports every business owner should monitor in Google Analytics to make data-driven decisions.',
             'category' => 'Analytics',
             'date' => 'February 8, 2026',
-            'image' => '/images/blog/google-analytics-tracking.svg'
+            'image' => '/images/blog/google-analytics-tracking.png'
           ],
           [
             'slug' => 'how-to-build-trust-online-convert-visitors-into-customers',
@@ -182,7 +182,7 @@
             'excerpt' => 'Trust is the foundation of online sales. Discover practical strategies to build credibility and convert website visitors into loyal customers.',
             'category' => 'Conversion',
             'date' => 'February 5, 2026',
-            'image' => '/images/blog/build-trust-online.svg'
+            'image' => '/images/blog/build-trust-online.png'
           ],
           [
             'slug' => 'digital-marketing-trends-business-owners-should-watch-2026',
@@ -190,7 +190,7 @@
             'excerpt' => 'Stay ahead of the curve with the latest digital marketing trends including AI, voice search, short-form video, and personalization.',
             'category' => 'Trends',
             'date' => 'February 2, 2026',
-            'image' => '/images/blog/digital-marketing-trends-2026.svg'
+            'image' => '/images/blog/digital-marketing-trends-2026.png'
           ],
           [
             'slug' => 'how-to-reduce-customer-acquisition-cost',
@@ -198,7 +198,7 @@
             'excerpt' => 'Lower your CAC while maintaining lead quality. Learn smart strategies combining organic and paid channels for maximum efficiency.',
             'category' => 'Cost Optimization',
             'date' => 'January 30, 2026',
-            'image' => '/images/blog/reduce-acquisition-cost.svg'
+            'image' => '/images/blog/reduce-acquisition-cost.png'
           ],
           [
             'slug' => 'case-based-strategy-how-businesses-grow-with-digital-marketing',
@@ -206,7 +206,7 @@
             'excerpt' => 'Real-world examples and case studies showing how businesses achieved rapid growth through strategic digital marketing implementation.',
             'category' => 'Case Study',
             'date' => 'January 28, 2026',
-            'image' => '/images/blog/business-growth-case-study.svg'
+            'image' => '/images/blog/business-growth-case-study.png'
           ]
         ];
 

@@ -14,7 +14,7 @@
     "@type": "Article",
     "headline": "How to Choose the Right Digital Marketing Agency for Your Business",
     "description": "Learn how to choose the best digital marketing agency for your business. Key factors to evaluate including expertise, transparency, results & pricing.",
-    "image": "https://www.cognivicdigital.com/images/blog/choose-digital-marketing-agency.jpg",
+    "image": "https://www.cognivicdigital.com/images/blog/choose-digital-marketing-agency.png",
     "author": {
       "@type": "Organization",
       "name": "Cognivic Digital"
@@ -123,7 +123,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/choose-digital-marketing-agency.svg" alt="How to Choose the Right Digital Marketing Agency for Your Business" class="blog-post-hero-img">
+          <img src="/images/blog/choose-digital-marketing-agency.png" alt="How to Choose the Right Digital Marketing Agency for Your Business" class="blog-post-hero-img">
         </div>
 
         

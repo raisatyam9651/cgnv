@@ -141,7 +141,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/build-trust-online.svg" alt="How to Build Trust Online and Convert Visitors into Customers" class="blog-post-hero-img">
+          <img src="/images/blog/build-trust-online.png" alt="How to Build Trust Online and Convert Visitors into Customers" class="blog-post-hero-img">
         </div>
 
         

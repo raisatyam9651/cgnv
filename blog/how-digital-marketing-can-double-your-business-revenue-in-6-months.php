@@ -14,7 +14,7 @@
     "@type": "Article",
     "headline": "How Digital Marketing Can Double Your Business Revenue in 6 Months",
     "description": "Learn proven digital marketing strategies to 2x your business revenue in 6 months. Expert tips on SEO, PPC, content marketing & lead generation by Cognivic Digital.",
-    "image": "https://www.cognivicdigital.com/images/blog/digital-marketing-revenue-growth.jpg",
+    "image": "https://www.cognivicdigital.com/images/blog/digital-marketing-revenue-growth.png",
     "author": {
       "@type": "Organization",
       "name": "Cognivic Digital"
@@ -123,7 +123,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/digital-marketing-revenue-growth.svg" alt="How Digital Marketing Can Double Your Business Revenue in 6 Months" class="blog-post-hero-img">
+          <img src="/images/blog/digital-marketing-revenue-growth.png" alt="How Digital Marketing Can Double Your Business Revenue in 6 Months" class="blog-post-hero-img">
         </div>
 
         

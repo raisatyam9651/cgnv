@@ -140,7 +140,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/digital-marketing-checklist.svg" alt="The Ultimate Digital Marketing Checklist for New Business Owners" class="blog-post-hero-img">
+          <img src="/images/blog/digital-marketing-checklist.png" alt="The Ultimate Digital Marketing Checklist for New Business Owners" class="blog-post-hero-img">
         </div>
 
         

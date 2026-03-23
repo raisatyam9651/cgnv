@@ -140,7 +140,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/performance-marketing-scale.svg" alt="How to Scale Your Business Using Performance Marketing" class="blog-post-hero-img">
+          <img src="/images/blog/performance-marketing-scale.png" alt="How to Scale Your Business Using Performance Marketing" class="blog-post-hero-img">
         </div>
 
         

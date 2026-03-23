@@ -14,7 +14,7 @@
     "@type": "Article",
     "headline": "A Complete Guide for Business Owners to Build a Profitable Online Presence",
     "description": "Step-by-step guide to building a profitable online presence. Learn website development, SEO, social media, and content strategies for business owners.",
-    "image": "https://www.cognivicdigital.com/images/blog/build-profitable-online-presence.jpg",
+    "image": "https://www.cognivicdigital.com/images/blog/build-online-presence.png",
     "author": {
       "@type": "Organization",
       "name": "Cognivic Digital"
@@ -123,7 +123,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/build-online-presence.svg" alt="A Complete Guide for Business Owners to Build a Profitable Online Presence" class="blog-post-hero-img">
+          <img src="/images/blog/build-online-presence.png" alt="A Complete Guide for Business Owners to Build a Profitable Online Presence" class="blog-post-hero-img">
         </div>
 
         

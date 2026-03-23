@@ -144,7 +144,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/local-seo-customers.svg" alt="How Local SEO Can Bring More Customers to Your Business" class="blog-post-hero-img">
+          <img src="/images/blog/local-seo-customers.png" alt="How Local SEO Can Bring More Customers to Your Business" class="blog-post-hero-img">
         </div>
 
         

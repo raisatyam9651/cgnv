@@ -140,7 +140,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/branding-impacts-sales.svg" alt="How Branding Impacts Your Sales: A Guide for Business Owners" class="blog-post-hero-img">
+          <img src="/images/blog/branding-impacts-sales.png" alt="How Branding Impacts Your Sales: A Guide for Business Owners" class="blog-post-hero-img">
         </div>
 
         

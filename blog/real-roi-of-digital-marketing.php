@@ -144,7 +144,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/roi-digital-marketing.svg" alt="The Real ROI of Digital Marketing: What Every Owner Should Know" class="blog-post-hero-img">
+          <img src="/images/blog/roi-digital-marketing.png" alt="The Real ROI of Digital Marketing: What Every Owner Should Know" class="blog-post-hero-img">
         </div>
 
         

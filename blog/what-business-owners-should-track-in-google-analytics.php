@@ -141,7 +141,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/google-analytics-tracking.svg" alt="What Business Owners Should Track in Google Analytics (Simple Guide)" class="blog-post-hero-img">
+          <img src="/images/blog/google-analytics-tracking.png" alt="What Business Owners Should Track in Google Analytics (Simple Guide)" class="blog-post-hero-img">
         </div>
 
         

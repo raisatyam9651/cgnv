@@ -14,7 +14,7 @@
     "@type": "Article",
     "headline": "Why Your Business Is Not Getting Leads (And How Digital Marketing Fixes It)",
     "description": "Not getting enough leads? Discover the top reasons your business struggles with lead generation and how digital marketing strategies can fix it.",
-    "image": "https://www.cognivicdigital.com/images/blog/why-not-getting-leads.jpg",
+    "image": "https://www.cognivicdigital.com/images/blog/business-not-getting-leads.png",
     "author": {
       "@type": "Organization",
       "name": "Cognivic Digital"
@@ -123,7 +123,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/business-not-getting-leads.svg" alt="Why Your Business Is Not Getting Leads (And How Digital Marketing Fixes It)" class="blog-post-hero-img">
+          <img src="/images/blog/business-not-getting-leads.png" alt="Why Your Business Is Not Getting Leads" class="blog-post-hero-img">
         </div>
 
         

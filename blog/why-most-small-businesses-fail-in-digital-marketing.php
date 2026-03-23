@@ -140,7 +140,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/small-business-digital-marketing.svg" alt="Why Most Small Businesses Fail in Digital Marketing (And How to Win)" class="blog-post-hero-img">
+          <img src="/images/blog/small-business-digital-marketing.png" alt="Why Most Small Businesses Fail in Digital Marketing (And How to Win)" class="blog-post-hero-img">
         </div>
 
         

@@ -144,7 +144,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/website-vs-social-media.svg" alt="Website vs Social Media: Where Should Business Owners Focus More?" class="blog-post-hero-img">
+          <img src="/images/blog/website-vs-social-media.png" alt="Website vs Social Media: Where Should Business Owners Focus More?" class="blog-post-hero-img">
         </div>
 
         

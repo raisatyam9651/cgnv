@@ -140,7 +140,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/website-sales-machine.svg" alt="How to Turn Your Website Into a 24/7 Sales Machine" class="blog-post-hero-img">
+          <img src="/images/blog/website-sales-machine.png" alt="How to Turn Your Website Into a 24/7 Sales Machine" class="blog-post-hero-img">
         </div>
 
         

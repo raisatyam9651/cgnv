@@ -144,7 +144,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/generate-high-quality-leads.svg" alt="How to Generate High-Quality Leads Without Increasing Your Budget" class="blog-post-hero-img">
+          <img src="/images/blog/generate-high-quality-leads.png" alt="How to Generate High-Quality Leads Without Increasing Your Budget" class="blog-post-hero-img">
         </div>
 
         

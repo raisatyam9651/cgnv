@@ -14,7 +14,7 @@
     "@type": "Article",
     "headline": "10 Digital Marketing Mistakes Business Owners Must Avoid in 2026",
     "description": "Avoid these 10 costly digital marketing mistakes in 2026. Learn what top businesses do differently to get better ROI from their marketing budget.",
-    "image": "https://www.cognivicdigital.com/images/blog/digital-marketing-mistakes.jpg",
+    "image": "https://www.cognivicdigital.com/images/blog/digital-marketing-mistakes.png",
     "author": {
       "@type": "Organization",
       "name": "Cognivic Digital"
@@ -123,7 +123,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/digital-marketing-mistakes.svg" alt="10 Digital Marketing Mistakes Business Owners Must Avoid in 2026" class="blog-post-hero-img">
+          <img src="/images/blog/digital-marketing-mistakes.png" alt="10 Digital Marketing Mistakes Business Owners Must Avoid in 2026" class="blog-post-hero-img">
         </div>
 
         

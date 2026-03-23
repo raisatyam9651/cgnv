@@ -141,7 +141,7 @@
     <div class="container">
       <div class="blog-post-wrapper">
         <div class="blog-post-hero-img-container">
-          <img src="/images/blog/digital-marketing-trends-2026.svg" alt="Digital Marketing Trends Every Business Owner Should Watch in 2026" class="blog-post-hero-img">
+          <img src="/images/blog/digital-marketing-trends-2026.png" alt="Digital Marketing Trends Every Business Owner Should Watch in 2026" class="blog-post-hero-img">
         </div>
 
         
