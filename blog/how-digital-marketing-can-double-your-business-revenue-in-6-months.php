@@ -127,6 +127,8 @@
         </div>
 
         
+        <div class="post-body">
+
         <!-- Table of Contents -->
         <div class="blog-toc">
           <h2>Table of Contents</h2>
@@ -142,8 +144,6 @@
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ul>
         </div>
-
-        <div class="post-body">
 
           <p>Every business owner dreams of rapid revenue growth, but few realize that a well-executed digital marketing strategy can realistically double their revenue within six months. The secret is not about spending more money; it is about spending smarter, targeting the right audiences, and building systems that compound over time. In this comprehensive guide, Cognivic Digital breaks down exactly how you can achieve 2x revenue growth using proven digital marketing strategies.</p>
 

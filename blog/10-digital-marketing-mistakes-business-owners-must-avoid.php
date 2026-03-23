@@ -127,6 +127,8 @@
         </div>
 
         
+        <div class="post-body">
+
         <!-- Table of Contents -->
         <div class="blog-toc">
           <h2>Table of Contents</h2>
@@ -145,8 +147,6 @@
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ul>
         </div>
-
-        <div class="post-body">
 
           <h2 id="intro">Why These Mistakes Cost You More Than You Think</h2>
 

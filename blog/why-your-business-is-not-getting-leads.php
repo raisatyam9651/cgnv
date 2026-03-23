@@ -127,6 +127,8 @@
         </div>
 
         
+        <div class="post-body">
+
         <!-- Table of Contents -->
         <div class="blog-toc">
           <h2>Table of Contents</h2>
@@ -143,8 +145,6 @@
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ul>
         </div>
-
-        <div class="post-body">
 
           <p>You have invested time and money into your business. You have a great product or service. Your team is ready to deliver. But the leads simply are not coming in. If this sounds familiar, you are not alone. Thousands of business owners face the same frustrating challenge every day, and most of them share the same underlying problems.</p>
 

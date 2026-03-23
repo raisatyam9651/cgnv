@@ -127,6 +127,8 @@
         </div>
 
         
+        <div class="post-body">
+
         <!-- Table of Contents -->
         <div class="blog-toc">
           <h2>Table of Contents</h2>
@@ -143,8 +145,6 @@
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ul>
         </div>
-
-        <div class="post-body">
 
           <p>In today's digital-first world, your online presence is your business identity. It is how potential customers discover you, evaluate your credibility, and ultimately decide whether to do business with you. Yet many business owners either neglect their online presence entirely or approach it haphazardly, leaving enormous amounts of revenue on the table.</p>
 

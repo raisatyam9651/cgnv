@@ -127,6 +127,8 @@
         </div>
 
         
+        <div class="post-body">
+
         <!-- Table of Contents -->
         <div class="blog-toc">
           <h2>Table of Contents</h2>
@@ -143,8 +145,6 @@
             <li><a href="#faq">Frequently Asked Questions</a></li>
           </ul>
         </div>
-
-        <div class="post-body">
 
           <p>Choosing a digital marketing agency is one of the most consequential business decisions you will make. The right agency becomes a true growth partner that drives measurable revenue, builds your brand, and helps you dominate your market. The wrong agency wastes your budget, damages your online presence, and sets you back months or even years.</p>
 
