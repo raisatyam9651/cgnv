@@ -560,7 +560,8 @@
 }
 
 .blog-toc ul li::before {
-  content: '\f105'; /* Angle Right */
+  content: '\f105';
+  /* Angle Right */
   font-family: 'FontAwesome' !important;
   position: absolute;
   left: 0;
@@ -603,10 +604,6 @@
     font-size: 1.6rem;
   }
 
-  .blog-card-img {
-    height: 200px;
-  }
-
   .blog-cta-box {
     padding: 25px 20px;
   }
@@ -647,6 +644,7 @@
 }
 
 @media (max-width: 1200px) {
+
   .blog-banner .header,
   .blog-post-banner .header {
     justify-content: space-between !important;
@@ -888,6 +886,7 @@
 .blog-post-content .post-body .table-of-contents ul li {
   padding-left: 0 !important;
 }
+
 /* ========================================= */
 /* POINTER-WISE LIST BOXES UPGRADE           */
 /* ========================================= */
@@ -918,7 +917,8 @@
 }
 
 .blog-post-content .post-body ul:not(.blog-toc ul):not(.table-of-contents ul) li::before {
-  content: '\f058' !important; /* Check Circle */
+  content: '\f058' !important;
+  /* Check Circle */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute !important;
@@ -1016,7 +1016,8 @@
 }
 
 .blog-post-content .post-body h2:not(#introduction):not(:first-of-type)::before {
-  content: '\f0a4'; /* Hand Point Right */
+  content: '\f0a4';
+  /* Hand Point Right */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute;
@@ -1035,7 +1036,8 @@
 }
 
 .blog-post-content .post-body h3::before {
-  content: '\f138'; /* Chevron Circle Right */
+  content: '\f138';
+  /* Chevron Circle Right */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute;
@@ -1056,8 +1058,10 @@
   display: inline-block;
   padding-left: 45px !important;
 }
+
 .blog-faq h2::before {
-  content: '\f29c' !important; /* fa-question-circle-o */
+  content: '\f29c' !important;
+  /* fa-question-circle-o */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute !important;
@@ -1074,8 +1078,10 @@
   display: inline-block;
   padding-left: 60px !important;
 }
+
 .related-posts h2::before {
-  content: '\f02d' !important; /* fa-book */
+  content: '\f02d' !important;
+  /* fa-book */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute !important;
@@ -1091,8 +1097,10 @@
   position: relative;
   padding-left: 35px !important;
 }
+
 .blog-sidebar-cta h4::before {
-  content: '\f0f3' !important; /* fa-bell */
+  content: '\f0f3' !important;
+  /* fa-bell */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute !important;
@@ -1107,8 +1115,10 @@
   position: relative;
   padding-left: 45px !important;
 }
+
 .blog-cta-box h3::before {
-  content: '\f0e7' !important; /* fa-bolt */
+  content: '\f0e7' !important;
+  /* fa-bolt */
   font-family: 'FontAwesome' !important;
   font-weight: normal !important;
   position: absolute !important;
@@ -1123,9 +1133,11 @@
 .blog-post-content .post-body .blog-cta-box h3 {
   color: #fff !important;
 }
+
 .blog-post-content .post-body .blog-cta-box p {
   color: rgba(255, 255, 255, 0.9) !important;
 }
+
 .blog-post-content .post-body .blog-cta-box h3::before {
   color: #2FBBE1 !important;
 }
