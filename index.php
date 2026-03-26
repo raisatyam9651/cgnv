@@ -3,13 +3,80 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Cognivic Digital | No.1 Marketing Company in Gurgaon</title>
-  <meta name="description" content="">
-  <meta name='robots' content='index, follow' />
+  <title>#1 Digital Marketing Agency in Gurgaon | SEO, PPC & Growth Marketing | Cognivic Digital</title>
+  <meta name="description" content="Cognivic Digital is the #1 digital marketing agency in Gurgaon. 5000L+ revenue generated, 7.8X ROAS, 40K+ leads delivered. Expert SEO, Google Ads, PPC, social media marketing & web development services. Get a free strategy call today!">
+  <meta name="keywords" content="digital marketing agency, digital marketing agency in Gurgaon, best digital marketing company India, SEO company, Google Ads agency, PPC management, social media marketing, web development, content marketing, performance marketing agency, lead generation, online marketing, digital growth partner, Cognivic Digital">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
   
   <meta charset="utf-8">
   
   <?php include('head-links.php'); ?>
+
+<!-- Homepage FAQ Schema - Structured Data for Rich Results & AI Mode -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the retainer fees for marketing agencies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Marketing agencies typically charge clients based on a variety of models, including a monthly retainer fee, a percentage of ad spend, or a performance-based fee structure. The pricing model can vary depending on the agency's services, expertise, and the scope of the client's advertising needs. At Cognivic Digital, our retainer fees start from INR 15,000/month depending on the services and scope of work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from PPC campaigns managed by Cognivic Digital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from PPC campaigns can vary depending on factors such as the competitiveness of your industry, the effectiveness of your campaign strategy, and your advertising budget. Generally, it may take a few days to 2 weeks to see significant improvements in campaign performance. Our clients typically see a 3-5X ROAS within the first month of optimization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose the best marketing agency for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a marketing agency, consider factors such as the agency's experience and expertise in your industry, client testimonials and case studies, transparency in pricing and reporting, communication and responsiveness, and alignment with your business goals and values. Look for agencies with proven results like 5000L+ revenue generated and 1000+ happy clients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I hire a PPC agency for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a performance marketing agency can be beneficial if you lack the time, resources, or expertise to effectively manage your PPC campaigns. Agencies can help optimize your campaigns to improve ROI, stay updated with industry trends, and provide insights to maximize your advertising budget. A specialized agency like Cognivic Digital delivers 7.8X average ROAS for their clients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should you hire Cognivic Digital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cognivic Digital provides tailored, result-driven digital marketing solutions. We have generated 5000L+ revenue for our clients, achieved 7.8X average ROAS, delivered 40K+ qualified leads, and served 1000+ happy customers. Every marketing dollar spent is focused on scaling your brand with the best possible growth and ROI. We offer SEO, Google Ads, PPC, social media marketing, web development, and content marketing services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why shouldn't you have an in-house marketing team for a middle-scale business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An in-house marketing team for a mid-sized business can be costly and limited in expertise. Outsourcing to a specialized digital agency allows access to a diverse skill set, cutting-edge tools, and fresh perspectives, often at a lower cost. Agencies can scale with your business needs, ensuring you're not overburdened with staffing or under-resourced during growth periods."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What digital marketing services does Cognivic Digital offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cognivic Digital offers comprehensive digital marketing services including Search Engine Optimization (SEO), Local SEO, E-commerce SEO, Google Ads Management, PPC Services, Social Media Marketing, Meta (Facebook & Instagram) Ads Management, YouTube Marketing, Content Marketing, Web Development, UI/UX Design, Landing Page Design, Creative Services, and Video Editing. We serve businesses across India and internationally."
+      }
+    }
+  ]
+}
+</script>
 
 </head>
 
@@ -43,7 +110,7 @@
     <div id="smooth-content">
 	      <section class="banner-sec ">
         <div class="top-banner-img">
-          <img loading="lazy" src="images/banner.webp" alt="">
+          <img loading="lazy" src="images/banner.webp" alt="Cognivic Digital - #1 Digital Marketing Agency in Gurgaon India">
         </div>
         <?php include('header.php'); ?>
         
@@ -70,7 +137,7 @@
 
                 <p data-aos="fade-down" class="banner-desc pt-md-5 pt-3">Cognivic Digital provides tailored, result-driven digital marketing solutions. Every marketing $ spend is focussed on scaling your brand with the best possible Growth and ROI.<br>Let's turn clicks into customers and investments into returns.</p>
                 <div class="formarea" data-aos="fade-up">
-                  <button class="connect-exp btn-slide-right mt-3 mt-md-0" data-toggle="modal" data-target="#waModal"> <span>Requset a Call Back</span> </button>			  
+                  <button class="connect-exp btn-slide-right mt-3 mt-md-0" data-toggle="modal" data-target="#waModal"> <span>Request a Call Back</span> </button>			  
 				   
                 </div>
               </div>
@@ -83,51 +150,51 @@
             <div class="col-md-12">
               <div class="owl-carousel owl-theme top-client-bar">
 			     <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Index graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Cognivic Digital Client" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
               </div>
             </div>
@@ -137,7 +204,7 @@
 
       <section class="about-company dark-sec white-text ball-jumping ">
         <div class="provoke-banner d-lg-block d-none">
-          <img loading="lazy" src="images/we-provoke.png" alt="">
+          <img loading="lazy" src="images/we-provoke.png" alt="We make your digital success possible - Cognivic Digital">
           <div id="ballWrapper">
             <div id="ball"></div>
           </div>
@@ -201,7 +268,7 @@
 			
           </div>
 		  <div class="smc-btn text-center mt-5">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
           </div>
         </div>
       </section>
@@ -222,25 +289,25 @@
               <div class="owl-carousel owl-theme asstests">
                 
                 <div class="item">
-                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/seo-img.webp" /> </div>
+                  <div class="asset-img"><img alt="Cognivic Digital Client" loading="lazy" src="images/seo-img.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                       <h3 style="color:#000">Search Engine Optimization</h3>
                       <p> Boost your organic rankings and drive traffic with expert SEO.</p>
-                      <a href="#" class="exploremore-dark">Explore More</a>
+                      <a href="/best-seo-company-in-india" class="exploremore-dark">Explore More</a>
                   </div>                 
                 </div>
 				
 			          <div class="item">
-                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/guest-post.webp" /> </div>.
+                  <div class="asset-img"><img alt="Cognivic Digital Client" loading="lazy" src="images/guest-post.webp" /> </div>.
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">Guest Posting</h3>
                     <p> Leverage high-quality backlinks to improve your domain authority</p>
-                    <a href="3" class="exploremore-dark">Explore More</a>
+                    <a href="/content-marketing" class="exploremore-dark">Explore More</a>
                   </div>
                 </div>
 				
                 <div class="item">
-                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/strategy.webp" /> </div>
+                  <div class="asset-img"><img alt="Cognivic Digital Client" loading="lazy" src="images/strategy.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">Google Ads</h3>
                     <p> Maximize your reach with targeted Google Ads campaigns.</p>
@@ -250,16 +317,16 @@
                 
   
 				        <div class="item">
-                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/smm-img.webp" /> </div>
+                  <div class="asset-img"><img alt="Cognivic Digital Client" loading="lazy" src="images/smm-img.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">Social Media Marketing</h3>
                     <p> Build a strong brand presence across social platforms.</p>
-                    <a href="#" class="exploremore-dark">Explore More</a>
+                    <a href="/social-media-marketing" class="exploremore-dark">Explore More</a>
                   </div>
                 </div>
 				
 				        <div class="item">
-                  <div class="asset-img"><img alt="Index graphic" loading="lazy" src="images/taboola.webp" /> </div>
+                  <div class="asset-img"><img alt="Cognivic Digital Client" loading="lazy" src="images/taboola.webp" /> </div>
                   <div class="bg-white p-3 text-black ser-sec">
                     <h3 style="color:#000">PPC Ads</h3>
                     <p> Get instant results with efficient pay-per-click advertising.</p>
@@ -272,7 +339,7 @@
         </div>
 
         <!-- <div class="moving-pattern">
-          <img loading="lazy" src="images/ppc-pattern.gif" alt="" style="width:100%">
+          <img loading="lazy" src="images/ppc-pattern.gif" alt="PPC advertising pattern" style="width:100%">
         </div> -->
 
         <div class="container talknumbers mt-5" id="#talk">
@@ -341,7 +408,7 @@
             <div class="item">
               <div class="row pt7">
                 <div class="col-md-7" data-aos="fade-up" data-aos-duration="1000">
-                  <img alt="Index graphic" loading="lazy" src="images/plumber.webp" class="img-responsive" />
+                  <img alt="Cognivic Digital Client" loading="lazy" src="images/plumber.webp" class="img-responsive" />
                 </div>
                 <div class="col-md-5">
                   <p class="pt7 h5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">Plumber Bathware</p>
@@ -376,7 +443,7 @@
                     </div>
                   </div>
 				  <div class="smc-btn mt-7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
           </div>
                 </div>
 								  
@@ -385,7 +452,7 @@
             <div class="item">
               <div class="row pt7">
                 <div class="col-md-7">
-                  <img alt="Index graphic" loading="lazy" src="images/elevate.webp" class="img-responsive" />
+                  <img alt="Cognivic Digital Client" loading="lazy" src="images/elevate.webp" class="img-responsive" />
                 </div>
                 <div class="col-md-5">
                   <p class="pt7 h5">elevateHQ</p>
@@ -422,7 +489,7 @@
                     </div>
                   </div>
 				   <div class="smc-btn text-left mt-7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
           </div>
                 </div>
               </div>
@@ -432,7 +499,7 @@
 			 <div class="item">
               <div class="row pt7">
                 <div class="col-md-7">
-                  <img alt="Index graphic" loading="lazy" src="images/investmentsimplified.webp" class="img-responsive" />
+                  <img alt="Cognivic Digital Client" loading="lazy" src="images/investmentsimplified.webp" class="img-responsive" />
                 </div>
                 <div class="col-md-5">
                   <p class="pt7 h5">investmentsimplified</p>
@@ -468,7 +535,7 @@
                     </div>
                   </div>
 				   <div class="smc-btn text-left mt-7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
           </div>
                 </div>
               </div>
@@ -524,7 +591,7 @@
                   <div class="round round-circle3"></div>
                   <div class="round round-circle4"></div>
                   <div class="round round-circle5"></div>
-                  <div class=" round-circle6"> <img alt="Index graphic" loading="lazy" src="images/Our/logo/favicon.png" width="70" style="filter: brightness(0) invert(1);" /> </div>
+                  <div class=" round-circle6"> <img alt="Cognivic Digital Client" loading="lazy" src="images/Our/logo/favicon.png" width="70" style="filter: brightness(0) invert(1);" /> </div>
                 </div>
                 <div class="round-circle"></div>
 
@@ -539,7 +606,7 @@
         </div>
 		
 		 <div class="smc-btn text-center mt-7 pt7">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in" style="background-color: #2FBBE1;">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in" style="background-color: #2FBBE1;">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
           </div>
       </section>
 
@@ -583,7 +650,7 @@
               <div class="process-box__list-item custom-link active">
                 <div class="process-box__list-image">
                   <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/research.webp"
-                    src="images/research.webp" alt="" role="presentation" data-loaded="true">
+                    src="images/research.webp" alt="Research phase - Digital marketing process" role="presentation" data-loaded="true">
                 </div>
                 <div class="process-box__list-num">01</div>
                 <div class="process-box__list-title"><h3 class="h6">Research</h3></div>
@@ -596,7 +663,7 @@
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
                   <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/planning.webp"
-                    src="images/planning.webp" alt="" role="presentation" data-loaded="true">
+                    src="images/planning.webp" alt="Planning phase - Digital marketing process" role="presentation" data-loaded="true">
                 </div>
                 <div class="process-box__list-num">02</div>
                 <div class="process-box__list-title"><h3 class="h6">Planning </h3></div>
@@ -609,7 +676,7 @@
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
                   <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/impliment.webp"
-                    src="images/impliment.webp" alt="" role="presentation" data-loaded="true">
+                    src="images/impliment.webp" alt="Implementation phase - Digital marketing process" role="presentation" data-loaded="true">
                 </div>
                 <div class="process-box__list-num">03</div>
                 <div class="process-box__list-title"><h3 class="h6">Implement </h3></div>
@@ -623,7 +690,7 @@
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
                   <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/measure.webp"
-                    src="images/measure.webp" alt="" role="presentation" data-loaded="true">
+                    src="images/measure.webp" alt="Measurement phase - Digital marketing process" role="presentation" data-loaded="true">
 
                 </div>
                 <div class="process-box__list-num">04</div>
@@ -636,7 +703,7 @@
               <div class="process-box__list-item custom-link">
                 <div class="process-box__list-image">
                   <img loading="lazy" class="process-box__list-image-i lozad" data-src="images/optimize.webp"
-                    src="images/optimize.webp" alt="" role="presentation" data-loaded="true">
+                    src="images/optimize.webp" alt="Optimization phase - Digital marketing process" role="presentation" data-loaded="true">
 
                 </div>
                 <div class="process-box__list-num">05</div>
@@ -652,7 +719,7 @@
           </div>
         </div>
 		 <div class="smc-btn text-center mt-5">
-            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt=""> </a>
+            <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3 aos-init aos-animate" data-aos="zoom-in">Connect with Expert <img loading="lazy" src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
           </div>
       </section>
 
@@ -741,7 +808,7 @@
                 audience. Hire us now!</p>
             </div>
             <div class="col-md-3 text-right">
-              <img alt="Index graphic" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
+              <img alt="Cognivic Digital Client" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
             </div>
           </div>
         </div>

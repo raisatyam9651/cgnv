@@ -18,6 +18,7 @@
     <meta property="og:site_name" content="Cognivic Digital" />
 
     <?php include('head-links.php'); ?>
+  <?php include('location-seo.php'); ?>
 
     <script type="application/ld+json">
   {
@@ -156,51 +157,51 @@
                             <div class="col-md-12">
                                 <div class="owl-carousel owl-theme top-client-bar">
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
                                     </div>
 
                                 </div>
@@ -255,7 +256,7 @@
                 <div class="smc-btn text-center mt-5">
                     <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal"
                         class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                            src="images/explore-more.svg" alt=""> </a>
+                            src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
                     <a href="pricing" class="common-btn common-btn-outline darktext ml-3 d-inline-block mt-3"
                         data-aos="zoom-in">Request A Free Quote
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 59 59">
@@ -476,7 +477,7 @@
                 <div class="smc-btn text-center mt-5">
                     <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal"
                         class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                            src="images/explore-more.svg" alt=""> </a>
+                            src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
                     <a href="pricing" class="common-btn common-btn-outline darktext ml-3 d-inline-block mt-3"
                         data-aos="zoom-in">Request A Free Quote
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 59 59">
@@ -548,7 +549,7 @@
                         <div class="smc-btn text-left">
                             <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal"
                                 class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                                    src="images/explore-more.svg" alt=""> </a>
+                                    src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
 
                         </div>
                     </div>
@@ -805,6 +806,7 @@
 
         <div class="row mt-5"><div class="col-md-12 text-center"><h3 class="h4 font-weight-bold">Other Serving Locations</h3><ul class="list-inline"><li class="list-inline-item mr-3"><a href="/seo-company-in-maharashtra" class="text-primary">SEO Company in Maharashtra</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-punjab" class="text-primary">SEO Company in Punjab</a></li><li class="list-inline-item mr-3"><a href="/seo-company-in-west-bengal" class="text-primary">SEO Company in West Bengal</a></li></ul></div></div>
       
+        <?php include('location-eeat-content.php'); ?>
         <!-- STATE_CITIES_LOCATION_GRID_START -->
         <div class="container mb-5 mt-5 state-cities-grid">
     <div class="row">

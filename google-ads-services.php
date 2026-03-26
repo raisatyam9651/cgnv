@@ -4,13 +4,62 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Google Ads Management </title>
-  <meta name="description" content="">
-  <meta name='robots' content='index, follow' />
+  <title>Google Ads Management Services in India | Certified Google Ads Agency | Cognivic Digital</title>
+  <meta name="description" content="Get maximum ROI from your Google Ads campaigns with Cognivic Digital. We are a certified Google Ads management agency in India with 7.8X average ROAS. PPC experts managing campaigns across Search, Display, Shopping & YouTube Ads. Free audit available!">
+  <meta name="keywords" content="Google Ads management, Google Ads agency India, PPC campaign management, Google AdWords services, search ads, display ads, shopping ads, remarketing, Google Ads specialist, paid search advertising, SEM services, Google Ads consultant, Cognivic Digital">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
   <meta charset="utf-8">
   
   <?php include('head-links.php'); ?>
-  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do Google Ads agencies charge for their services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Ads agencies typically charge clients based on a variety of models, including a monthly retainer fee, a percentage of ad spend, or a performance-based fee structure. The pricing model can vary depending on the agency's services, expertise, and the scope of the client's advertising needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will I have access to my Google Ads account if I hire an agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as the client, you should retain ownership and access to your Google Ads account when working with an agency. The agency will typically request access to your account through Google's platform, allowing them to manage campaigns on your behalf."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to see results from Google Ads campaigns managed by an agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for seeing results from Google Ads campaigns can vary depending on factors such as the competitiveness of your industry, the effectiveness of your campaign strategy, and your advertising budget. Generally, it may take a few days to 2 Weeks to see significant improvements in campaign performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose the right Google Ads agency for my business?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a Google Ads agency, consider factors such as the agency's experience and expertise in your industry, client testimonials and case studies, transparency in pricing and reporting, communication and responsiveness, and alignment with your business goals and values."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I hire a Google Ads agency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hiring a Google Ads agency can be beneficial if you lack the time, resources, or expertise to effectively manage your Google Ads campaigns. Agencies can help optimize your campaigns to improve ROI, stay updated with industry trends, and provide insights to maximize your advertising budget."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
@@ -83,51 +132,51 @@
               <div class="col-md-12">
               <div class="owl-carousel owl-theme top-client-bar">
 			    <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/1-1.png" /> </a>
                 </div>
                 
 				   <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/2-11.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/3.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/3.png" /> </a>
                 </div>
 				
 				  <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/4-1.png" /> </a>
                 </div>
                 
 				  <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/5-1.png" /> </a>
                 </div>
                 
 				 <div class="item">
-                  <a href="#"> <img alt="Google Ads Services graphic" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
+                  <a href="javascript:void(0)" aria-label="Cognivic Digital client logo"> <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images1/client-logo/6-1.png" /> </a>
                 </div>
                
               </div>
@@ -174,7 +223,7 @@
 
           	<div class="smc-btn text-center mt-5">
             <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                src="images/explore-more.svg" alt=""> </a>
+                src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
 				<a href="pricing" class="common-btn common-btn-outline darktext ml-3 d-inline-block mt-3" data-aos="zoom-in">Request A Free Quote 
 <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 59 59">
               <g id="explore-more" transform="translate(-554 -1994)">
@@ -213,7 +262,7 @@
             <div class="col-md-6 me-auto order-lg-2 order-1 ">
               <div class="right pl-lg-5 pl-0">
                 <div class="p-4 b-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img1.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img1.webp" alt="Digital marketing strategy step 1 - Research and analysis" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -223,7 +272,7 @@
             <div class="col-md-6 me-auto">
               <div class="right pr-lg-5 pr-0">
                 <div class="p-4 b-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img2.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img2.webp" alt="Digital marketing strategy step 2 - Campaign planning" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -251,7 +300,7 @@
             <div class="col-md-6 me-auto order-lg-2 order-1 ">
               <div class="right pl-lg-5 pl-0">
                 <div class="p-4 bd-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img3.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img3.webp" alt="Digital marketing strategy step 3 - Implementation" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -261,7 +310,7 @@
             <div class="col-md-6 me-auto">
               <div class="right pr-lg-5 pr-0">
                 <div class="p-4 b-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img4.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img4.webp" alt="Digital marketing strategy step 4 - Optimization" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -289,7 +338,7 @@
             <div class="col-md-6 me-auto order-lg-2 order-1 ">
               <div class="right pl-lg-5 pl-0">
                 <div class="p-4 g-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img5.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img5.webp" alt="Digital marketing strategy step 5 - Performance tracking" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -299,7 +348,7 @@
             <div class="col-md-6 me-auto">
               <div class="right pr-lg-5 pr-0">
                 <div class="p-4 b-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img6.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img6.webp" alt="Digital marketing strategy step 6 - Remarketing campaigns" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -327,7 +376,7 @@
             <div class="col-md-6 me-auto order-lg-2 order-1 ">
               <div class="right pl-lg-5 pl-0">
                 <div class="p-4 o-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img7.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img7.webp" alt="Digital marketing strategy step 7 - Conversion optimization" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -337,7 +386,7 @@
             <div class="col-md-6 me-auto">
               <div class="right pr-lg-5 pr-0">
                 <div class="p-4 b-bg box mb-3 mb-md-0">
-                  <img loading="lazy" src="images/google/img8.webp" alt="" class="img-fluid" data-aos="flip-right">
+                  <img loading="lazy" src="images/google/img8.webp" alt="Digital marketing strategy step 8 - Display advertising" class="img-fluid" data-aos="flip-right">
                 </div>
               </div>
             </div>
@@ -356,7 +405,7 @@
           </div>
 	<div class="smc-btn text-center mt-5">
             <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                src="images/explore-more.svg" alt=""> </a>
+                src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
 				<a href="pricing" class="common-btn common-btn-outline darktext ml-3 d-inline-block mt-3" data-aos="zoom-in">Request A Free Quote 
 <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 59 59">
               <g id="explore-more" transform="translate(-554 -1994)">
@@ -388,7 +437,7 @@
                 <ul class="pt-md-4 pt-2">
                   <li data-aos="fade-down" data-aos-delay="300" data-aos-duration="1000">
                     <div class="icon">
-                      <img loading="lazy" src="images/google/user.svg" alt="">
+                      <img loading="lazy" src="images/google/user.svg" alt="Expert team icon - Cognivic Digital certified professionals">
                     </div>
                     <div>
                       <h3 class="text-white h5">Expertise</h3>
@@ -397,7 +446,7 @@
                   </li>
                   <li data-aos="fade-down" data-aos-delay="600" data-aos-duration="1000">
                     <div class="icon">
-                      <img loading="lazy" src="images/google/grow.svg" alt="">
+                      <img loading="lazy" src="images/google/grow.svg" alt="Business growth icon - Stay ahead of competition">
                     </div>
                     <div>
                       <h3 class="text-white h5">Stay Ahead of Your Competition</h3>
@@ -406,7 +455,7 @@
                   </li>
                   <li data-aos="fade-down" data-aos-delay="900" data-aos-duration="1000">
                     <div class="icon">
-                      <img loading="lazy" src="images/google/chart.svg" alt="">
+                      <img loading="lazy" src="images/google/chart.svg" alt="Performance chart icon - Stable and sustainable results">
                     </div>
                     <div>
                       <h3 class="text-white h5">Stability</h3>
@@ -417,14 +466,14 @@
               </div>
 			   <div class="smc-btn text-left">
             <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal" class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                src="images/explore-more.svg" alt=""> </a>
+                src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
 				
           </div>
             </div>
             <div class="col-md-6">
               <div class="right">
                 <div class="img-part position-relative">
-                  <img loading="lazy" src="images/google/img.webp" alt="" class="img-responsive">
+                  <img loading="lazy" src="images/google/img.webp" alt="Grow your business with Cognivic Digital marketing services" class="img-responsive">
                   <div class="orange-box">
                     Grow your <br> business with <br> google AdWords <br> by Cognivic Digital
                   </div>
@@ -527,7 +576,7 @@
                 audience. Hire us now!</p>
             </div>
             <div class="col-md-3 text-right">
-              <img alt="Google Ads Services graphic" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
+              <img alt="Google Ads Services - Cognivic Digital trusted client" loading="lazy" src="images/scroll-down-arrow.webp" style="filter: invert(100%);" />
             </div>
           </div>
         </div>

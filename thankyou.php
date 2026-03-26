@@ -5,7 +5,7 @@
 <head>
   <title>Thank You | Cognivic Digital </title>
   <meta name="description" content="">
-  <meta name='robots' content='index, follow' />
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
   
   <meta charset="utf-8">
   
@@ -43,7 +43,7 @@
     <div id="smooth-content">
 	    <section class="banner-sec" style="padding-bottom:80px">
             <div class="top-banner-img">
-              <img loading="lazy" src="images/banner.webp" alt="">
+              <img loading="lazy" src="images/banner.webp" alt="Cognivic Digital - Digital Marketing Agency">
             </div>
             <?php include('header.php'); ?>
             

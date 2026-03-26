@@ -2,9 +2,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-IN" lang="en-IN">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>Contact Us | Cognivic Digital</title>
-  <meta name="description" content="">
-  <meta name='robots' content='index, follow' />
+  <title>Contact Cognivic Digital | Get a Free Digital Marketing Consultation</title>
+  <meta name="description" content="Contact Cognivic Digital for a free digital marketing consultation. Call +91-7737861358 or email info@cognivicdigital.com. We are located in Gurgaon, India. Get a free website audit and strategy call today!">
+  <meta name="keywords" content="contact Cognivic Digital, digital marketing consultation, free website audit, get a quote, digital marketing agency contact, marketing consultation Gurgaon, hire digital marketing agency, Cognivic Digital contact number, digital marketing enquiry">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
   <link rel="icon" type="image/x-icon" href="images/Our/logo/favicon.png">
   <meta charset="utf-8">
   <?php include('head-links.php'); ?>
@@ -22,7 +23,7 @@
         <div class="col-md-6">
           <div class="logo" data-aos="fade-right" data-aos-delay="100" data-aos-duration="1000">
             <a href="index">
-              <img loading="lazy" src="images/Our/logo/cognivic-logo.png" alt="" class="img-fluid" style="width:250px">
+              <img loading="lazy" src="images/Our/logo/cognivic-logo.png" alt="Cognivic Digital Logo - Contact Us" class="img-fluid" style="width:250px">
             </a>
           </div>
           
@@ -33,7 +34,7 @@
             <div class="col-md-2">
               <div class="" data-aos="fade-up" data-aos-delay="300"
                 data-aos-duration="1000">
-                <div class="icon"><img loading="lazy" src="images/growth.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/growth.svg" alt="Business growth icon"></div>
                 </div>
               </div>
 			  
@@ -47,7 +48,7 @@
             <div class="col-md-2">
               <div class="" data-aos="fade-up" data-aos-delay="300"
                 data-aos-duration="1000">
-                <div class="icon"><img loading="lazy" src="images/audience.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/audience.svg" alt="Target audience icon"></div>
                 </div>
               </div>
 			  
@@ -61,7 +62,7 @@
    <div class="col-md-2">
               <div class="" data-aos="fade-up" data-aos-delay="300"
                 data-aos-duration="1000">
-                <div class="icon"><img loading="lazy" src="images/audience.svg" alt=""></div>
+                <div class="icon"><img loading="lazy" src="images/audience.svg" alt="Target audience icon"></div>
                 </div>
               </div>
 			  

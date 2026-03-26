@@ -4,20 +4,22 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
-    <title>Best SEO Company in India | Top SEO Agency & Services</title>
+    <title>Best SEO Company in India | Top SEO Agency - 800% Traffic Growth | Cognivic Digital</title>
     <meta name="description"
-        content="Looking for the best SEO company in India? Cognivic Digital provides expert SEO services to boost your website rankings, organic traffic, and sales. Connect with our SEO experts today!">
+  <meta name="keywords" content="best SEO company in India, top SEO agency, SEO services India, search engine optimization, organic SEO, on-page SEO, off-page SEO, technical SEO, link building services, SEO audit, keyword research, SEO consultant, website ranking, Google ranking, Cognivic Digital SEO">
+        content="Looking for the best SEO company in India? Cognivic Digital delivers 800% organic traffic growth, 150% increase in organic visitors & DR improvements from 6 to 23. Expert on-page SEO, off-page SEO, technical SEO & local SEO services. Free SEO audit!">
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <meta charset="utf-8">
     <meta property="og:locale" content="en_IN" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Best SEO Company in India | Top SEO Agency & Services" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best SEO Company in India | Top SEO Agency - 800% Traffic Growth | Cognivic Digital" />
     <meta property="og:description"
-        content="Looking for the best SEO company in India? Cognivic Digital provides expert SEO services to boost your website rankings, organic traffic, and sales." />
-    <meta property="og:url" content="best-seo-company-in-india.php" />
+        content="Looking for the best SEO company in India? Cognivic Digital delivers 800% organic traffic growth. Expert on-page SEO, off-page SEO, technical SEO & local SEO services." />
+    <meta property="og:url" content="https://www.cognivicdigital.com/best-seo-company-in-india" />
     <meta property="og:site_name" content="Cognivic Digital" />
 
     <?php include('head-links.php'); ?>
+  <?php include('location-seo.php'); ?>
 
     <script type="application/ld+json">
   {
@@ -156,51 +158,51 @@
                             <div class="col-md-12">
                                 <div class="owl-carousel owl-theme top-client-bar">
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 1" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 2" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 3" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 4" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 5" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 6" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/1-1.png" alt="Client Logo 7" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/2-11.png" alt="Client Logo 8" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/3.png" alt="Client Logo 9" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/4-1.png" alt="Client Logo 10" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/5-1.png" alt="Client Logo 11" /> </a>
                                     </div>
 
                                     <div class="item">
-                                        <a href="#"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
+                                        <a href="javascript:void(0)" aria-label="Cognivic Digital client"> <img loading="lazy" src="images1/client-logo/6-1.png" alt="Client Logo 12" /> </a>
                                     </div>
 
                                 </div>
@@ -255,7 +257,7 @@
                 <div class="smc-btn text-center mt-5">
                     <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal"
                         class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                            src="images/explore-more.svg" alt=""> </a>
+                            src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
                     <a href="pricing" class="common-btn common-btn-outline darktext ml-3 d-inline-block mt-3"
                         data-aos="zoom-in">Request A Free Quote
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 59 59">
@@ -476,7 +478,7 @@
                 <div class="smc-btn text-center mt-5">
                     <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal"
                         class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                            src="images/explore-more.svg" alt=""> </a>
+                            src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
                     <a href="pricing" class="common-btn common-btn-outline darktext ml-3 d-inline-block mt-3"
                         data-aos="zoom-in">Request A Free Quote
                         <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 59 59">
@@ -548,7 +550,7 @@
                         <div class="smc-btn text-left">
                             <a href="javascript:void(0)" data-toggle="modal" data-target="#tteModal"
                                 class="common-btn d-inline-block mt-3" data-aos="zoom-in">Connect with Expert <img
-                                    src="images/explore-more.svg" alt=""> </a>
+                                    src="images/explore-more.svg" alt="Connect with Cognivic Digital expert"> </a>
 
                         </div>
                     </div>
@@ -814,7 +816,8 @@
         </div>
     </div>
 </div>
-      <?php include('footer.php'); ?>
+      <?php include('location-eeat-content.php'); ?>
+<?php include('footer.php'); ?>
     </div>
     </div>
 

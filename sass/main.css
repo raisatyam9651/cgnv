@@ -7327,7 +7327,7 @@ footer.bottom ul a:hover {
 .whychooseUs::before {
   position: absolute;
   content: "";
-  width: 60%;
+  width: 100%;
   height: 100%;
   background: #000950;
   top: 0;

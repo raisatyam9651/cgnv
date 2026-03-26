@@ -300,7 +300,7 @@
     </div>
   </div>
   
-	<div class="whatsapp_call d-block "> <a href="https://api.whatsapp.com/send?phone=+918810460091&text=I want connect with you." rel="nofollow" onclick="dataLayer.push({'event': 'whatsapp-click'});"><img loading="lazy" src="/images/whatsapp-icon.png" alt=""> </a>  </div>
+	<div class="whatsapp_call d-block "> <a href="https://api.whatsapp.com/send?phone=+918810460091&text=I want connect with you." rel="nofollow" onclick="dataLayer.push({'event': 'whatsapp-click'});"><img loading="lazy" src="/images/whatsapp-icon.png" alt="Chat with Cognivic Digital on WhatsApp"> </a>  </div>
 <!-- 6-Second Popup Form -->
 <style>
   .custom-popup-overlay {

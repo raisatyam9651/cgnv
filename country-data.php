@@ -1,0 +1,166 @@
+<?php
+/**
+ * Country & Region Data for International Location Pages
+ * Used by country-seo.php to generate unique E-E-A-T content
+ * Format: country_code => [country_name, language, currency, industries[], description]
+ * Region format: region_slug => [display_name, country_code, industries[], description]
+ */
+
+$country_info = [
+    'ar' => ['Argentina', 'Spanish', 'ARS', ['agriculture', 'automotive', 'fintech', 'wine', 'mining', 'tourism'], 'South America\'s second-largest economy with a thriving digital market'],
+    'au' => ['Australia', 'English', 'AUD', ['mining', 'finance', 'technology', 'healthcare', 'tourism', 'agriculture'], 'a highly digitized economy with strong consumer spending'],
+    'bo' => ['Bolivia', 'Spanish', 'BOB', ['mining', 'agriculture', 'natural gas', 'textiles', 'tourism', 'food processing'], 'a growing economy with rich natural resources'],
+    'br' => ['Brazil', 'Portuguese', 'BRL', ['agriculture', 'manufacturing', 'technology', 'fintech', 'mining', 'automotive'], 'Latin America\'s largest digital market with 150M+ internet users'],
+    'ca' => ['Canada', 'English/French', 'CAD', ['technology', 'mining', 'energy', 'finance', 'agriculture', 'healthcare'], 'a digitally advanced economy with high internet penetration'],
+    'cl' => ['Chile', 'Spanish', 'CLP', ['mining', 'agriculture', 'wine', 'salmon', 'fintech', 'renewable energy'], 'South America\'s most stable and digitally mature economy'],
+    'co' => ['Colombia', 'Spanish', 'COP', ['oil & gas', 'coffee', 'technology', 'fintech', 'tourism', 'textiles'], 'Latin America\'s fastest-growing digital economy'],
+    'cr' => ['Costa Rica', 'Spanish', 'CRC', ['technology', 'tourism', 'agriculture', 'medical devices', 'BPO', 'renewable energy'], 'Central America\'s tech hub with high digital literacy'],
+    'cu' => ['Cuba', 'Spanish', 'CUP', ['tourism', 'tobacco', 'sugar', 'healthcare', 'biotechnology', 'agriculture'], 'a rapidly digitizing market with growing internet access'],
+    'do' => ['Dominican Republic', 'Spanish', 'DOP', ['tourism', 'mining', 'manufacturing', 'agriculture', 'BPO', 'real estate'], 'the Caribbean\'s largest economy with booming tourism sector'],
+    'ec' => ['Ecuador', 'Spanish', 'USD', ['oil', 'agriculture', 'shrimp', 'flowers', 'tourism', 'manufacturing'], 'a dollarized economy with growing e-commerce adoption'],
+    'jm' => ['Jamaica', 'English', 'JMD', ['tourism', 'mining', 'agriculture', 'BPO', 'manufacturing', 'entertainment'], 'the Caribbean\'s most recognized brand with a vibrant tourism sector'],
+    'mx' => ['Mexico', 'Spanish', 'MXN', ['manufacturing', 'automotive', 'technology', 'tourism', 'oil', 'fintech'], 'Latin America\'s second-largest economy with 90M+ internet users'],
+    'nz' => ['New Zealand', 'English', 'NZD', ['agriculture', 'tourism', 'technology', 'film', 'dairy', 'wine'], 'a highly connected economy with strong SME sector'],
+    'pa' => ['Panama', 'Spanish', 'PAB', ['logistics', 'finance', 'tourism', 'real estate', 'BPO', 'construction'], 'Central America\'s business hub with the famous Panama Canal'],
+    'pe' => ['Peru', 'Spanish', 'PEN', ['mining', 'agriculture', 'textiles', 'fishing', 'tourism', 'manufacturing'], 'one of South America\'s fastest-growing economies'],
+    'py' => ['Paraguay', 'Spanish', 'PYG', ['agriculture', 'livestock', 'hydropower', 'manufacturing', 'retail', 'real estate'], 'a growing economy with competitive energy costs'],
+    'sa' => ['Saudi Arabia', 'Arabic', 'SAR', ['oil & gas', 'construction', 'finance', 'tourism', 'technology', 'healthcare'], 'the Middle East\'s largest economy driving Vision 2030 digital transformation'],
+    'uae' => ['United Arab Emirates', 'Arabic/English', 'AED', ['oil & gas', 'real estate', 'tourism', 'finance', 'technology', 'logistics'], 'the Middle East\'s digital innovation hub with world-class infrastructure'],
+    'uk' => ['United Kingdom', 'English', 'GBP', ['finance', 'technology', 'healthcare', 'creative industries', 'manufacturing', 'retail'], 'one of the world\'s largest digital advertising markets'],
+    'us' => ['United States', 'English', 'USD', ['technology', 'finance', 'healthcare', 'retail', 'manufacturing', 'entertainment'], 'the world\'s largest digital advertising market'],
+    'uy' => ['Uruguay', 'Spanish', 'UYU', ['agriculture', 'IT', 'tourism', 'livestock', 'renewable energy', 'fintech'], 'South America\'s most digitally advanced country per capita'],
+    've' => ['Venezuela', 'Spanish', 'VES', ['oil', 'mining', 'agriculture', 'manufacturing', 'tourism', 'retail'], 'a market with growing digital adoption and entrepreneurship'],
+];
+
+$region_data = [
+    // ARGENTINA
+    'buenos-aires' => ['Buenos Aires', 'ar', ['finance', 'technology', 'media', 'tourism', 'manufacturing', 'e-commerce'], 'Argentina\'s capital and largest business hub'],
+    'caba' => ['CABA', 'ar', ['technology', 'finance', 'entertainment', 'retail', 'hospitality', 'education'], 'the autonomous city at the heart of Buenos Aires'],
+    'catamarca' => ['Catamarca', 'ar', ['mining', 'agriculture', 'olive oil', 'wine', 'tourism', 'textiles'], 'a province rich in mineral resources and agriculture'],
+    'chaco' => ['Chaco', 'ar', ['agriculture', 'livestock', 'forestry', 'cotton', 'soybean', 'textiles'], 'a major agricultural province in northern Argentina'],
+    'chubut' => ['Chubut', 'ar', ['oil', 'fishing', 'aluminum', 'tourism', 'wool', 'mining'], 'Patagonia\'s industrial and tourism powerhouse'],
+    'cordoba' => ['Córdoba', 'ar', ['automotive', 'technology', 'agriculture', 'education', 'aerospace', 'food processing'], 'Argentina\'s second-largest city and tech hub'],
+    'corrientes' => ['Corrientes', 'ar', ['agriculture', 'forestry', 'livestock', 'tobacco', 'rice', 'tourism'], 'a province known for its wetlands and agriculture'],
+    'entre-rios' => ['Entre Ríos', 'ar', ['agriculture', 'poultry', 'citrus', 'rice', 'tourism', 'livestock'], 'Argentina\'s major poultry and citrus producing province'],
+    'formosa' => ['Formosa', 'ar', ['agriculture', 'livestock', 'cotton', 'forestry', 'fishing', 'oil'], 'a developing province in northeastern Argentina'],
+    'jujuy' => ['Jujuy', 'ar', ['mining', 'lithium', 'tourism', 'agriculture', 'sugar', 'tobacco'], 'a key lithium mining province with rich cultural heritage'],
+    'la-pampa' => ['La Pampa', 'ar', ['agriculture', 'livestock', 'oil', 'salt mining', 'tourism', 'dairy'], 'the heart of Argentina\'s Pampas agricultural region'],
+    'la-rioja' => ['La Rioja', 'ar', ['mining', 'olive oil', 'wine', 'agriculture', 'tourism', 'walnut'], 'known for olive oil production and wine'],
+    'mendoza' => ['Mendoza', 'ar', ['wine', 'oil & gas', 'tourism', 'agriculture', 'mining', 'olive oil'], 'Argentina\'s premier wine region and adventure tourism destination'],
+    'misiones' => ['Misiones', 'ar', ['forestry', 'yerba mate', 'tourism', 'tea', 'tobacco', 'agriculture'], 'home to Iguazú Falls and yerba mate production'],
+    'neuquen' => ['Neuquén', 'ar', ['oil & gas', 'Vaca Muerta shale', 'fruit', 'tourism', 'wine', 'mining'], 'Argentina\'s energy capital with the Vaca Muerta shale formation'],
+    'rio-negro' => ['Río Negro', 'ar', ['fruit', 'wine', 'tourism', 'oil', 'fishing', 'agriculture'], 'Patagonia\'s fruit and wine producing province'],
+    'salta' => ['Salta', 'ar', ['agriculture', 'mining', 'lithium', 'tourism', 'wine', 'oil'], 'a culturally rich province with growing mining sector'],
+    'san-juan' => ['San Juan', 'ar', ['mining', 'wine', 'olive oil', 'agriculture', 'solar energy', 'tourism'], 'a major gold mining and wine producing province'],
+    'san-luis' => ['San Luis', 'ar', ['manufacturing', 'technology', 'agriculture', 'tourism', 'mining', 'education'], 'a technology-friendly province with strong incentives'],
+    'santa-cruz' => ['Santa Cruz', 'ar', ['oil', 'mining', 'fishing', 'sheep farming', 'tourism', 'wind energy'], 'Patagonia\'s oil and mining heartland'],
+    'santa-fe' => ['Santa Fe', 'ar', ['agriculture', 'soybean', 'manufacturing', 'dairy', 'steel', 'food processing'], 'Argentina\'s agricultural and industrial powerhouse'],
+    'santiago-del-estero' => ['Santiago del Estero', 'ar', ['agriculture', 'cotton', 'livestock', 'forestry', 'soybean', 'tourism'], 'Argentina\'s oldest city with a growing agricultural sector'],
+    'tierra-del-fuego' => ['Tierra del Fuego', 'ar', ['electronics', 'manufacturing', 'fishing', 'tourism', 'oil', 'gas'], 'Argentina\'s electronics manufacturing hub at the end of the world'],
+    'tucuman' => ['Tucumán', 'ar', ['sugar', 'citrus', 'agriculture', 'technology', 'biotechnology', 'education'], 'Argentina\'s sugar capital and biotech emerging hub'],
+
+    // AUSTRALIA
+    'australian-capital-territory' => ['Australian Capital Territory', 'au', ['government', 'education', 'technology', 'defence', 'tourism', 'healthcare'], 'home to Canberra and Australia\'s federal government'],
+    'new-south-wales' => ['New South Wales', 'au', ['finance', 'technology', 'tourism', 'mining', 'agriculture', 'healthcare'], 'Australia\'s most populous state and economic powerhouse'],
+    'northern-territory' => ['Northern Territory', 'au', ['mining', 'tourism', 'defence', 'agriculture', 'fishing', 'energy'], 'Australia\'s frontier territory with rich mineral resources'],
+    'queensland' => ['Queensland', 'au', ['mining', 'tourism', 'agriculture', 'technology', 'education', 'construction'], 'the Sunshine State with a booming tourism and mining sector'],
+    'south-australia' => ['South Australia', 'au', ['wine', 'defence', 'technology', 'mining', 'renewable energy', 'agriculture'], 'Australia\'s wine capital and clean energy leader'],
+    'tasmania' => ['Tasmania', 'au', ['tourism', 'agriculture', 'aquaculture', 'forestry', 'renewable energy', 'food processing'], 'Australia\'s island state known for pristine nature'],
+    'victoria' => ['Victoria', 'au', ['finance', 'technology', 'education', 'healthcare', 'manufacturing', 'tourism'], 'home to Melbourne and Australia\'s cultural capital'],
+    'western-australia' => ['Western Australia', 'au', ['mining', 'oil & gas', 'agriculture', 'technology', 'tourism', 'fisheries'], 'Australia\'s resource state driving the mining boom'],
+
+    // UAE
+    'dubai' => ['Dubai', 'uae', ['real estate', 'tourism', 'finance', 'logistics', 'technology', 'retail'], 'the world\'s business and tourism hub in the Middle East'],
+    'abu-dhabi' => ['Abu Dhabi', 'uae', ['oil & gas', 'finance', 'tourism', 'technology', 'healthcare', 'renewable energy'], 'the UAE\'s capital and wealthiest emirate'],
+    'sharjah' => ['Sharjah', 'uae', ['manufacturing', 'education', 'culture', 'trade', 'real estate', 'tourism'], 'the UAE\'s cultural capital and manufacturing hub'],
+    'ajman' => ['Ajman', 'uae', ['manufacturing', 'trade', 'real estate', 'tourism', 'fishing', 'retail'], 'the UAE\'s smallest emirate with growing business opportunities'],
+    'ras-al-khaimah' => ['Ras Al Khaimah', 'uae', ['manufacturing', 'ceramics', 'tourism', 'real estate', 'pharmaceuticals', 'mining'], 'a fast-growing emirate with strong manufacturing sector'],
+    'fujairah' => ['Fujairah', 'uae', ['oil bunkering', 'mining', 'tourism', 'port services', 'agriculture', 'retail'], 'the UAE\'s only east coast emirate and oil bunkering hub'],
+    'umm-al-quwain' => ['Umm Al Quwain', 'uae', ['fishing', 'agriculture', 'poultry', 'dairy', 'tourism', 'retail'], 'a quiet emirate with growing development projects'],
+    'uae' => ['UAE (Nationwide)', 'uae', ['oil & gas', 'real estate', 'tourism', 'finance', 'technology', 'logistics'], 'the Middle East\'s most diversified economy'],
+
+    // UK
+    'england' => ['England', 'uk', ['finance', 'technology', 'healthcare', 'manufacturing', 'creative industries', 'retail'], 'home to London and the UK\'s largest economy'],
+    'scotland' => ['Scotland', 'uk', ['oil & gas', 'whisky', 'technology', 'finance', 'tourism', 'renewable energy'], 'a tech hub with world-famous whisky industry'],
+    'wales' => ['Wales', 'uk', ['manufacturing', 'technology', 'agriculture', 'tourism', 'steel', 'renewable energy'], 'a growing tech sector with strong manufacturing heritage'],
+    'northern-ireland' => ['Northern Ireland', 'uk', ['technology', 'aerospace', 'agri-food', 'cybersecurity', 'fintech', 'tourism'], 'a rising cybersecurity and fintech hub'],
+
+    // US (50 states)
+    'alabama' => ['Alabama', 'us', ['automotive', 'aerospace', 'agriculture', 'manufacturing', 'healthcare', 'military'], 'a growing automotive and aerospace manufacturing hub'],
+    'alaska' => ['Alaska', 'us', ['oil & gas', 'fishing', 'tourism', 'mining', 'forestry', 'military'], 'America\'s last frontier with rich natural resources'],
+    'arizona' => ['Arizona', 'us', ['technology', 'aerospace', 'tourism', 'real estate', 'healthcare', 'manufacturing'], 'a fast-growing tech and innovation corridor'],
+    'arkansas' => ['Arkansas', 'us', ['agriculture', 'retail', 'manufacturing', 'poultry', 'forestry', 'technology'], 'home to Walmart and a growing retail tech ecosystem'],
+    'california' => ['California', 'us', ['technology', 'entertainment', 'agriculture', 'tourism', 'biotech', 'venture capital'], 'home to Silicon Valley and the world\'s fifth-largest economy'],
+    'colorado' => ['Colorado', 'us', ['technology', 'aerospace', 'tourism', 'energy', 'agriculture', 'cannabis'], 'a top tech hub with thriving outdoor tourism industry'],
+    'connecticut' => ['Connecticut', 'us', ['finance', 'insurance', 'healthcare', 'manufacturing', 'technology', 'education'], 'the insurance capital of America'],
+    'delaware' => ['Delaware', 'us', ['finance', 'chemicals', 'healthcare', 'agriculture', 'tourism', 'technology'], 'America\'s corporate incorporation capital'],
+    'florida' => ['Florida', 'us', ['tourism', 'real estate', 'healthcare', 'technology', 'agriculture', 'aerospace'], 'the Sunshine State with a massive tourism and real estate market'],
+    'georgia' => ['Georgia', 'us', ['logistics', 'film', 'technology', 'agriculture', 'manufacturing', 'fintech'], 'home to Atlanta and a major logistics and film hub'],
+    'hawaii' => ['Hawaii', 'us', ['tourism', 'military', 'agriculture', 'renewable energy', 'real estate', 'fishing'], 'America\'s tropical paradise and premium tourism destination'],
+    'idaho' => ['Idaho', 'us', ['agriculture', 'technology', 'manufacturing', 'mining', 'tourism', 'food processing'], 'a fast-growing tech destination beyond potatoes'],
+    'illinois' => ['Illinois', 'us', ['finance', 'technology', 'manufacturing', 'agriculture', 'healthcare', 'logistics'], 'home to Chicago and a major financial center'],
+    'indiana' => ['Indiana', 'us', ['manufacturing', 'agriculture', 'pharmaceuticals', 'motorsports', 'logistics', 'technology'], 'the Crossroads of America with strong manufacturing'],
+    'iowa' => ['Iowa', 'us', ['agriculture', 'manufacturing', 'insurance', 'finance', 'renewable energy', 'food processing'], 'America\'s agricultural heartland'],
+    'kansas' => ['Kansas', 'us', ['agriculture', 'aviation', 'manufacturing', 'oil', 'healthcare', 'technology'], 'the Air Capital of the World'],
+    'kentucky' => ['Kentucky', 'us', ['automotive', 'bourbon', 'healthcare', 'logistics', 'agriculture', 'manufacturing'], 'the Bourbon Capital with growing automotive sector'],
+    'louisiana' => ['Louisiana', 'us', ['oil & gas', 'tourism', 'shipping', 'agriculture', 'petrochemicals', 'seafood'], 'a major petrochemical and cultural tourism hub'],
+    'maine' => ['Maine', 'us', ['tourism', 'lobster', 'agriculture', 'manufacturing', 'healthcare', 'technology'], 'known for lobster industry and scenic tourism'],
+    'maryland' => ['Maryland', 'us', ['government', 'cybersecurity', 'biotechnology', 'healthcare', 'defence', 'education'], 'America\'s cybersecurity capital near Washington DC'],
+    'massachusetts' => ['Massachusetts', 'us', ['technology', 'biotechnology', 'education', 'healthcare', 'finance', 'robotics'], 'home to Boston\'s innovation corridor and Harvard/MIT'],
+    'michigan' => ['Michigan', 'us', ['automotive', 'manufacturing', 'technology', 'agriculture', 'tourism', 'healthcare'], 'the Motor City state and EV manufacturing leader'],
+    'minnesota' => ['Minnesota', 'us', ['healthcare', 'retail', 'manufacturing', 'agriculture', 'technology', 'finance'], 'home to Mayo Clinic and Fortune 500 companies'],
+    'mississippi' => ['Mississippi', 'us', ['agriculture', 'manufacturing', 'military', 'forestry', 'catfish', 'automotive'], 'a growing manufacturing and agricultural state'],
+    'missouri' => ['Missouri', 'us', ['agriculture', 'manufacturing', 'healthcare', 'finance', 'technology', 'logistics'], 'the Gateway to the West with diverse economy'],
+    'montana' => ['Montana', 'us', ['agriculture', 'mining', 'tourism', 'timber', 'oil', 'technology'], 'Big Sky Country with growing tech and tourism'],
+    'nebraska' => ['Nebraska', 'us', ['agriculture', 'insurance', 'finance', 'manufacturing', 'technology', 'food processing'], 'home to Berkshire Hathaway and major agriculture'],
+    'nevada' => ['Nevada', 'us', ['tourism', 'gaming', 'technology', 'mining', 'renewable energy', 'logistics'], 'home to Las Vegas and a growing tech corridor'],
+    'new-hampshire' => ['New Hampshire', 'us', ['technology', 'manufacturing', 'tourism', 'healthcare', 'education', 'retail'], 'a tax-friendly state with growing tech sector'],
+    'new-jersey' => ['New Jersey', 'us', ['pharmaceuticals', 'finance', 'technology', 'logistics', 'manufacturing', 'healthcare'], 'America\'s medicine cabinet and innovation corridor'],
+    'new-mexico' => ['New Mexico', 'us', ['oil & gas', 'national labs', 'tourism', 'aerospace', 'film', 'agriculture'], 'home to national research labs and space industry'],
+    'new-york' => ['New York', 'us', ['finance', 'technology', 'media', 'fashion', 'tourism', 'healthcare'], 'the financial capital of the world and global business hub'],
+    'north-carolina' => ['North Carolina', 'us', ['technology', 'biotechnology', 'banking', 'agriculture', 'manufacturing', 'education'], 'the Research Triangle state with booming tech sector'],
+    'north-dakota' => ['North Dakota', 'us', ['oil', 'agriculture', 'energy', 'technology', 'manufacturing', 'food processing'], 'an energy powerhouse with low unemployment'],
+    'ohio' => ['Ohio', 'us', ['manufacturing', 'healthcare', 'finance', 'technology', 'agriculture', 'automotive'], 'the Heartland state with major manufacturing base'],
+    'oklahoma' => ['Oklahoma', 'us', ['oil & gas', 'aerospace', 'agriculture', 'manufacturing', 'technology', 'weather technology'], 'America\'s energy and aerospace corridor'],
+    'oregon' => ['Oregon', 'us', ['technology', 'agriculture', 'forestry', 'manufacturing', 'outdoor recreation', 'wine'], 'home to Nike and a growing Silicon Forest'],
+    'pennsylvania' => ['Pennsylvania', 'us', ['healthcare', 'manufacturing', 'technology', 'energy', 'finance', 'education'], 'the Keystone State with world-class healthcare systems'],
+    'rhode-island' => ['Rhode Island', 'us', ['healthcare', 'education', 'defense', 'tourism', 'manufacturing', 'technology'], 'the Ocean State with strong education and defense sectors'],
+    'south-carolina' => ['South Carolina', 'us', ['automotive', 'aerospace', 'tourism', 'manufacturing', 'agriculture', 'military'], 'a growing automotive manufacturing destination'],
+    'south-dakota' => ['South Dakota', 'us', ['agriculture', 'finance', 'tourism', 'healthcare', 'manufacturing', 'technology'], 'a business-friendly state with no corporate income tax'],
+    'tennessee' => ['Tennessee', 'us', ['healthcare', 'music', 'automotive', 'logistics', 'manufacturing', 'technology'], 'the Music City state and healthcare capital'],
+    'texas' => ['Texas', 'us', ['oil & gas', 'technology', 'healthcare', 'manufacturing', 'agriculture', 'aerospace'], 'America\'s second-largest economy and major tech hub'],
+    'utah' => ['Utah', 'us', ['technology', 'healthcare', 'tourism', 'mining', 'aerospace', 'outdoor recreation'], 'the Silicon Slopes tech corridor'],
+    'vermont' => ['Vermont', 'us', ['agriculture', 'tourism', 'manufacturing', 'technology', 'maple syrup', 'dairy'], 'the Green Mountain State with farm-to-table economy'],
+    'virginia' => ['Virginia', 'us', ['government', 'technology', 'defense', 'agriculture', 'finance', 'cybersecurity'], 'America\'s data center capital and tech corridor'],
+    'washington' => ['Washington', 'us', ['technology', 'aerospace', 'agriculture', 'retail', 'cloud computing', 'clean energy'], 'home to Amazon, Microsoft, and Boeing'],
+    'west-virginia' => ['West Virginia', 'us', ['energy', 'mining', 'tourism', 'healthcare', 'manufacturing', 'agriculture'], 'the Mountain State with energy and tourism sectors'],
+    'wisconsin' => ['Wisconsin', 'us', ['manufacturing', 'dairy', 'agriculture', 'healthcare', 'technology', 'insurance'], 'America\'s Dairyland with strong manufacturing'],
+    'wyoming' => ['Wyoming', 'us', ['mining', 'tourism', 'agriculture', 'energy', 'ranching', 'technology'], 'the Cowboy State with blockchain-friendly regulations'],
+];
+
+// Add remaining country regions dynamically based on slug patterns
+// These will be auto-detected from filenames if not in the array
+
+// Service type mapping (same as location-data.php)
+if (!isset($service_types)) {
+    $service_types = [
+        'google-ads-services-agency' => ['Google Ads Services', 'Google Ads management', 'paid search advertising', 'PPC campaigns on Google'],
+        'ppc-services-agency' => ['PPC Services', 'pay-per-click advertising', 'paid advertising campaigns', 'performance marketing'],
+        'social-media-marketing-agency' => ['Social Media Marketing', 'social media management', 'Facebook, Instagram & LinkedIn marketing', 'social brand building'],
+        'local-seo-agency' => ['Local SEO', 'local search optimization', 'Google Business Profile optimization', 'local map rankings'],
+        'ecommerce-seo-agency' => ['E-commerce SEO', 'online store optimization', 'product page SEO', 'e-commerce search rankings'],
+        'content-marketing-agency' => ['Content Marketing', 'content strategy & creation', 'blog writing & SEO content', 'content-driven growth'],
+        'facebook-instagram-ads-agency' => ['Facebook & Instagram Ads', 'Meta advertising', 'social media paid campaigns', 'Facebook & Instagram lead generation'],
+        'youtube-marketing-agency' => ['YouTube Marketing', 'video marketing & YouTube ads', 'YouTube channel growth', 'video advertising'],
+        'ui-ux-design-agency' => ['UI/UX Design', 'user interface & experience design', 'app & web design', 'conversion-focused design'],
+        'landing-page-design-agency' => ['Landing Page Design', 'high-converting landing pages', 'campaign landing pages', 'lead generation pages'],
+        'creative-services-agency' => ['Creative Services', 'graphic design & branding', 'visual identity design', 'marketing creatives'],
+        'video-editing-agency' => ['Video Editing', 'professional video production', 'ad video creation', 'social media video editing'],
+        'digital-marketing-agency' => ['Digital Marketing', 'full-service digital marketing', '360-degree digital growth', 'online marketing solutions'],
+        'seo-company' => ['SEO Services', 'search engine optimization', 'organic search rankings', 'website SEO audit & optimization'],
+        'web-development-agency' => ['Web Development', 'custom website development', 'responsive web design', 'website design & development'],
+        'wordpress-website-development-agency' => ['WordPress Development', 'WordPress website design', 'custom WordPress solutions', 'WordPress CMS development'],
+        'ecommerce-website-development-agency' => ['E-commerce Website Development', 'online store development', 'Shopify & WooCommerce development', 'e-commerce web solutions'],
+    ];
+}
+?>

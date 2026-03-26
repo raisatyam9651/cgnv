@@ -1,7 +1,7 @@
 <header class="header">
           <div class="header-item item-left">
             <div class="logo">
-              <a href="/index"><img loading="lazy" src="/images/Our/logo/cognivic-logo.png" alt="" style="width: 170px;" /></a>
+              <a href="/"><img loading="lazy" src="/images/Our/logo/cognivic-logo.png" alt="Cognivic Digital - Digital Marketing Agency in Gurgaon" style="width: 170px;" /></a>
             </div>
           </div>
 			  
@@ -69,7 +69,7 @@
                         </li>
                       </ul>
                       <div class="menu-right-img">
-                        <img loading="lazy" src="/images/menu-icon/organic-marketing.webp" alt="" />
+                        <img loading="lazy" src="/images/menu-icon/organic-marketing.webp" alt="Organic Marketing Services - SEO, Local SEO, E-commerce SEO, Content Marketing" />
                       </div>
                     </div>
                   </div>
@@ -136,7 +136,7 @@
                         </li>
                       </ul>
                       <div class="menu-right-img">
-                        <img loading="lazy" src="/images/menu-icon/performance-marketing.webp" alt="" />
+                        <img loading="lazy" src="/images/menu-icon/performance-marketing.webp" alt="Performance Marketing Services - Google Ads, PPC, Social Media, Meta Ads" />
                       </div>
                     </div>
                   </div>
@@ -203,7 +203,7 @@
                         </li>
                       </ul>
                       <div class="menu-right-img">
-                        <img loading="lazy" src="/images/menu-icon/lead-generation.webp" alt="" />
+                        <img loading="lazy" src="/images/menu-icon/lead-generation.webp" alt="Creative & Design Services - Web Development, UI/UX, Landing Pages, Video Editing" />
                       </div>
                     </div>
                   </div>
@@ -214,7 +214,7 @@
                 </li>
                 <li class="d-mob-none">
                   <a href="tel:7737861358" class="top-phone">
-                    <img alt="Header 2 graphic" loading="lazy" src="/images/phone.svg" width="23" />
+                    <img alt="Call Cognivic Digital" loading="lazy" src="/images/phone.svg" width="23" />
                   </a>
                 </li>
                 <li>
@@ -229,7 +229,7 @@
           <div class="mobile-top">
             <div class="mob-phone d-lg-none d-block mr-2">
               <a href="tel:7737861358" onclick="dataLayer.push({'event': 'call-click'});" class="top-phone">
-                <img alt="Header 2 graphic" loading="lazy" src="/images/phone.svg" width="23">
+                <img alt="Call Cognivic Digital" loading="lazy" src="/images/phone.svg" width="23">
               </a>
             </div>
             <div class="mobile-menu-trigger">

@@ -3,9 +3,10 @@
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
-  <title>About Cognivic Digital</title>
-  <meta name="description" content="One Stop Destination for All Your Digital Marketing Services  | Cognivic Digital">
-  <meta name='robots' content='index, follow' />
+  <title>About Cognivic Digital | #1 Digital Marketing Agency in Gurgaon Since 2020</title>
+  <meta name="description" content="Learn about Cognivic Digital - the #1 digital marketing agency in Gurgaon, India. With 5000L+ revenue generated, 7.8X ROAS & 1000+ happy clients, we deliver result-driven SEO, PPC, social media & web development services. Meet our expert team!">
+  <meta name="keywords" content="about Cognivic Digital, digital marketing agency Gurgaon, about us, our team, digital marketing experts India, performance marketing company, SEO experts, PPC specialists, social media agency, brand growth partner, marketing agency near me">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
   <meta charset="utf-8">
   <?php include('head-links.php'); ?>
 </head>
@@ -32,7 +33,7 @@
               </div>
               <div class="col-md-5 p-0">
                 <div class="right-img" data-aos="zoom-in">
-                  <img loading="lazy" src="images/about-us/about-home.webp" alt="" class="w-100 animtate-x" />
+                  <img loading="lazy" src="images/about-us/about-home.webp" alt="About Cognivic Digital - #1 Digital Marketing Agency Team in Gurgaon" class="w-100 animtate-x" />
                 </div>
               </div>
             </div>
@@ -45,9 +46,9 @@
           <div class="row">
             <div class="col-md-5 col-xl-5">
               <div class="leftimg" data-aos="fade">
-                <img loading="lazy" src="images/about-us/woman-showing.webp" alt="" class="w-100" />
+                <img loading="lazy" src="images/about-us/woman-showing.webp" alt="Cognivic Digital Marketing Expert" class="w-100" />
                 <div class="pie-img">
-                  <img loading="lazy" src="images/pie.html" alt="" data-aos="zoom-in" />
+                  <img loading="lazy" src="images/pie.html" alt="Performance analytics" data-aos="zoom-in" />
                 </div>
               </div>
             </div>
@@ -108,7 +109,7 @@
                 </div>
               </div>
               <div class="accordion-image">
-                <img alt="About Us graphic" loading="lazy" src="images/mission.webp" />
+                <img alt="About Us - Cognivic Digital trusted client" loading="lazy" src="images/mission.webp" />
               </div>
             </div>
             <div class="accordion-slides-item">
@@ -130,7 +131,7 @@
                 </div>
               </div>
               <div class="accordion-image show">
-                <img alt="About Us graphic" loading="lazy" src="images/vision.webp" />
+                <img alt="About Us - Cognivic Digital trusted client" loading="lazy" src="images/vision.webp" />
               </div>
             </div>
             <div class="accordion-slides-item">
@@ -153,7 +154,7 @@
                 </div>
               </div>
               <div class="accordion-image">
-                <img alt="About Us graphic" loading="lazy" src="images/value.webp" />
+                <img alt="About Us - Cognivic Digital trusted client" loading="lazy" src="images/value.webp" />
               </div>
             </div>
           </div>
