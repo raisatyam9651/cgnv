@@ -14,6 +14,15 @@ RewriteCond %{REQUEST_METHOD} !POST
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.php [NC]
 RewriteRule ^ %1 [R=301,L,NE]
 
+
+RewriteRule ^(seo-company-in-(vadodara|mandi|mangaluru|khammam|warangal|hyderabad|kharagpur|siliguri|bardhaman|asansol|kolkata|durgapur|malda|guntur|kurnool|nellore|anantapur|chittoor|kadapa|vijayawada|visakhapatnam|karimnagar|nizamabad|bilaspur|bhilai|raipur|rourkela))/?$ https://www.cognivicdigital.com/ [R=301,L]
+
+RewriteRule ^(ecommerce-website-development-agency-in-new-(bhilai|bhubaneswar|mandi|ajmer|manipur|gaya|thiruvananthapuram|bokaro|jamshedpur|salem|kadapa|kolhapur|vijayawada|bihar|ballari|ghaziabad|ranchi|udupi|bhatinda|belagavi|panaji|uttarakhand|meghalaya|jalgaon|solapur|amritsar|karnal|kannur|surat|jammu|chennai|hisar|malda|latur|kollam|odisha|jamnagar|punjab|jorhat|davanagere|nagaland|shivamogga|khandwa|chandigarh|satna|hazaribagh|moga|ahmedabad|mysuru|dibrugarh|kozhikode|alappuzha|shimla|tezpur|alwar|mangaluru|yamunanagar|rewa|gwalior|silchar|gurgaon|gujarat|thrissur|sikkim|nizamabad|tripura|asansol|mehsana|pune|indore|ratlam|raipur|patna|tiruchirappalli|bharatpur|hoshiarpur|bengaluru|purnia|sambalpur|gandhinagar|sriganganagar|guwahati|nellore|maharashtra|guntur|tamil-nadu|rajkot|tirunelveli|faridabad|thoothukudi|bhuj|kerala|nanded|lucknow|bardhaman|palakkad|shillong|rajasthan|ludhiana|vellore|goa|bhilwara|greater-noida|bikaner|kota|tumakuru))/?$ https://www.cognivicdigital.com/ [R=301,L]
+
+RewriteRule ^(wordpress-website-development-agency-in-new-(mizoram|lucknow|tamil-nadu|tezpur|guwahati|pathankot|karnataka|kurnool|bhagalpur|sriganganagar|chandrapur|west-bengal|shillong|thrissur|ambala|tumakuru|kharagpur|kochi|new-delhi|bikaner|muzaffarpur|dehradun|solapur|jorhat|siliguri|madhya-pradesh|vadodara|salem|patiala|dharamshala|morbi|jabalpur|visakhapatnam|kannur|panipat|indore|rajkot|hubballi|thiruvananthapuram|ajmer|meghalaya|agartala|tripura|gaya|bengaluru|rourkela|chittoor|telangana|andhra-pradesh|shimla|srinagar|jodhpur|anantapur|nagaland|ratlam|vijayawada|tiruchirappalli|udupi|jalandhar|yamunanagar|thanjavur|bhopal|manipur|dibrugarh|shivamogga|chandigarh|chhattisgarh|assam|mysuru|haryana|brahmapur|bardhaman|uttar-pradesh|bokaro|dhanbad|tirunelveli|nellore|margao|nashik|bhavnagar|rajasthan|ahmednagar|bilaspur|udaipur|karimnagar|warangal|arunachal-pradesh|sambalpur|guntur|surat|jamshedpur|gandhinagar|gujarat|sikar|palakkad|ludhiana|bhubaneswar|hisar|satna|karnal|latur|goa|ranchi|kerala|aurangabad|asansol|bharatpur|bihar))/?$ https://www.cognivicdigital.com/ [R=301,L]
+
+RewriteRule ^(web-development-agency-in-new-(chandigarh|ludhiana|india|odisha))/?$ https://www.cognivicdigital.com/ [R=301,L]
+
 # Enable GZIP Compression for faster page load
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml text/javascript
